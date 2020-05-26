@@ -1,0 +1,16026 @@
+# Webalizer V2.23-08 Incremental Data - 05/18/2020 18:06:52
+2020 5 18 18 6 52
+6292 5784 684 274 625 5911 182729921 1489 821 0
+80 1 333 1 18
+292 273 4914512 55 65 48
+65 55 698780 34 35 31
+244 209 4078876 49 78 50
+641 633 15756765 57 132 50
+200 188 4681687 53 46 39
+261 251 8917707 50 45 39
+60 35 471547 41 41 31
+207 199 4706474 39 44 39
+341 314 6587226 98 164 74
+172 159 3827438 59 51 37
+403 376 9853966 65 48 35
+460 438 31381901 47 58 38
+516 502 15320351 45 144 33
+570 513 27428028 71 57 42
+870 774 22930267 71 198 69
+278 249 5621069 51 58 44
+242 205 7873833 53 58 41
+470 411 7679494 80 167 81
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+70 54 1556896 47
+115 111 2739831 25
+80 59 620286 40
+50 42 480403 32
+100 95 1632159 27
+114 91 1493905 50
+169 157 4503315 25
+534 493 9661713 168
+517 473 16067550 105
+321 306 6579545 86
+805 784 28818942 102
+391 357 10030916 45
+244 232 4935356 38
+192 177 4274816 73
+363 344 23688171 53
+483 444 15887086 57
+248 229 8357430 75
+251 238 5942811 42
+167 140 3040066 67
+229 211 5509336 74
+92 79 1247090 27
+98 85 11740012 30
+368 318 9976047 54
+291 265 3946239 147
+9
+0
+0
+5784
+0
+0
+0
+0
+0
+27
+0
+95
+0
+0
+33
+0
+0
+0
+0
+0
+0
+339
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+# -urls- 
+/admin/images/forms/radio.png
+0 1 12900528 1655 0 0
+/admin/images/icon5.png
+0 1 12897728 4614 0 0
+/admin/js/plugins/forms/jquery.tagsinput.min.js
+0 1 12883312 2442 0 0
+/admin/js/phaohoa.js
+0 1 12886688 3273 0 0
+/upload/sanpham/flexo-ctp-1453.jpg
+0 2 121453864052084 85853 0 0
+/admin/ckeditor/ckeditor.js
+0 1 12882000 171708 0 0
+/upload/hinhanh/banner-ve-3071.png
+0 5 6134572 71216 0 0
+/san-pham/ban-in-ky-thuat-so-32.html
+0 20 8025977485927645184 242574 10 6
+/san-pham/may-chup-ban-in-dang-trong-dang-phang-31.html
+0 16 0 177672 7 3
+/upload/hinhthem/tai-xuong-1459.jpg
+0 2 0 14452 0 0
+/images/dload.png
+0 1 0 3121 0 0
+/js/jquery.min.js
+0 95 0 3436773 0 0
+/upload/sanpham/ctp5744_155x180.jpg
+0 5 0 91925 0 0
+/admin/media/images/check.png
+0 1 12901440 1755 0 0
+/images/vi.png
+0 61 0 112127 0 0
+/admin/js/external.js
+0 1 12879472 643 0 0
+/admin/js/plugins/forms/jquery.dualListBox.js
+0 1 12885168 1833 0 0
+/images/ajax-loader.gif
+0 42 0 177805 0 0
+/san-pham/polymer-long-34.html
+0 29 0 556025 17 3
+/upload/sanpham/chukoh-fabric-9125.jpg
+0 7 0 4580350 0 0
+/admin/images/icons/sort.png
+0 1 12901152 1259 0 0
+/admin/js/jquery.price_format.2.0.js
+0 1 12879664 2661 0 0
+/admin/images/backgrounds/subNavBg.jpg
+0 1 12897520 3083 0 0
+/admin/images/addFiles.png
+0 1 12900736 1754 0 0
+/san-pham/test-53.html
+0 15 0 168064 6 2
+/admin/ckeditor/contents.css
+0 1 12905168 1116 0 0
+/style.css
+0 85 0 431584 0 0
+/san-pham/den-chop-led-2000-28.html
+0 16 0 205898 7 3
+/san-pham/may-ghi-ban-flexo-ctp-46.html
+0 15 0 169236 6 5
+/js/jquery-migrate-1.2.1.min.js
+0 90 0 320243 0 0
+/dang-ky.html
+0 4 0 38032 1 0
+/admin/media/images/bds.png
+0 1 12900944 4964 0 0
+/upload/sanpham/lo-lan-muc-co-day-song-huong9017_220x123.jpg
+0 7 0 111377 0 0
+/js/jquery.cookie.js
+0 84 0 161751 0 0
+/san-pham/giot-nuoc-ma-thuat-38.html
+0 17 0 214931 8 4
+/images/tt.png
+0 64 0 129710 0 0
+/upload/hinhthem/chukoh-polyamind-68213694_230x230.jpg
+0 1 0 49782 0 0
+/upload/hinhthem/1200x400-9736.png
+0 1 0 154001 0 0
+/admin/media/images/bg_login.png
+0 1 12887648 1187 0 0
+/upload/sanpham/strip-blade-holder3563_203x180.jpg
+0 4 0 85912 0 0
+/admin/images/backgrounds/topnavBg.png
+0 1 12887440 3017 0 0
+/admin/ckeditor/plugins/icons.png
+0 1 12904736 24328 0 0
+/admin/images/sidebarSep.png
+0 1 12896432 1411 0 0
+/admin/images/backgrounds/leftTop.png
+0 1 12896912 1175 0 0
+/admin/images/question-button.png
+0 1 12899872 915 0 0
+/upload/sanpham/chukoh-125-118-1152825_220x98.jpg
+0 2 0 25924 0 0
+/upload/hinhthem/sonyxperiaz3trang1-6790.jpg
+0 2 0 55374 0 0
+/san-pham/may-ghi-ban-kem-ctp-rosetta-45.html
+0 16 0 201901 8 3
+/tin-tuc/phoi-do-den-trang-cuc-chat-tu-fashionista-noi-tieng-the-gioi-10.html
+0 7 0 84795 6 4
+/san-pham/ban-in-rua-nuoc-rua-dung-moi-33.html
+0 16 1546863459 177407 8 4
+/upload/sanpham/swedcut-bevel1978_187x180.jpg
+0 4 23708 90094 0 0
+/images/refresh.png
+0 5 2712857166392405558 12024 0 0
+/upload/sanpham/uv-lamp-4880.jpg
+0 2 8097996602195979830 831152 0 0
+/upload/hinhthem/tai-xuong-2372.jpg
+0 1 3545231212035440640 7226 0 0
+/images/phone.png
+0 3 3833175930804776241 17428 0 0
+/upload/sanpham/chukoh-agf-7213.jpg
+0 7 3688503268909330734 5411658 0 0
+/font/RobotoCondensed-Bold.ttf
+0 58 0 8238322 0 0
+/admin/js/plugins/multiupload/assets/fonts/jquery.filer-icons/jquery-filer.css
+0 1 12886512 7199 0 0
+/upload/sanpham/asasl1_036280_210x180.png
+0 1 0 159140 0 0
+/admin/media/images/bg_login2.png
+0 1 12887776 11715 0 0
+/timthumb.php
+0 1220 0 80425527 0 0
+/admin/images/backgrounds/bg.jpg
+0 1 12886304 4281 0 0
+/admin/css/datatable.css
+0 1 12880224 2240 0 0
+/upload/sanpham/asasl1_03-5582.png
+0 4 0 194808 0 0
+/san-pham/nokia-16/
+0 17 0 177533 10 3
+/san-pham/sony-14/
+0 11 0 119327 3 1
+/font/Roboto-Regular.ttf
+0 49 0 7134071 0 0
+/images/back_to_top.png
+0 41 0 50588 0 0
+/images/i_search.png
+0 62 0 87642 0 0
+/upload/sanpham/untitled-11-recovered-2407.png
+0 5 0 21933 0 0
+/admin/images/backgrounds/subNavBg_active.jpg
+0 1 12899008 3014 0 0
+/upload/sanpham/h7-0080.jpg
+0 3 0 80464 0 0
+/upload/sanpham/ctp5812_155x180.jpg
+0 7 0 128687 0 0
+/images/gg.png
+0 61 0 131820 0 0
+/images/skype.png
+0 3 0 12411 0 0
+/upload/sanpham/lo-lan-muc-co-day-song-huong-3638.jpg
+0 2 0 5437 0 0
+/css/slick-theme.css
+0 79 0 95355 0 0
+/images/loader.gif
+0 1 0 2876 0 0
+/upload/sanpham/chukoh-polyamind0236_210x180.jpg
+0 4 0 146774 0 0
+/upload/sanpham/chukoh-agf4265_220x169.jpg
+0 4 0 143818 0 0
+/admin/images/icons/topnav/mainWebsite.png
+0 1 12886880 1478 0 0
+/js/cloudzoom.js
+0 29 0 290842 0 0
+/admin/js/plugins/spinner/jquery.mousewheel.js
+0 1 12882208 1252 0 0
+/cgi-sys/suspendedpage.cgi
+0 1 0 4319 1 0
+/admin/js/plugins/tables/datatable.js
+0 1 12884736 53169 0 0
+/san-pham/may-ghi-ban-nhiet-44.html
+0 15 0 166357 6 2
+/css/slick.css
+0 78 0 68734 0 0
+/san-pham/den-chop-unilux-lol-5-39.html
+0 16 0 177255 5 2
+/san-pham/dao-gat-muc-36.html
+0 19 0 205177 10 3
+/upload/news/sony-xperia-z2-s58370_130x130.jpg
+0 2 0 22774 0 0
+/san-pham/ga-do-dao-37.html
+0 13 3760837982843450930 149077 4 3
+/admin/js/plugins/multiupload/css/themes/jquery.filer-dragdropbox-theme.css
+0 1 12878464 1365 0 0
+/admin/css/reset.css
+0 1 12880432 1411 0 0
+/admin/js/plugins/multiupload/jquery.filer.min.js
+0 1 12879792 5913 0 0
+/upload/sanpham/ctp-aluminium-flexo-plate-2870.JPG
+0 1 86468008955163182 118146 0 0
+/admin/images/article-icon.png
+0 1 12895392 3566 0 0
+/admin/css/jquery-ui-1.8.24.custom.css
+0 1 12881360 6417 0 0
+/upload/sanpham/special-strobe-5095.png
+0 3 4121076233532342272 353891 0 0
+/upload/sanpham/chukoh-polyamind-4326.jpg
+0 2 3615884966770049024 2048449 0 0
+/upload/hinhthem/chukoh-polyamind-6821.jpg
+0 4 23541 1797452 0 0
+/admin/js/ajax.js
+0 1 12886112 525 0 0
+/san-pham/bang-keo-quan-lo-asf125118115mx-27.html
+0 16 8515853249979446387 231239 6 5
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+0 31 3688780367280549425 392968 14 8
+/upload/hinhthem/sonyxperiaz3trang1-5751.jpg
+0 1 0 27687 0 0
+/ajax/sanpham.php
+0 3 0 1315 0 0
+/upload/news/dang-ky-tai-khoan-facebook1581_130x130.png
+0 3 0 266939 0 0
+/upload/sanpham/asasl1_03-3502.png
+0 1 0 25805 0 0
+/admin/ckeditor/lang/en.js
+0 1 12902720 7440 0 0
+/js/jquery.dcjqaccordion.2.7.min.js
+0 83 0 126812 0 0
+/admin/images/icon7.png
+0 1 12898432 5693 0 0
+/san-pham/bong-den-chup-ban----uva-uv-c-30.html
+0 18 0 196371 8 2
+/css/popup.css
+0 98 0 55311 0 0
+/admin/images/tipsy.gif
+0 1 12898816 298 0 0
+/mantainance.html
+0 4 0 37122 4 4
+/upload/sanpham/h79396_180x180.jpg
+0 4 0 114524 0 0
+/upload/sanpham/asasl1_03-1300.png
+0 2 0 41798 0 0
+/upload/sanpham/untitled-11-recovered-5709.png
+0 5 0 21933 0 0
+/upload/sanpham/chukoh-fabric4149_220x174.jpg
+0 2 0 56862 0 0
+/upload/sanpham/song-tu_aclv-7934.jpg
+0 6 0 1309722 0 0
+/upload/sanpham/plate-making-machine-0246.jpg
+0 1 0 110048 0 0
+/admin/js/js_admin.js
+0 1 12885536 2924 0 0
+/san-pham/den-chop-unilux-7
+0 16 0 202286 8 4
+/san-pham/samsung-15/
+0 10 0 100493 4 1
+/admin/js/jquery-ui.min.js
+0 1 12883536 115053 0 0
+/upload/sanpham/11111-8881.jpg
+0 4 0 944435 0 0
+/admin/
+0 19 0 67556 2 1
+/admin/css/main.css
+0 1 12878864 21207 0 0
+/css/swipebox.css
+0 23 0 42944 0 0
+/admin/images/icon10.png
+0 1 12895056 7740 0 0
+/admin/js/plugins/forms/jquery.validationEngine-en.js
+0 1 12882864 2548 0 0
+/upload/hinhthem/hinhnendl-3119.jpg
+0 1 0 88144 0 0
+/admin/css/ui_custom.css
+0 1 12880832 6476 0 0
+/images/en.png
+0 63 0 126674 0 0
+/js/slick.min.js
+0 92 0 1040878 0 0
+/upload/hinhanh/banner-asa-9329.png
+0 68 0 917152 0 0
+/upload/sanpham/special-strobe7519_220x161.png
+0 3 0 477420 0 0
+/upload/sanpham/flexo-ctp1453_155x180.jpg
+0 7 0 132671 0 0
+/admin/images/arrow.gif
+0 1 12897920 1336 0 0
+/js/plugins-scroll.js
+0 88 4051320158809030912 542731 0 0
+/upload/hinhanh/banner-asa-7028.png
+0 65 3472329387149505070 931457 0 0
+/upload/sanpham/asasl1_034663_207x180.png
+0 3 0 477420 0 0
+/sources/captcha.php
+0 7 3330472608808384302 16545 0 0
+/images/1.png
+0 8 28015 17814 0 0
+/admin/images/icons/dark/pencil.png
+0 1 12895600 1513 0 0
+/admin/ckeditor/skins/office2013/editor.css
+0 1 12902496 5278 0 0
+/san-pham/chukoh-1
+0 19 8443808823138086760 226241 7 4
+/ho-tro.html
+0 25 3531103582835179520 233115 15 13
+/san-pham/sony-13/
+0 13 0 102573 4 0
+/upload/sanpham/asasl1_03-5282.png
+0 1 0 58873 0 0
+/upload/sanpham/polymer-long-5332.jpg
+0 3 0 90331 0 0
+/upload/hinhthem/2130821779116630-1361.jpg
+0 2 0 236304 0 0
+/upload/hinhthem/sonyxperiaz2s5-1442.jpg
+0 3 0 72412 0 0
+/san-pham/vai-nhiet-chukoh-agf-23.html
+0 25 0 395128 13 5
+/js/jquery.mmenu.min.all.js
+0 83 0 891393 0 0
+/images/facebook.png
+0 46 0 143147 0 0
+/admin/images/icon8.png
+0 1 12898320 7234 0 0
+/upload/sanpham/strip-blade-holder-5535.jpg
+0 2 0 1179977 0 0
+/admin/js/function.js
+0 1 12885920 1411 0 0
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+0 24 0 304962 10 3
+/upload/sanpham/ctp-9298.jpg
+0 3 0 36055 0 0
+/admin/css/fullcalendar.css
+0 1 12880624 2526 0 0
+/images/twitter.png
+0 51 0 189185 0 0
+/upload/sanpham/chukoh-125-118-115-1402.jpg
+0 4 0 1925771 0 0
+/upload/news/tai-xuong6190_130x130.jpg
+0 2 0 27406 0 0
+/upload/sanpham/asasl1_034045_220x154.png
+0 1 0 159166 0 0
+/admin/ckeditor/plugins/pbckcode/dialogs/PBSyntaxHighlighter.js
+0 1 0 679 0 0
+/tin-tuc.html
+0 18 0 164037 7 5
+/admin/js/plugins/ui/jquery.sourcerer.js
+0 1 12884944 2728 0 0
+/admin/js/plugins/ui/jquery.tipsy.js
+0 1 12884384 2265 0 0
+/images/icons.png
+0 2 0 1966 0 0
+/admin/images/forms/checkbox.png
+0 1 12901568 1456 0 0
+/admin/images/icon4.png
+0 1 12896640 10187 0 0
+/san-pham/dell-10/
+0 12 0 98465 5 1
+/admin/ckeditor/config.js
+0 1 12902064 1409 0 0
+/admin/images/product-icon.png
+0 1 12896224 698 0 0
+/admin/js/jquery.minicolors.js
+0 1 12880016 7564 0 0
+/admin/images/backgrounds/breadcrumbArrow.png
+0 1 12899520 1288 0 0
+/images/yahoo.png
+0 3 0 12330 0 0
+/admin/js/jquery-1.11.2.min.js
+0 1 12882512 33585 0 0
+/admin/ckeditor/plugins/youtube/lang/en.js
+0 1 12903280 744 0 0
+/css/tab.css
+0 22 0 12411 0 0
+/upload/sanpham/untitled-11-recovered-1110.png
+0 5 0 21933 0 0
+/upload/sanpham/lotus129-7360.jpg
+0 6 0 814020 0 0
+/admin/js/plugins/forms/jquery.uniform.js
+0 1 12882720 8086 0 0
+/san-pham/dao-gat-muc-swedcut-h7-29.html
+0 20 0 214601 9 4
+/js/jquery.swipebox.js
+0 27 0 170107 0 0
+/san-pham/ban-in-jet-11
+0 18 0 184951 10 1
+/admin/css/prettyPhoto.css
+0 1 12881040 3026 0 0
+/js/ImageScroller.js
+0 84 0 97463 0 0
+/admin/images/loader.gif
+0 1 12887104 3450 0 0
+/upload/sanpham/asasl1_035678_175x180.png
+0 7 0 1114136 0 0
+/san-pham/bang-keo-nhiet-chukoh-asf121110-fr-26.html
+0 25 3274232576230110769 261949 13 7
+/admin/ckeditor/plugins/pbckcode/dialogs/style.css
+0 1 12905376 714 0 0
+/san-pham/may-ghi-ban-hg-korea-2
+0 20 8026098927956656128 199804 8 4
+/gioi-thieu/tam-nhin-su-menh-15.html
+0 16 4721728445773787438 143572 5 3
+/admin/images/backgrounds/titleBg.png
+0 1 12898112 3051 0 0
+/admin/images/icons/dark/users.png
+0 1 12900320 1519 0 0
+/admin/images/logo.png
+0 1 12894704 2184 0 0
+/js/jquery.hoverIntent.minified.js
+0 82 3545512876950434349 85290 0 0
+/san-pham/dao-gat-muc-swedcut-10
+0 23 389693114369 228685 10 3
+/admin/ckeditor/plugins/uicolor/yui/yui.js
+0 1 12903888 31182 0 0
+/upload/sanpham/asasl1_03-2261.png
+0 5 396549760769 230686 0 0
+/admin/css/elfinder.css
+0 1 12881248 4237 0 0
+/admin/ckeditor/skins/office2013/icons.png
+0 1 12904432 10709 0 0
+/admin/js/plugins/wizard/jquery.form.js
+0 1 12883968 6154 0 0
+/js/ImageTooltip.js
+0 87 0 218977 0 0
+/upload/sanpham/logo-unilux-9207.png
+0 1 3329901966552282161 5383 0 0
+/images/google.png
+0 45 0 200823 0 0
+/images/icon_menu.png
+0 16 0 357514 0 0
+/upload/sanpham/asasl1_03-4626.png
+0 2 0 83738 0 0
+/admin/images/backgrounds/bodyBg.png
+0 1 12896016 5915 0 0
+/upload/sanpham/asasl1_034183_183x180.png
+0 6 0 845639 0 0
+/
+0 516 0 6889055 428 157
+/admin/js/plugins/multiupload/css/jquery.filer.css
+0 1 12878640 4737 0 0
+/images/fb.png
+0 62 0 126958 0 0
+/admin/ajax.php
+0 1 12892672 463 0 0
+/upload/sanpham/catalog-ly-thuy-tinh-thai-lan-ug---thuy-huong-2397-1967.pdf
+0 5 0 23005840 0 0
+/admin/images/icons/iconHome.gif
+0 1 12899392 721 0 0
+/images/next_xam.png
+0 7 0 9555 0 0
+/images/noimage.png
+0 2 0 13348 0 0
+/admin/images/icon3.png
+0 1 12897120 7696 0 0
+/admin/images/ui/usualButtons.png
+0 1 12899664 2144 0 0
+/admin/js/plugins/forms/jquery.validationEngine.js
+0 1 12883088 13963 0 0
+/admin/ckeditor/styles.js
+0 1 12902848 1663 0 0
+/admin/media/scripts/jquery.ps-color-picker.min.js
+0 1 12881568 6350 0 0
+/dang-nhap.html
+0 5 0 66816 0 0
+/admin/images/icons/dark/files.png
+0 1 12887312 1512 0 0
+/css/jquery.mmenu.all.css
+0 74 0 552524 0 0
+/upload/sanpham/swedcut-bevel-2710.jpg
+0 4 0 2377899 0 0
+/admin/images/icon1.png
+0 1 12898624 5397 0 0
+/admin/ckeditor/skins/office2013/skin.js
+0 1 12902272 527 0 0
+/upload/hinhanh/asasl11_02-70450752_31x32.png
+0 40 0 177864 0 0
+/admin/css/chosen.css
+0 1 12869072 2881 0 0
+/upload/sanpham/asasl1_033425_217x180.png
+0 3 0 477420 0 0
+/admin/ckeditor/plugins/youtube/plugin.js
+0 1 12903056 2938 0 0
+/admin/images/icons/dark/close.png
+0 1 12895808 1539 0 0
+/gioi-thieu.html
+0 26 0 220182 14 8
+/css/cloudzoom.css
+0 25 0 19932 0 0
+/upload/sanpham/asasl1_03-5202.png
+0 10 0 247199 0 0
+/css/default.css
+0 90 0 203821 0 0
+/admin/ckeditor/plugins/youtube/images/icon.png
+0 1 12905024 660 0 0
+/admin/images/backgrounds/navItemBg.png
+0 1 12897312 11542 0 0
+/images/menu_gach.png
+0 37 0 48257 0 0
+/san-pham/acer-12/
+0 16 0 169513 8 4
+/robots.txt
+0 228 0 68145 0 0
+/admin/js/plugins/ui/jquery.collapsible.min.js
+0 1 12884592 1530 0 0
+/upload/sanpham/song-tu_aclv-1167.jpg
+0 4 0 1293059 0 0
+/san-pham/bang-keo-polyimind-api114a-frcopper-clad-cgf-51.html
+0 15 0 275393 4 2
+/gioi-thieu/gioi-thieu-ve-cong-ty-14.html
+0 12 0 111870 3 4
+/quen-mat-khau.html
+0 4 0 35724 1 0
+/admin/images/icons/topnav/logout.png
+0 1 12895264 1500 0 0
+/admin/js/plugins/wizard/jquery.validate.min.js
+0 1 12884096 6805 0 0
+/san-pham/den-led-3-dc-kiem-pham-21.html
+0 14 8444939129677361783 199085 5 2
+/images/prev.png
+0 42 10068642719937408565 108227 0 0
+/js/my_script.js
+0 97 3977009902444434477 146532 0 0
+/san-pham.html
+0 42 3330749672971382327 499998 20 13
+/images/youtube.png
+0 45 8675450682443640434 171959 0 0
+/images/yt.png
+0 62 7002367845060456051 132290 0 0
+/lien-he.html
+0 29 3328779365196706049 326958 14 10
+/san-pham/ten-san-pham-25.html
+0 18 3271149782977045103 255540 8 1
+/admin/js/plugins/tables/tablesort.min.js
+0 1 12884240 5151 0 0
+/san-pham/den-chop-uv-led-unilux-40.html
+0 17 0 186669 8 0
+/admin/js/plugins/colorpick/colpick.js
+0 1 12881792 5230 0 0
+/admin/js/plugins/forms/chosen.jquery.min.js
+0 1 12883744 6943 0 0
+/admin/css/jquery.minicolors.css
+0 1 12879264 79841 0 0
+/admin/js/plugins/colorpick/colpick.css
+0 1 12879056 2302 0 0
+/admin/ckeditor/plugins/uicolor/yui/assets/yui.css
+0 1 12903424 1269 0 0
+/upload/sanpham/polymer-long5156_220x165.jpg
+0 1 0 21017 0 0
+/upload/sanpham/asasl1_036986_208x180.png
+0 3 0 477446 0 0
+/admin/images/icons/dark/list.png
+0 1 12901776 3067 0 0
+/admin/js/custom.js
+0 1 12885728 3662 0 0
+/admin/js/plugins/ui/jquery.timeentry.min.js
+0 1 12885392 5679 0 0
+/tin-tuc/mix-do-he-sanh-dieu-nhu-tin-do-thoi-trang-nhi-9.html
+0 6 0 73540 4 2
+/admin/ckeditor/plugins/oembed/libs/jquery.oembed.min.js
+0 1 0 12810 0 0
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-40-77-167-204.search.msn.com
+0 8 8 35202 1 1588620578
+/gioi-thieu.html
+fetcher17-5.go.mail.ru
+0 1 1 288 0 0
+-
+123.22.158.255
+0 25 25 136352 1 1588362992
+/
+ppp-58-8-64-90.revip2.asianet.co.th
+0 1 1 9284 1 1589205880
+/
+192.119.160.100
+0 1 1 9225 1 1589486248
+/
+ip-54-36-148-40.a.ahrefs.com
+0 1 1 10360 1 1589062868
+/san-pham/bang-keo-quan-lo-asf125118115mx-27.html
+fwdproxy-ftw-017.fbsv.net
+0 2 2 30884 1 1588511727
+/san-pham/polymer-long-34.html
+159.89.137.243
+0 4 0 1913 0 0
+-
+bot-103-131-71-22.coccoc.com
+0 1 1 288 0 0
+-
+ip-54-36-150-108.a.ahrefs.com
+0 1 1 7648 1 1588375390
+/gioi-thieu.html
+crawl-66-249-79-205.googlebot.com
+0 25 18 168926 11 1589548465
+/gioi-thieu/tam-nhin-su-menh-15.html
+ip-54-36-149-17.a.ahrefs.com
+0 1 1 88144 0 0
+-
+ip-address-pool-xxx.fpt.vn
+0 65 65 2403123 2 1589357476
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+ip-54-36-148-30.a.ahrefs.com
+0 1 1 7226 0 0
+-
+180.163.220.68
+0 6 6 108304 0 0
+-
+msnbot-40-77-189-57.search.msn.com
+0 1 1 3031 0 0
+-
+42.119.152.9
+0 68 68 2230888 1 1588777688
+/
+196.53.10.116
+0 1 1 9285 1 1588899353
+/
+91.108.29.237
+0 85 84 2263283 1 1588354211
+/
+54.37.22.92
+0 1 0 460 0 0
+-
+ip-54-36-148-145.a.ahrefs.com
+0 1 1 8551 1 1589304518
+/san-pham/ban-in-jet-11
+ip-54-36-148-239.a.ahrefs.com
+0 1 1 281 0 0
+-
+msnbot-207-46-13-76.search.msn.com
+0 10 10 217870 1 1589485108
+/san-pham/den-chop-uv-led-unilux-40.html
+2012.r2.std.x64.eval.us-english.gz-s-2vcpu-4gb-ams3-01
+0 2 1 9763 1 1588319121
+/
+182-160-127-53.aamranetworks.com
+0 1 1 44642 1 1588421320
+/
+bot-103-131-71-55.coccoc.com
+0 4 4 19215 1 1589824770
+/san-pham/may-chup-ban-in-dang-trong-dang-phang-31.html
+rate-limited-proxy-66-249-90-13.google.com
+0 5 5 42994 0 0
+-
+ip-54-36-148-19.a.ahrefs.com
+0 1 1 9241 1 1589464895
+/
+ip-54-36-148-9.a.ahrefs.com
+0 1 1 9324 1 1588695820
+/san-pham.html
+static.174.78.217.95.clients.your-server.de
+0 1 0 179 0 0
+-
+spider-6.lipperhey.com
+0 16 13 503285 1 1589089975
+/
+static.173.104.217.95.clients.your-server.de
+0 1 1 9241 1 1588502481
+/
+crawl-66-249-71-41.googlebot.com
+0 2 2 14338 0 0
+-
+msnbot-207-46-13-241.search.msn.com
+0 17 17 10098473 2 1589664185
+/
+203.113.152.4
+0 25 25 217630 23 1589781165
+/
+fwdproxy-pnb-004.fbsv.net
+0 2 2 19968 2 1589557619
+/san-pham/dao-gat-muc-36.html
+msnbot-40-77-190-174.search.msn.com
+0 2 2 2731 0 0
+-
+69.195.128.186
+0 50 50 443123 1 1589363326
+/
+fwdproxy-vll-008.fbsv.net
+0 1 1 594492 0 0
+-
+139.59.136.64
+0 1 0 479 0 0
+-
+178-154-200-158.spider.yandex.com
+0 1 1 324 0 0
+-
+ip-54-36-148-168.a.ahrefs.com
+0 1 1 281 0 0
+-
+ip-54-36-148-225.a.ahrefs.com
+0 1 1 8519 1 1589068349
+/san-pham/may-ghi-ban-hg-korea-2
+ip-54-36-150-124.a.ahrefs.com
+0 1 1 8617 1 1589628049
+/san-pham/dao-gat-muc-swedcut-10
+ip-54-36-150-38.a.ahrefs.com
+0 1 1 13205 1 1588468278
+/san-pham/vai-nhiet-chukoh-agf-23.html
+64.225.110.186
+0 1 0 479 0 0
+-
+ip-54-36-148-156.a.ahrefs.com
+0 2 2 20817 2 1589807960
+/san-pham/vai-nhiet-chukoh-agf-23.html
+msnbot-40-77-167-99.search.msn.com
+0 5 5 24033 0 0
+-
+ip-54-36-148-149.a.ahrefs.com
+0 1 1 9245 1 1589622953
+/
+ip-54-36-148-162.a.ahrefs.com
+0 1 1 7653 1 1589796016
+/gioi-thieu/tam-nhin-su-menh-15.html
+ns535995.ip-139-99-8.net
+0 2 1 9750 1 1589538463
+/
+fetcher17-37.go.mail.ru
+0 1 1 27806 0 0
+-
+bot-103-131-71-65.coccoc.com
+0 3 3 18919 1 1588763690
+/san-pham/ban-in-rua-nuoc-rua-dung-moi-33.html
+ip-54-36-149-97.a.ahrefs.com
+0 1 1 7867 1 1589069099
+/san-pham/sony-13/
+101.91.62.65
+0 12 12 262303 1 1588504829
+/
+ip-54-37-22.eu
+0 6 3 54526 0 0
+-
+ip-54-36-148-250.a.ahrefs.com
+0 1 1 9391 1 1589069580
+/san-pham/test-53.html
+fwdproxy-vll-012.fbsv.net
+0 1 1 9431 1 1589279440
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+crawl-66-249-71-117.googlebot.com
+0 10 9 71766 5 1589808099
+/
+fetcher17-43.go.mail.ru
+0 3 3 47016 0 0
+-
+182.232.118.19
+0 26 26 138376 1 1589548279
+/
+ip-54-36-148-70.a.ahrefs.com
+0 1 1 9242 1 1589056951
+/
+pl101-gra2.hostingpanel2.com
+0 1 0 479 1 1588869068
+-
+dsl-189-162-203-79-dyn.prod-infinitum.com.mx
+0 68 68 2125607 1 1589438141
+/
+ip-54-36-148-205.a.ahrefs.com
+0 1 1 281 0 0
+-
+ec2-18-237-29-56.us-west-2.compute.amazonaws.com
+0 1 1 9242 1 1589530659
+/
+180.246.150.112
+0 13 13 638242 1 1589725741
+/
+msnbot-207-46-13-27.search.msn.com
+0 1 1 9434 1 1588722931
+/san-pham/test-53.html
+67.215.233.17.static.quadranet.com
+0 10 1 49393 1 1588895188
+-
+ip-54-36-149-83.a.ahrefs.com
+0 1 1 10490 1 1589808922
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+ip-54-36-148-135.a.ahrefs.com
+0 2 2 18482 2 1588526617
+/
+119.166.180.122
+0 69 69 2253284 1 1589546397
+/
+fwdproxy-ash-023.fbsv.net
+0 1 1 15443 1 1589219930
+/san-pham/polymer-long-34.html
+88.237.140.125.dynamic.ttnet.com.tr
+0 2 2 9841 1 1589494230
+/
+server.dominionhost.info
+0 3 3 134145 1 1589441972
+/
+bot-103-131-71-24.coccoc.com
+0 4 3 974 0 0
+-
+static.vdc.vn
+0 8 8 60784 1 1589097976
+/
+27.65.196.70
+0 2 1 9751 1 1589538687
+/
+static.123host.vn
+0 1 1 9285 1 1589808798
+/
+bot-103-131-71-31.coccoc.com
+0 3 2 686 0 0
+-
+213-180-203-164.spider.yandex.com
+0 5 3 10858 2 1589195439
+/
+bot-103-131-71-59.coccoc.com
+0 3 2 686 0 0
+-
+researchscan21.comsys.rwth-aachen.de
+0 1 1 9241 1 1589749872
+/
+ip-54-36-148-8.a.ahrefs.com
+0 1 1 13204 1 1589069737
+/san-pham/vai-nhiet-chukoh-agf-23.html
+ip-54-36-148-153.a.ahrefs.com
+0 1 1 9322 1 1589059481
+/san-pham.html
+ip-54-36-148-21.a.ahrefs.com
+0 1 1 10491 1 1589061883
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+ip-145-239-15.eu
+0 3 0 1380 0 0
+-
+msnbot-207-46-13-95.search.msn.com
+0 1 0 515 0 0
+-
+ip-54-36-149-29.a.ahrefs.com
+0 1 1 9376 1 1589064945
+/san-pham/dao-gat-muc-swedcut-h7-29.html
+ip-54-36-149-88.a.ahrefs.com
+0 1 1 7648 1 1589790676
+/gioi-thieu.html
+msnbot-207-46-13-125.search.msn.com
+0 13 13 58205 1 1588476821
+/ho-tro.html
+msnbot-207-46-13-59.search.msn.com
+0 1 1 8658 1 1589173008
+/san-pham/dao-gat-muc-swedcut-10
+209.17.96.34.rdns.cloudsystemnetworks.com
+0 1 1 44730 1 1589445564
+/
+bot-103-131-71-68.coccoc.com
+0 4 4 9462 1 1589200098
+/lien-he.html
+ip-54-36-148-110.a.ahrefs.com
+0 3 3 18989 2 1589808736
+/san-pham/may-chup-ban-in-dang-trong-dang-phang-31.html
+node-ohs.pool-182-53.dynamic.totinternet.net
+0 1 1 9284 1 1589709413
+/
+ip-54-36-148-177.a.ahrefs.com
+0 1 1 41118 0 0
+-
+186.20.137.230
+0 1 1 9285 1 1589250762
+/
+pool-72-76-221-125.nwrknj.fios.verizon.net
+0 53 46 374173 1 1589042249
+/
+msnbot-157-55-39-68.search.msn.com
+0 20 20 351197 3 1588620870
+/
+209.17.97.18.rdns.cloudsystemnetworks.com
+0 2 2 89445 2 1589442823
+/
+36.75.21.127
+0 9 9 80965 1 1589725659
+/
+ip-54-36-148-166.a.ahrefs.com
+0 1 1 8520 1 1589809193
+/san-pham/may-ghi-ban-hg-korea-2
+13.68.227.100
+0 1 1 9285 1 1588990340
+/
+ip-54-36-148-46.a.ahrefs.com
+0 1 1 9241 1 1589514795
+/
+ip-54-36-148-6.a.ahrefs.com
+0 1 1 8362 1 1589069263
+/san-pham/sony-14/
+213-180-203-167.spider.yandex.com
+0 1 0 466 1 1589635976
+/
+rate-limited-proxy-72-14-199-220.google.com
+0 1 0 466 1 1588335212
+/
+203.133.168.112
+0 18 18 281936 1 1588356239
+/
+fwdproxy-vll-009.fbsv.net
+0 1 1 13261 1 1589279361
+/san-pham/vai-nhiet-chukoh-agf-23.html
+ip-54-36-148-176.a.ahrefs.com
+0 1 1 7868 1 1589060106
+/san-pham/acer-12/
+194.110.89.28
+0 1 1 9284 1 1589472720
+/
+jobqueue-listener.jobqueue.netcraft.com-ubcd9be528e2411ea94c96760838d6ab1u-digitalocean-2gb
+0 2 1 45072 1 1588705284
+/
+ip-54-36-149-87.a.ahrefs.com
+0 1 1 9541 1 1589069423
+/san-pham/ten-san-pham-25.html
+msnbot-40-77-167-97.search.msn.com
+0 2 2 3835 0 0
+-
+ip-54-36-148-72.a.ahrefs.com
+0 1 1 9241 1 1588292301
+/
+ip-54-36-148-164.a.ahrefs.com
+0 3 2 993 0 0
+-
+msnbot-40-77-190-32.search.msn.com
+0 1 1 746 0 0
+-
+msnbot-157-55-39-105.search.msn.com
+0 4 2 876489 0 0
+-
+fwdproxy-rva-012.fbsv.net
+0 1 1 9593 1 1588548278
+/san-pham/ten-san-pham-25.html
+dsl-187-232-190-200-dyn.prod-infinitum.com.mx
+0 1 1 9285 1 1588908525
+/
+5.188.84.104
+0 2 2 25350 1 1589642856
+/san-pham/bang-keo-polyimind-api114a-frcopper-clad-cgf-51.html
+209.17.96.98.rdns.cloudsystemnetworks.com
+0 1 1 44730 1 1588342179
+/
+27.65.196.71
+0 1 1 9285 1 1589385671
+/
+crawl-5-102-173-71.mojeek.com
+0 2 2 9484 1 1588934065
+/
+pot20.webmeup.com
+0 5 3 10858 1 1589208902
+/
+msnbot-157-55-39-188.search.msn.com
+0 7 7 37504 1 1588579681
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+223.233.1.55
+0 1 1 9284 1 1589662891
+/
+ip-54-36-148-186.a.ahrefs.com
+0 1 1 8551 1 1589060704
+/san-pham/ban-in-jet-11
+ip-54-36-148-59.a.ahrefs.com
+0 2 2 9709 1 1589806322
+/san-pham/den-chop-led-2000-28.html
+115.167.32.121.broad.gz.gd.dynamic.163data.com.cn
+0 1 1 9306 1 1588783729
+/san-pham.html
+google-proxy-66-102-6-68.google.com
+0 18 18 345054 1 1589537980
+/
+ip-54-36-148-184.a.ahrefs.com
+0 2 2 18484 2 1589084833
+/
+ip-54-36-148-217.a.ahrefs.com
+0 2 2 9522 1 1588340365
+/
+node-i0x.pool-180-180.dynamic.totinternet.net
+0 1 1 9284 1 1589618175
+/
+li926-224.members.linode.com
+0 6 4 179876 6 1589749990
+-
+163-172-76-63.rev.poneytelecom.eu
+0 1 0 179 0 0
+-
+msnbot-40-77-167-20.search.msn.com
+0 1 1 8742 1 1588531247
+/san-pham/den-chop-unilux-7
+ip-54-36-148-199.a.ahrefs.com
+0 2 2 17115 2 1589761136
+/san-pham/nokia-16/
+ipv4-216-145-11-94.greenhousedata.net
+0 3 1 10129 1 1589123321
+/
+180.254.251.185
+0 1 1 9285 1 1589570517
+/
+msnbot-40-77-190-98.search.msn.com
+0 1 1 16397 0 0
+-
+ip-54-36-148-240.a.ahrefs.com
+0 1 1 9376 1 1589808646
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+fetcher17-41.go.mail.ru
+0 1 1 288 0 0
+-
+ip-54-36-148-88.a.ahrefs.com
+0 1 1 9241 1 1589681899
+/
+ip-54-36-148-179.a.ahrefs.com
+0 2 2 9590 1 1588755602
+/san-pham/may-ghi-ban-nhiet-44.html
+ip-54-36-148-227.a.ahrefs.com
+0 1 1 9488 1 1589808828
+/san-pham/may-ghi-ban-flexo-ctp-46.html
+bot-103-131-71-204.coccoc.com
+0 1 1 288 0 0
+-
+rate-limited-proxy-72-14-199-201.google.com
+0 248 248 4479340 4 1588635044
+/san-pham/sony-14/
+fetcher17-35.go.mail.ru
+0 1 1 288 0 0
+-
+ip-54-36-148-86.a.ahrefs.com
+0 1 1 7678 1 1588617923
+/ho-tro.html
+msnbot-207-46-13-80.search.msn.com
+0 1 1 159166 0 0
+-
+ip-54-36-148-18.a.ahrefs.com
+0 3 3 18221 2 1589105151
+/
+ip-54-36-148-85.a.ahrefs.com
+0 1 1 9381 1 1589808251
+/san-pham/ban-in-ky-thuat-so-32.html
+ip-54-36-150-122.a.ahrefs.com
+0 1 1 7868 1 1588311855
+/san-pham/nokia-16/
+crawl-66-249-75-4.googlebot.com
+0 1 1 9411 1 1589335775
+/san-pham/dao-gat-muc-36.html
+cablelink-187-161-243-99.pcs.intercable.net
+0 2 2 9841 1 1588562636
+/
+bot-103-131-71-29.coccoc.com
+0 6 2 1016 0 0
+-
+47.11.80.234
+0 1 1 9284 1 1589112058
+/
+104.248.224.173
+0 2 2 45086 1 1588614464
+/
+209.17.97.2.rdns.cloudsystemnetworks.com
+0 1 0 411 1 1589316531
+/
+95.13.95.137.dynamic.ttnet.com.tr
+0 2 2 9841 1 1588899982
+/
+36.90.60.157
+0 1 1 9283 1 1589225588
+/
+customer-tolu-mca-49-218.megared.net.mx
+0 2 2 9841 1 1588653717
+/
+114-119-167-124.aspiegelbot
+0 1 0 518 0 0
+-
+114-5-216-7.resources.indosat.com
+0 2 2 9840 1 1589547840
+/
+192.71.3.26
+0 1 1 9247 1 1589511245
+/
+ip-54-36-149-4.a.ahrefs.com
+0 1 1 281 0 0
+-
+ip-54-36-149-90.a.ahrefs.com
+0 1 1 9325 1 1588580735
+/san-pham.html
+182.0.196.161
+0 1 1 9241 1 1589299667
+/
+fwdproxy-pnb-118.fbsv.net
+0 1 1 9422 1 1589557618
+/san-pham/dao-gat-muc-36.html
+researchscan19.comsys.rwth-aachen.de
+0 1 1 9242 1 1589285744
+/
+ip-54-36-148-144.a.ahrefs.com
+0 2 2 9522 1 1588436501
+/
+msnbot-40-77-167-190.search.msn.com
+0 1 1 590010 0 0
+-
+msnbot-157-55-39-166.search.msn.com
+0 1 1 9352 1 1588902047
+/san-pham/may-ghi-ban-nhiet-44.html
+111.15.203.222
+0 74 73 2269796 2 1588516742
+/lien-he.html
+114-4-221-91.resources.indosat.com
+0 1 1 9284 1 1588439784
+/
+msnbot-207-46-13-127.search.msn.com
+0 3 3 19402 3 1589612128
+/
+gryces.terecteres.com
+0 1 1 9285 1 1588409960
+/
+ip-54-36-150-175.a.ahrefs.com
+0 1 1 110048 0 0
+-
+180.163.220.5
+0 13 13 228867 1 1589546407
+/
+ip-54-36-148-208.a.ahrefs.com
+0 1 1 9241 1 1588396705
+/
+ip-54-36-150-86.a.ahrefs.com
+0 1 1 110048 0 0
+-
+msnbot-40-77-188-200.search.msn.com
+0 1 1 142065 0 0
+-
+fetcher17-40.go.mail.ru
+0 1 1 29907 0 0
+-
+ip-54-36-150-97.a.ahrefs.com
+0 1 1 8614 1 1588347425
+/san-pham/dao-gat-muc-swedcut-10
+103.99.32.197
+0 1 1 9284 1 1588349030
+/
+104.41.138.211
+0 1 1 9242 1 1588575873
+/
+ip-54-36-148-202.a.ahrefs.com
+0 1 1 281 0 0
+-
+ip-54-36-150-63.a.ahrefs.com
+0 2 2 118833 1 1588881843
+/tin-tuc/phoi-do-den-trang-cuc-chat-tu-fashionista-noi-tieng-the-gioi-10.html
+46.27.18.175.adsl-pool.jlccptt.net.cn
+0 1 1 9284 1 1588443896
+/
+ip-54-36-148-44.a.ahrefs.com
+0 1 1 9242 1 1589397039
+/
+113.210.188.56
+0 89 89 3917660 1 1589538178
+/san-pham.html
+dup-201-111-157-225.prod-dial.com.mx
+0 1 1 9283 1 1589606810
+/
+ip-54-36-150-151.a.ahrefs.com
+0 1 1 41869 0 0
+-
+43.241.146.115
+0 1 1 9284 1 1588849346
+/
+msnbot-40-77-191-66.search.msn.com
+0 1 1 35623 0 0
+-
+bot-103-131-71-67.coccoc.com
+0 2 2 7943 1 1588411360
+/gioi-thieu.html
+fwdproxy-vll-021.fbsv.net
+0 1 1 30139 0 0
+-
+fwdproxy-atn-025.fbsv.net
+0 1 1 15443 1 1588868950
+/san-pham/polymer-long-34.html
+crawl-66-249-69-131.googlebot.com
+0 2 2 15822 2 1589329845
+/san-pham/nokia-16/
+159.65.170.43
+0 1 1 44657 1 1588710442
+/
+ip-54-36-148-27.a.ahrefs.com
+0 1 1 8698 1 1589806426
+/san-pham/den-chop-unilux-7
+ip-54-36-148-140.a.ahrefs.com
+0 1 1 9383 1 1589067600
+/san-pham/ga-do-dao-37.html
+216.244.66.234
+0 52 50 7082281 21 1589810022
+/san-pham/nokia-16/
+bot-103-131-71-54.coccoc.com
+0 5 5 19491 1 1589623585
+/san-pham/den-chop-unilux-lol-5-39.html
+ip-54-36-150-181.a.ahrefs.com
+0 1 1 9376 1 1588691356
+/san-pham/dao-gat-muc-36.html
+167.99.212.214
+0 3 2 10016 1 1589557214
+/
+178-154-200-17.spider.yandex.com
+0 1 1 324 0 0
+-
+111.193.228.62
+0 65 65 2227651 1 1589702019
+/
+msnbot-207-46-13-87.search.msn.com
+0 1 1 9583 1 1588832821
+/san-pham/ten-san-pham-25.html
+fwdproxy-vll-117.fbsv.net
+0 1 1 13261 1 1589279359
+/san-pham/vai-nhiet-chukoh-agf-23.html
+ip-54-36-148-148.a.ahrefs.com
+0 1 1 9434 1 1589808553
+/san-pham/giot-nuoc-ma-thuat-38.html
+msnbot-40-77-167-170.search.msn.com
+0 1 1 51275 0 0
+-
+118.70.187.81
+0 68 68 2230810 1 1588602000
+/
+180.246.148.71
+0 21 21 526611 1 1589725724
+/
+161.35.29.220
+0 1 0 466 1 1589204008
+/
+ip-54-36-150-165.a.ahrefs.com
+0 1 1 9392 1 1588394075
+/san-pham/may-chup-ban-in-dang-trong-dang-phang-31.html
+36.71.238.241
+0 1 1 9285 1 1588931347
+/
+ip-54-36-148-84.a.ahrefs.com
+0 1 1 7652 1 1589470771
+/gioi-thieu/tam-nhin-su-menh-15.html
+crawl-66-249-73-215.googlebot.com
+0 2 0 974 0 0
+-
+119.196.54.245
+0 122 115 4993179 1 1589557740
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+fetcher17-7.go.mail.ru
+0 3 3 35673 0 0
+-
+fetcher17-14.go.mail.ru
+0 1 1 28492 0 0
+-
+115.75.37.182
+0 18 18 96643 1 1588675673
+/
+fulltextrobot-77-75-77-54.seznam.cz
+0 2 1 470 0 0
+-
+kube-17.dataprovider.com
+0 36 35 465231 1 1589190098
+/
+209.17.96.114.rdns.cloudsystemnetworks.com
+0 1 1 44715 1 1588789458
+/
+ip-54-36-149-75.a.ahrefs.com
+0 2 2 19158 2 1589067455
+/san-pham/den-led-3-dc-kiem-pham-21.html
+crawl-66-249-69-133.googlebot.com
+0 4 4 35891 4 1589324531
+/san-pham/acer-12/
+msnbot-157-55-39-232.search.msn.com
+0 1 1 48715 0 0
+-
+138.197.162.193
+0 3 0 1428 0 0
+-
+crawl-66-249-71-45.googlebot.com
+0 1 1 8657 1 1588763549
+/san-pham/dao-gat-muc-swedcut-10
+ip-54-36-148-151.a.ahrefs.com
+0 1 1 110048 0 0
+-
+ip-54-38-244.eu
+0 6 3 54526 0 0
+-
+ip-54-36-150-120.a.ahrefs.com
+0 1 1 7656 1 1589733673
+/gioi-thieu.html
+ip-54-36-148-173.a.ahrefs.com
+0 1 1 8598 1 1588480592
+/lien-he.html
+157.43.1.148
+0 1 1 9284 1 1588733351
+/
+178-154-200-174.spider.yandex.com
+0 20 17 64759 7 1589623559
+/san-pham/dell-10/
+ip-54-36-149-0.a.ahrefs.com
+0 1 1 30096 0 0
+-
+209.17.96.130.rdns.cloudsystemnetworks.com
+0 1 1 44730 1 1589036231
+/
+ip-54-36-148-137.a.ahrefs.com
+0 1 0 411 1 1589147185
+/
+msnbot-40-77-190-190.search.msn.com
+0 1 1 145617 0 0
+-
+bot-103-131-71-202.coccoc.com
+0 2 1 4907 0 0
+-
+ip-54-36-148-216.a.ahrefs.com
+0 1 1 281 0 0
+-
+bot-103-131-71-27.coccoc.com
+0 3 2 686 0 0
+-
+msnbot-207-46-13-40.search.msn.com
+0 23 22 904082 2 1589478181
+/san-pham/den-chop-led-2000-28.html
+fetcher17-25.go.mail.ru
+0 1 1 288 0 0
+-
+bot-103-131-71-18.coccoc.com
+0 1 1 288 0 0
+-
+209.17.97.34.rdns.cloudsystemnetworks.com
+0 1 0 411 1 1588918942
+/
+ec2-3-88-85-130.compute-1.amazonaws.com
+0 1 0 460 0 0
+-
+msnbot-40-77-189-136.search.msn.com
+0 1 1 145617 0 0
+-
+40.115.160.30
+0 13 13 983055 1 1588717094
+/
+fwdproxy-atn-008.fbsv.net
+0 1 1 15443 1 1588923463
+/san-pham/polymer-long-34.html
+crawl-66-249-66-205.googlebot.com
+0 4 4 36000 3 1588714325
+/san-pham/may-ghi-ban-hg-korea-2
+fetcher17-15.go.mail.ru
+0 1 1 23014 0 0
+-
+bot-103-131-71-34.coccoc.com
+0 5 3 2906 0 0
+-
+203.113.152.2
+0 23 23 206691 20 1589764334
+/
+ip-54-36-148-66.a.ahrefs.com
+0 2 2 9643 1 1589809406
+/san-pham/bang-keo-nhiet-chukoh-asf121110-fr-26.html
+ip-54-36-148-237.a.ahrefs.com
+0 2 2 9651 1 1589808349
+/san-pham/dao-gat-muc-36.html
+168.232.160.158
+0 1 1 9283 1 1588923281
+/
+128.199.169.169
+0 3 0 1545 0 0
+-
+msnbot-157-55-39-41.search.msn.com
+0 10 10 3240 0 0
+-
+118.70.190.218
+0 61 61 2174788 1 1589364119
+/
+42.113.205.86
+0 68 68 2107701 1 1589451651
+/
+ip-54-36-148-43.a.ahrefs.com
+0 1 1 8658 1 1589063520
+/san-pham/chukoh-1
+193.148.18.219
+0 50 50 443190 1 1589788574
+/
+msnbot-40-77-167-56.search.msn.com
+0 1 1 8593 1 1589686923
+/san-pham/ban-in-jet-11
+fwdproxy-pnb-018.fbsv.net
+0 1 1 48715 0 0
+-
+ip-54-36-149-48.a.ahrefs.com
+0 1 1 9241 1 1588666857
+/
+ip-54-36-149-13.a.ahrefs.com
+0 2 2 50359 1 1589588826
+/
+ip-54-36-148-118.a.ahrefs.com
+0 1 1 8658 1 1589807167
+/san-pham/chukoh-1
+msnbot-40-77-167-107.search.msn.com
+0 1 1 9479 1 1588877762
+/san-pham/giot-nuoc-ma-thuat-38.html
+ip-54-36-148-39.a.ahrefs.com
+0 4 4 24891 2 1589650729
+/tin-tuc.html
+no-ptr.123host.vn
+0 3 3 27857 1 1589814845
+/
+bot-103-131-71-32.coccoc.com
+0 4 3 974 0 0
+-
+ip-54-36-149-99.a.ahrefs.com
+0 3 2 993 0 0
+-
+fwdproxy-ftw-021.fbsv.net
+0 1 1 15444 1 1588335322
+/san-pham/polymer-long-34.html
+crawl-66-249-66-203.googlebot.com
+0 5 5 28032 2 1588665030
+/
+hosted-by.rootlayer.net
+0 2 1 9751 1 1588989614
+/
+ip-54-36-148-131.a.ahrefs.com
+0 1 1 9241 1 1588301156
+/
+ip-54-36-148-79.a.ahrefs.com
+0 1 1 9378 1 1589806222
+/san-pham/bong-den-chup-ban----uva-uv-c-30.html
+ip-54-36-148-114.a.ahrefs.com
+0 1 1 110048 0 0
+-
+ip-54-36-150-69.a.ahrefs.com
+0 1 1 110048 0 0
+-
+ip-54-36-148-183.a.ahrefs.com
+0 1 1 9241 1 1589443566
+/
+static.vnpt.vn
+0 1381 1369 46293230 22 1589560151
+/san-pham/bang-keo-nhiet-chukoh-asf121110-fr-26.html
+209.17.96.234.rdns.cloudsystemnetworks.com
+0 1 1 44730 1 1588791249
+/
+fwdproxy-vll-020.fbsv.net
+0 1 1 9429 1 1589279441
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+129.146.158.17
+0 6 6 28825 3 1589485630
+/
+msnbot-40-77-167-207.search.msn.com
+0 1 0 515 0 0
+-
+bot-103-131-71-71.coccoc.com
+0 7 7 19214 1 1589427487
+/san-pham/may-ghi-ban-hg-korea-2
+ip-54-36-150-153.a.ahrefs.com
+0 1 1 9387 1 1588447503
+/san-pham/bong-den-chup-ban----uva-uv-c-30.html
+179-107-145-122.zamix.com.br
+0 1 0 479 0 0
+-
+crawl-8u9h1v.mj12bot.com
+0 6 4 19947 1 1589625760
+/
+ip-54-36-148-130.a.ahrefs.com
+0 1 1 9242 1 1589045253
+/
+rate-limited-proxy-72-14-199-205.google.com
+0 9 8 75275 4 1589624492
+/
+montcoresource.com
+0 12 0 5520 0 0
+-
+ip-54-36-150-113.a.ahrefs.com
+0 1 1 9387 1 1588772377
+/san-pham/ban-in-ky-thuat-so-32.html
+ip-54-36-148-23.a.ahrefs.com
+0 1 1 12121 1 1589212874
+/san-pham/bang-keo-polyimind-api114a-frcopper-clad-cgf-51.html
+178-154-200-66.spider.yandex.com
+0 1 1 4464 0 0
+-
+203.113.152.3
+0 22 22 188710 20 1589789749
+/tin-tuc.html
+ninja-crawler20.webmeup.com
+0 5 3 10859 1 1588971083
+/
+fwdproxy-atn-028.fbsv.net
+0 1 1 15443 1 1588923463
+/san-pham/polymer-long-34.html
+176.99.80.6
+0 8 8 60836 1 1589690231
+/
+ip-54-36-148-172.a.ahrefs.com
+0 1 1 9241 1 1589559122
+/
+bot-103-131-71-69.coccoc.com
+0 6 6 46713 3 1589476434
+/san-pham/may-ghi-ban-kem-ctp-rosetta-45.html
+40.117.41.132
+0 8 3 5260 2 1589012815
+/admin/
+msnbot-40-77-189-54.search.msn.com
+0 1 1 40423 0 0
+-
+ip-54-36-148-17.a.ahrefs.com
+0 2 2 24628 2 1589633307
+/
+138.36.116.10
+0 1 1 9284 1 1588584892
+/
+ip-54-36-150-171.a.ahrefs.com
+0 2 2 119294 1 1588582259
+/
+ip-54-36-148-219.a.ahrefs.com
+0 1 1 7868 1 1589068640
+/san-pham/nokia-16/
+fetcher17-3.go.mail.ru
+0 1 1 27806 0 0
+-
+msnbot-40-77-188-76.search.msn.com
+0 1 1 10519 0 0
+-
+13.82.140.122
+0 21 3 143379 1 1589788616
+/
+ip-54-36-150-22.a.ahrefs.com
+0 1 0 411 1 1588698051
+/
+ip-54-36-148-60.a.ahrefs.com
+0 2 1 9653 2 1589163699
+/
+ip-54-36-148-220.a.ahrefs.com
+0 1 1 15387 1 1589806639
+/san-pham/polymer-long-34.html
+fetcher17-45.go.mail.ru
+0 1 1 38757 0 0
+-
+116.72.121.175
+0 2 2 9841 1 1588352631
+/
+bot-103-131-71-66.coccoc.com
+0 3 3 18296 2 1589382009
+/san-pham/dao-gat-muc-swedcut-10
+165.165.146.179
+0 1 1 9286 1 1588686485
+/
+hn.kd.ny.adsl
+0 72 60 1230003 9 1589788358
+/
+ip-54-36-148-15.a.ahrefs.com
+0 1 1 12121 1 1589809468
+/san-pham/bang-keo-polyimind-api114a-frcopper-clad-cgf-51.html
+ip-54-36-148-41.a.ahrefs.com
+0 1 1 10359 1 1589806080
+/san-pham/bang-keo-quan-lo-asf125118115mx-27.html
+178.62.82.141
+0 7 3 33754 1 1589762907
+-
+msnbot-157-55-39-134.search.msn.com
+0 3 3 5846 0 0
+-
+114-119-160-67.aspiegelbot
+0 1 0 518 0 0
+-
+fwdproxy-ftw-004.fbsv.net
+0 1 1 15444 1 1589212468
+/san-pham/polymer-long-34.html
+ip-54-36-148-26.a.ahrefs.com
+0 1 1 9309 1 1589525065
+/san-pham/may-ghi-ban-nhiet-44.html
+40.76.0.63
+0 5 0 2586 4 1589806481
+-
+ip-54-36-148-222.a.ahrefs.com
+0 1 1 9393 1 1589807829
+/san-pham/test-53.html
+msnbot-157-55-39-250.search.msn.com
+0 2 2 26495 2 1588355519
+/san-pham/vai-nhiet-chukoh-agf-23.html
+bot-103-131-71-64.coccoc.com
+0 5 5 45162 3 1589586446
+/san-pham/dao-gat-muc-swedcut-h7-29.html
+msnbot-157-55-39-10.search.msn.com
+0 7 7 292963 1 1589482688
+/san-pham/nokia-16/
+msnbot-40-77-188-93.search.msn.com
+0 1 1 3219 0 0
+-
+fetcher17-4.go.mail.ru
+0 1 1 46239 0 0
+-
+ip-54-36-148-189.a.ahrefs.com
+0 1 1 9374 1 1589807383
+/san-pham/den-chop-uv-led-unilux-40.html
+msnbot-40-77-189-178.search.msn.com
+0 1 1 4229 0 0
+-
+ip-54-36-148-126.a.ahrefs.com
+0 1 1 9384 1 1589068068
+/san-pham/may-chup-ban-in-dang-trong-dang-phang-31.html
+ip-54-36-148-49.a.ahrefs.com
+0 3 2 10545 1 1589807505
+/san-pham/den-led-3-dc-kiem-pham-21.html
+crawl-j8n83z.mj12bot.com
+0 6 4 19984 1 1589505093
+/
+ip-54-36-150-75.a.ahrefs.com
+0 1 0 411 1 1589822134
+/
+ip-54-36-149-7.a.ahrefs.com
+0 1 1 9241 1 1589125692
+/
+ip-54-36-150-157.a.ahrefs.com
+0 2 2 118574 1 1588409476
+/san-pham/may-ghi-ban-hg-korea-2
+ip-54-36-148-122.a.ahrefs.com
+0 1 1 9241 1 1589612358
+/
+msnbot-207-46-13-72.search.msn.com
+0 2 2 18783 1 1589254375
+/san-pham.html
+fwdproxy-rva-002.fbsv.net
+0 1 1 9595 1 1588548279
+/san-pham/ten-san-pham-25.html
+fulltextrobot-77-75-79-36.seznam.cz
+0 2 2 9607 1 1588800156
+/
+msnbot-157-55-39-176.search.msn.com
+0 1 1 328857 0 0
+-
+192.71.103.173
+0 1 0 479 0 0
+-
+ip-54-36-148-54.a.ahrefs.com
+0 2 2 118705 1 1588438638
+/san-pham/chukoh-1
+fwdproxy-rva-018.fbsv.net
+0 1 1 15444 1 1588888267
+/san-pham/polymer-long-34.html
+40.114.47.66
+0 2 0 1030 1 1588894391
+-
+ip-54-36-149-71.a.ahrefs.com
+0 1 1 8188 1 1589809096
+/san-pham/dell-10/
+180.247.243.159
+0 15 15 465193 1 1589725702
+/
+rate-limited-proxy-66-249-90-9.google.com
+0 10 10 325266 1 1589495881
+/
+ip-54-36-150-110.a.ahrefs.com
+0 1 1 9487 1 1589470368
+/san-pham/may-ghi-ban-flexo-ctp-46.html
+fetcher17-22.go.mail.ru
+0 1 1 38937 0 0
+-
+msnbot-40-77-167-7.search.msn.com
+0 1 1 8231 1 1588729068
+/san-pham/dell-10/
+ip-54-36-148-73.a.ahrefs.com
+0 1 1 7868 1 1589806748
+/san-pham/samsung-15/
+ip-54-36-148-53.a.ahrefs.com
+0 4 4 25043 3 1589066292
+/san-pham/den-chop-led-2000-28.html
+105.163.221.11
+0 2 2 9841 1 1589822013
+/
+ip-54-36-148-133.a.ahrefs.com
+0 1 1 8615 1 1589065844
+/san-pham/dao-gat-muc-swedcut-10
+45.81.239.35.bc.googleusercontent.com
+0 2 2 9583 1 1588739549
+/
+abts-tn-dynamic-132.90.164.122.airtelbroadband.in
+0 1 1 9283 1 1588676285
+/
+crawl-66-249-79-201.googlebot.com
+0 60 56 346933 19 1589807664
+/san-pham/dao-gat-muc-swedcut-10
+52.240.59.177
+0 12 2 24372 1 1589206219
+/
+91-121-76-25.serverhub.ru
+0 1 1 9284 1 1589174389
+/
+ip-54-36-150-8.a.ahrefs.com
+0 1 1 7874 1 1588713597
+/san-pham/acer-12/
+163-172-110-152.rev.poneytelecom.eu
+0 9 2 93040 1 1589675519
+/
+51.38.47.24
+0 2 0 920 0 0
+-
+ip-54-36-148-7.a.ahrefs.com
+0 2 2 16558 1 1589809539
+/san-pham/dao-gat-muc-swedcut-10
+ip-54-36-148-128.a.ahrefs.com
+0 2 2 16918 1 1589795319
+/
+54.38.90.228
+0 1 0 460 0 0
+-
+msnbot-207-46-13-113.search.msn.com
+0 2 2 18698 2 1588558738
+/san-pham/may-ghi-ban-kem-ctp-rosetta-45.html
+5.188.62.25
+0 6 2 11921 1 1588398465
+-
+ip-54-36-149-37.a.ahrefs.com
+0 1 1 8591 1 1589796400
+/lien-he.html
+msnbot-157-55-39-88.search.msn.com
+0 3 3 30298 2 1588485763
+/san-pham/bong-den-chup-ban----uva-uv-c-30.html
+65-118-249-2.dia.static.rocktechnology.net
+0 3 0 1380 1 1589584371
+-
+ip-54-36-150-5.a.ahrefs.com
+0 1 1 9241 1 1588854579
+/
+70.37.72.190
+0 22 2 99735 1 1589529896
+/
+bot-103-131-71-35.coccoc.com
+0 6 3 98401 0 0
+-
+ip-54-36-148-101.a.ahrefs.com
+0 2 1 712 0 0
+-
+bot-103-131-71-23.coccoc.com
+0 3 3 2045 0 0
+-
+msnbot-207-46-13-225.search.msn.com
+0 1 1 9422 1 1588793402
+/san-pham/bong-den-chup-ban----uva-uv-c-30.html
+ip-54-36-149-47.a.ahrefs.com
+0 1 1 281 0 0
+-
+ip-54-38-43.eu
+0 1 0 460 0 0
+-
+13.68.235.194
+0 1 0 515 1 1588882154
+-
+ip-54-36-148-16.a.ahrefs.com
+0 1 1 8194 1 1588704210
+/san-pham/dell-10/
+ip-54-36-150-106.a.ahrefs.com
+0 1 1 27687 0 0
+-
+ip-54-36-148-142.a.ahrefs.com
+0 2 2 16131 2 1589069898
+/tin-tuc.html
+fetcher17-21.go.mail.ru
+0 1 1 29226 0 0
+-
+bot-103-131-71-210.coccoc.com
+0 1 1 288 0 0
+-
+17-58-96-153.applebot.apple.com
+0 12 12 118341 9 1588991654
+/san-pham/may-ghi-ban-nhiet-44.html
+bot-103-131-71-25.coccoc.com
+0 6 4 365996 0 0
+-
+bot-103-131-71-208.coccoc.com
+0 1 1 288 0 0
+-
+ip-54-36-150-40.a.ahrefs.com
+0 1 1 9365 1 1588302134
+/san-pham/bang-keo-nhiet-chukoh-asf121110-fr-26.html
+111.231.54.43
+0 1 0 479 0 0
+-
+17-58-98-96.applebot.apple.com
+0 4 4 1124 0 0
+-
+ip-54-36-148-248.a.ahrefs.com
+0 1 1 9244 1 1589098948
+/
+msnbot-157-55-39-197.search.msn.com
+0 1 1 9418 1 1589660647
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+157.44.238.45
+0 1 1 9285 1 1589741609
+/
+39.45.34.85
+0 1 1 9285 1 1588969236
+/
+fetcher17-29.go.mail.ru
+0 1 1 288 0 0
+-
+101.89.239.238
+0 11 11 250195 1 1588517445
+/lien-he.html
+141.196.177.203
+0 2 2 9841 1 1589134922
+/
+bot-103-131-71-33.coccoc.com
+0 3 1 508 0 0
+-
+ip-54-36-150-93.a.ahrefs.com
+0 1 1 9242 1 1589797878
+/
+40.76.120.249
+0 3 1 45791 1 1589023054
+/
+180.242.56.203
+0 1 0 479 0 0
+-
+msnbot-40-77-189-21.search.msn.com
+0 1 1 46140 0 0
+-
+ip-54-36-150-180.a.ahrefs.com
+0 1 1 10499 1 1588708800
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+fwdproxy-prn-018.fbsv.net
+0 1 1 15444 1 1588878245
+/san-pham/polymer-long-34.html
+static.12.241.251.148.clients.your-server.de
+0 57 57 502192 1 1589397043
+/san-pham/test-53.html
+ns3138484.ip-51-77-52.eu
+0 1 1 9284 1 1588663317
+/
+fetcher17-38.go.mail.ru
+0 1 1 288 0 0
+-
+ip-54-36-148-195.a.ahrefs.com
+0 1 1 9242 1 1588570521
+/
+fwdproxy-pnb-001.fbsv.net
+0 1 1 10545 1 1589290393
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+ip-54-36-148-5.a.ahrefs.com
+0 2 2 17109 2 1589806854
+/san-pham/sony-13/
+ip-54-36-148-68.a.ahrefs.com
+0 1 1 9240 1 1589488607
+/
+bot-103-131-71-58.coccoc.com
+0 2 2 22509 2 1589005781
+/san-pham/vai-nhiet-chukoh-agf-23.html
+118.70.128.231
+0 69 69 2240089 1 1588582913
+/
+192.36.52.37
+0 1 1 288 0 0
+-
+bot-103-131-71-57.coccoc.com
+0 10 9 54938 5 1589525696
+/
+171.244.139.26
+0 2 2 89516 2 1588598130
+/
+106.197.37.239
+0 1 1 9285 1 1588331648
+/
+ip-54-36-149-27.a.ahrefs.com
+0 1 1 9377 1 1589067916
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+ip-54-36-148-94.a.ahrefs.com
+0 2 2 18621 2 1589535834
+/
+fwdproxy-ftw-002.fbsv.net
+0 1 1 15443 1 1588335322
+/san-pham/polymer-long-34.html
+ppp-171-97-114-98.revip8.asianet.co.th
+0 2 2 9841 1 1589028152
+/
+ip-54-36-149-105.a.ahrefs.com
+0 2 2 9653 1 1589067162
+/san-pham/den-chop-unilux-lol-5-39.html
+ip-54-36-149-81.a.ahrefs.com
+0 1 1 24123 0 0
+-
+ip-54-36-148-62.a.ahrefs.com
+0 1 1 20899 0 0
+-
+host-197.40.218.184.tedata.net
+0 2 2 9841 1 1589404969
+/
+crawl-66-249-79-203.googlebot.com
+0 58 51 493415 26 1589808078
+/san-pham/dao-gat-muc-swedcut-10
+fwdproxy-cln-008.fbsv.net
+0 1 1 15442 1 1588433276
+/san-pham/polymer-long-34.html
+ip-54-36-148-182.a.ahrefs.com
+0 1 1 12121 1 1589062541
+/san-pham/bang-keo-polyimind-api114a-frcopper-clad-cgf-51.html
+ip-54-36-148-93.a.ahrefs.com
+0 1 1 7868 1 1589254033
+/san-pham/sony-13/
+crawl31.bl.semrush.com
+0 1 1 288 0 0
+-
+ip-192-169-143-117.ip.secureserver.net
+0 4 0 1916 0 0
+-
+17-58-97-59.applebot.apple.com
+0 3 3 843 0 0
+-
+ip-54-36-148-174.a.ahrefs.com
+0 1 1 281 0 0
+-
+46.196.210.251
+0 2 2 9842 1 1589075500
+/
+crawl-66-249-71-118.googlebot.com
+0 6 6 53736 5 1589825212
+/gioi-thieu/tam-nhin-su-menh-15.html
+20.37.111.213
+0 1 1 9284 1 1589521295
+/
+google-proxy-66-102-6-64.google.com
+0 33 33 4637725 0 0
+-
+fetcher17-24.go.mail.ru
+0 1 1 288 0 0
+-
+40.115.243.210
+0 1 1 9269 1 1588719829
+/san-pham.html
+ip-54-36-149-2.a.ahrefs.com
+0 1 1 281 0 0
+-
+ip-54-36-149-41.a.ahrefs.com
+0 3 2 993 0 0
+-
+rate-limited-proxy-72-14-199-203.google.com
+0 32 31 182105 4 1588634934
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+ip-54-36-150-158.a.ahrefs.com
+0 1 1 12004 0 0
+-
+157.245.167.237
+0 4 0 1916 0 0
+-
+ip-54-36-149-100.a.ahrefs.com
+0 1 1 12004 0 0
+-
+62.4.16.5
+0 1 1 9284 1 1588636236
+/
+dsl-189-169-119-150-dyn.prod-infinitum.com.mx
+0 1 1 9284 1 1589538264
+/
+msnbot-40-77-167-100.search.msn.com
+0 5 5 46915 0 0
+-
+ip-54-36-148-170.a.ahrefs.com
+0 1 1 9384 1 1589808447
+/san-pham/ga-do-dao-37.html
+178-154-200-15.spider.yandex.com
+0 1 0 486 0 0
+-
+203.113.152.7
+0 24 24 216826 21 1589770370
+/gioi-thieu.html
+dynamic-adsl.viettel.vn
+0 150 149 6788416 2 1588782389
+/san-pham/bang-keo-polyimind-api114a-frcopper-clad-cgf-51.html
+msnbot-157-55-39-175.search.msn.com
+0 2 2 359872 1 1589559674
+/san-pham/bang-keo-nhiet-chukoh-asf121110-fr-26.html
+64.188.12.178.static.quadranet.com
+0 18 1 18039 1 1588543723
+-
+static.164.57.201.195.clients.your-server.de
+0 2 2 18569 1 1589012180
+/
+ip-54-36-148-245.a.ahrefs.com
+0 1 1 9374 1 1589067310
+/san-pham/den-chop-uv-led-unilux-40.html
+ip-54-36-150-115.a.ahrefs.com
+0 1 1 46120 0 0
+-
+msnbot-40-77-167-189.search.msn.com
+0 1 1 9874 0 0
+-
+crawl-66-249-79-219.googlebot.com
+0 2 0 952 1 1589035238
+/
+ip-54-36-148-116.a.ahrefs.com
+0 1 1 9241 1 1588770509
+/
+ip-54-36-150-167.a.ahrefs.com
+0 1 1 9382 1 1588542089
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+33-124-15-51.rev.cloud.scaleway.com
+0 1 1 9284 1 1588738486
+/
+msnbot-40-77-188-248.search.msn.com
+0 1 1 22808 0 0
+-
+fetcher17-34.go.mail.ru
+0 2 2 50866 0 0
+-
+ip-54-36-149-63.a.ahrefs.com
+0 1 1 8591 1 1589058629
+/lien-he.html
+134.122.54.200
+0 2 1 9802 1 1588621778
+/
+209.17.96.50.rdns.cloudsystemnetworks.com
+0 1 1 44715 1 1588954327
+/
+ip-54-36-148-89.a.ahrefs.com
+0 2 1 712 0 0
+-
+msnbot-40-77-167-165.search.msn.com
+0 10 10 62401 1 1589436589
+/san-pham/may-ghi-ban-hg-korea-2
+fetcher17-20.go.mail.ru
+0 1 1 288 0 0
+-
+130.105.133.12
+0 1 1 9284 1 1589468260
+/
+138.59.143.102
+0 1 1 9284 1 1588379524
+/
+ip-54-36-148-211.a.ahrefs.com
+0 3 3 24982 3 1589067761
+/san-pham/giot-nuoc-ma-thuat-38.html
+ip-54-36-148-2.a.ahrefs.com
+0 1 1 9291 1 1589068542
+/san-pham/may-ghi-ban-kem-ctp-rosetta-45.html
+180.163.220.67
+0 1 1 5704 0 0
+-
+ip-54-36-148-96.a.ahrefs.com
+0 3 3 18903 2 1589063193
+/san-pham/bong-den-chup-ban----uva-uv-c-30.html
+bot-103-131-71-62.coccoc.com
+0 3 3 27948 2 1589771105
+/san-pham/bang-keo-nhiet-chukoh-asf121110-fr-26.html
+msnbot-40-77-167-228.search.msn.com
+0 1 1 121943 0 0
+-
+bot-103-131-71-30.coccoc.com
+0 2 1 398 0 0
+-
+23.102.78.72
+0 50 5 246821 2 1589556718
+/
+ip-54-36-150-66.a.ahrefs.com
+0 1 1 15399 1 1589288683
+/san-pham/polymer-long-34.html
+ip-54-36-148-190.a.ahrefs.com
+0 1 1 9375 1 1589063847
+/san-pham/ban-in-rua-nuoc-rua-dung-moi-33.html
+ip-54-36-148-75.a.ahrefs.com
+0 1 1 9241 1 1588785922
+/
+ip-54-36-150-32.a.ahrefs.com
+0 1 1 46120 0 0
+-
+ip-54-36-149-91.a.ahrefs.com
+0 1 1 509 1 1588817910
+/
+ip-54-36-148-98.a.ahrefs.com
+0 2 1 9786 2 1589809012
+/san-pham/dao-gat-muc-swedcut-h7-29.html
+139.59.117.21
+0 2 2 89284 1 1589526347
+/
+192.36.53.165
+0 2 1 767 0 0
+-
+msnbot-157-55-39-165.search.msn.com
+0 1 1 159166 0 0
+-
+ns547930.ip-139-99-122.net
+0 1 1 9285 1 1589385406
+/
+msnbot-40-77-167-201.search.msn.com
+0 5 5 24059 0 0
+-
+msnbot-157-55-39-29.search.msn.com
+0 4 4 1296 0 0
+-
+msnbot-207-46-13-70.search.msn.com
+0 1 1 8594 1 1588963007
+/san-pham/ban-in-jet-11
+crawl-66-249-79-217.googlebot.com
+0 2 0 954 1 1589657768
+/
+ip-54-36-148-10.a.ahrefs.com
+0 1 1 110048 0 0
+-
+msnbot-40-77-167-172.search.msn.com
+0 1 0 515 0 0
+-
+cm-171-101-212-53.revip11.asianet.co.th
+0 1 1 9284 1 1588927003
+/
+sh-ams-nl-gp1-wk104.internet-census.org
+0 2 1 9653 1 1589541934
+/
+117.254.93.234
+0 18 18 96644 1 1589550031
+/
+ip-54-36-150-82.a.ahrefs.com
+0 1 1 9434 1 1589541662
+/san-pham/giot-nuoc-ma-thuat-38.html
+static.208.159.216.95.clients.your-server.de
+0 2 1 9652 1 1589059252
+/
+fwdproxy-atn-023.fbsv.net
+0 1 1 9436 1 1588635037
+/san-pham/ban-in-ky-thuat-so-32.html
+fetcher17-6.go.mail.ru
+0 1 1 29907 0 0
+-
+msnbot-157-55-39-33.search.msn.com
+0 1 1 324 0 0
+-
+ip-54-36-150-16.a.ahrefs.com
+0 1 1 9241 1 1588350885
+/
+ip-54-36-149-1.a.ahrefs.com
+0 1 1 9380 1 1589275600
+/san-pham/ban-in-ky-thuat-so-32.html
+ip-54-36-150-68.a.ahrefs.com
+0 1 1 9375 1 1589654077
+/san-pham/dao-gat-muc-swedcut-h7-29.html
+msnbot-40-77-167-149.search.msn.com
+0 9 9 27685 1 1588567226
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+ip-54-36-149-92.a.ahrefs.com
+0 1 1 8553 1 1589133788
+/san-pham/ban-in-jet-11
+bot-103-131-71-26.coccoc.com
+0 4 3 974 0 0
+-
+net-2-42-95-24.cust.vodafonedsl.it
+0 2 1 45224 1 1588996529
+/
+ip-51-38-45.eu
+0 1 0 460 0 0
+-
+173.46.88.7
+0 1 1 9286 1 1588902317
+/
+213-180-203-146.spider.yandex.com
+0 2 1 790 1 1588851457
+/
+fulltextrobot-77-75-76-160.seznam.cz
+0 2 1 470 0 0
+-
+104.248.174.214
+0 1 1 371 1 1589167692
+/
+ec2-54-183-234-221.us-west-1.compute.amazonaws.com
+0 1 1 9284 1 1589621204
+/
+ec2-54-215-214-149.us-west-1.compute.amazonaws.com
+0 1 1 9285 1 1589003958
+/
+msnbot-157-55-39-90.search.msn.com
+0 1 1 5383 0 0
+-
+ip-54-37-150.eu
+0 3 0 1380 0 0
+-
+ip-54-36-148-125.a.ahrefs.com
+0 1 1 9372 1 1589807278
+/san-pham/den-chop-unilux-lol-5-39.html
+msnbot-40-77-188-160.search.msn.com
+0 2 2 24854 0 0
+-
+ip-54-36-149-10.a.ahrefs.com
+0 4 4 36711 4 1589064178
+/san-pham/dao-gat-muc-36.html
+bot-103-131-71-19.coccoc.com
+0 4 0 440 0 0
+-
+194.36.191.35
+0 2 0 1059 0 0
+-
+fetcher17-17.go.mail.ru
+0 1 1 288 0 0
+-
+msnbot-157-55-39-198.search.msn.com
+0 4 4 19093 1 1588801805
+/san-pham/vai-nhiet-chukoh-agf-23.html
+dynamic-ip-adsl.viettel.vn
+0 371 367 8996618 3 1589789074
+/admin/
+ip-54-36-148-76.a.ahrefs.com
+0 1 1 281 0 0
+-
+ip-54-36-148-188.a.ahrefs.com
+0 1 1 9324 1 1588575620
+/san-pham.html
+lux-lu2-10g.gcore.com
+0 1 0 202 1 1589020557
+-
+112.215.173.98
+0 67 67 2103264 1 1589593262
+/
+msnbot-40-77-189-35.search.msn.com
+0 1 1 96091 0 0
+-
+crawl-66-249-65-133.googlebot.com
+0 1 0 515 0 0
+-
+google-proxy-66-102-6-219.google.com
+0 1 0 466 1 1589537979
+/
+1.55.174.108
+0 61 61 1929477 1 1589014369
+/
+msnbot-40-77-189-61.search.msn.com
+0 1 1 142065 0 0
+-
+msnbot-157-55-39-153.search.msn.com
+0 1 0 515 0 0
+-
+static.233.216.201.138.clients.your-server.de
+0 41 41 1546219 1 1589021649
+/lien-he.html
+ec2-3-17-80-133.us-east-2.compute.amazonaws.com
+0 1 0 479 1 1588887253
+-
+node-fhi.pool-180-180.dynamic.totinternet.net
+0 2 2 9841 1 1589038489
+/
+ip-54-36-148-187.a.ahrefs.com
+0 3 2 9957 1 1589723160
+/
+crawler.google.com
+0 1 1 9242 1 1588394453
+/
+ip-54-36-148-29.a.ahrefs.com
+0 1 1 281 0 0
+-
+google-proxy-66-102-6-66.google.com
+0 18 18 10312707 0 0
+-
+ip-54-36-149-46.a.ahrefs.com
+0 2 2 18616 2 1589809292
+/san-pham/may-ghi-ban-kem-ctp-rosetta-45.html
+crawl-66-249-71-115.googlebot.com
+0 8 8 41775 4 1589816457
+/san-pham/may-ghi-ban-kem-ctp-rosetta-45.html
+ip-54-36-150-46.a.ahrefs.com
+0 1 0 411 1 1589290787
+/
+ip-54-36-148-117.a.ahrefs.com
+0 1 1 7611 1 1589792826
+/gioi-thieu/gioi-thieu-ve-cong-ty-14.html
+msnbot-40-77-167-22.search.msn.com
+0 1 1 7691 1 1589417936
+/gioi-thieu.html
+fwdproxy-pnb-007.fbsv.net
+0 1 1 883625 0 0
+-
+ip-54-36-148-157.a.ahrefs.com
+0 1 1 9240 1 1589376665
+/
+ip-54-36-148-120.a.ahrefs.com
+0 1 1 9374 1 1589807068
+/san-pham/ban-in-rua-nuoc-rua-dung-moi-33.html
+msnbot-40-77-188-201.search.msn.com
+0 1 1 6599 0 0
+-
+bot-103-131-71-56.coccoc.com
+0 5 5 26864 2 1589695094
+/san-pham/ban-in-rua-nuoc-rua-dung-moi-33.html
+45.193.217.194
+0 104 89 839725 11 1589530876
+/san-pham/ga-do-dao-37.html
+msnbot-40-77-189-60.search.msn.com
+0 1 1 1305 0 0
+-
+ip-54-36-148-193.a.ahrefs.com
+0 1 1 8551 1 1589808150
+/san-pham/ban-in-jet-11
+17-58-102-21.applebot.apple.com
+0 1 1 9391 1 1589034601
+/san-pham/test-53.html
+ns61191179.ip-51-91-129.eu
+0 1 1 9284 1 1588732507
+/
+ip-54-36-149-28.a.ahrefs.com
+0 1 1 9324 1 1588709001
+/san-pham.html
+ip-54-36-150-23.a.ahrefs.com
+0 1 1 9548 1 1588545876
+/san-pham/ten-san-pham-25.html
+fm-dyn-139-194-90-33.fast.net.id
+0 33 33 618281 1 1589652441
+/
+bot-103-131-71-70.coccoc.com
+0 7 7 48393 3 1589717503
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+bot-103-131-71-28.coccoc.com
+0 2 1 398 0 0
+-
+149.202.157.236
+0 1 0 479 0 0
+-
+66.249.132.103
+0 1 1 9284 1 1588731485
+/
+17-58-102-1.applebot.apple.com
+0 5 5 46748 5 1589737147
+/san-pham/den-chop-uv-led-unilux-40.html
+1.32.52.222
+0 37 37 584949 1 1589528188
+/
+ip-54-36-148-0.a.ahrefs.com
+0 1 1 110048 0 0
+-
+msnbot-40-77-189-249.search.msn.com
+0 1 1 7503 0 0
+-
+ec2-34-220-119-114.us-west-2.compute.amazonaws.com
+0 1 1 9241 1 1588579336
+/
+msnbot-157-55-39-57.search.msn.com
+0 1 1 8561 1 1589088845
+/tin-tuc/mix-do-he-sanh-dieu-nhu-tin-do-thoi-trang-nhi-9.html
+msnbot-40-77-190-31.search.msn.com
+0 1 1 4550 0 0
+-
+rate-limited-proxy-66-249-90-11.google.com
+0 5 5 15987 0 0
+-
+msnbot-157-55-39-2.search.msn.com
+0 1 1 324 0 0
+-
+client-201.230.158.105.speedy.net.pe
+0 1 1 9285 1 1588444400
+/
+5.188.219.128
+0 1 1 44715 1 1589758221
+/
+fetcher17-31.go.mail.ru
+0 1 1 288 0 0
+-
+192.119.160.101
+0 68 68 2107675 1 1589483557
+/
+167.172.126.253
+0 2 0 958 0 0
+-
+ip-54-36-150-65.a.ahrefs.com
+0 1 1 4319 1 1588895224
+/cgi-sys/suspendedpage.cgi
+209.17.96.2.rdns.cloudsystemnetworks.com
+0 1 1 44730 1 1588679854
+/
+ip-54-36-149-19.a.ahrefs.com
+0 1 1 7868 1 1589068944
+/san-pham/samsung-15/
+crawl-66-249-69-129.googlebot.com
+0 5 4 12388 1 1589262908
+/lien-he.html
+ip-147-135-218.eu
+0 1 0 460 0 0
+-
+fulltextrobot-77-75-76-164.seznam.cz
+0 2 1 470 0 0
+-
+crawl-66-249-73-43.googlebot.com
+0 2 1 9931 1 1589497494
+/san-pham/den-chop-uv-led-unilux-40.html
+ip-54-36-150-83.a.ahrefs.com
+0 1 1 7868 1 1589754946
+/san-pham/samsung-15/
+170.231.140.122
+0 1 1 9284 1 1588475203
+/
+fwdproxy-atn-038.fbsv.net
+0 1 1 9436 1 1588635036
+/san-pham/ban-in-ky-thuat-so-32.html
+crawl-66-249-79-221.googlebot.com
+0 3 0 1438 1 1588485144
+/
+h2882633.stratoserver.net
+0 8 0 4142 2 1588336111
+-
+ip-54-36-148-56.a.ahrefs.com
+0 1 1 7649 1 1589054270
+/gioi-thieu.html
+192.71.142.35
+0 3 1 10206 1 1588781731
+/
+msnbot-157-55-39-243.search.msn.com
+0 5 5 54384 1 1589531374
+/
+static.133.141.130.94.clients.your-server.de
+0 1 1 9286 1 1589022019
+/
+ip-54-36-148-169.a.ahrefs.com
+0 1 1 7868 1 1589806965
+/san-pham/acer-12/
+ip-54-36-150-87.a.ahrefs.com
+0 1 1 9379 1 1588360229
+/san-pham/den-chop-uv-led-unilux-40.html
+ec2-52-89-27-87.us-west-2.compute.amazonaws.com
+0 1 1 9242 1 1588926050
+/
+ip-54-36-148-121.a.ahrefs.com
+0 1 1 281 0 0
+-
+178-134-41-243.dsl.utg.ge
+0 1 1 9284 1 1589213552
+/
+adsl.viettel.vn
+0 162 162 4962015 5 1589420862
+/
+crawl-66-249-73-41.googlebot.com
+0 1 1 9415 1 1589432779
+/san-pham/den-chop-unilux-lol-5-39.html
+bot-103-131-71-215.coccoc.com
+0 1 1 883589 0 0
+-
+ip-54-37-23.eu
+0 2 0 920 0 0
+-
+103.84.4.80
+0 29 29 426152 1 1588580644
+/
+ip-54-36-148-247.a.ahrefs.com
+0 1 1 8362 1 1589807598
+/san-pham/sony-14/
+msnbot-40-77-190-226.search.msn.com
+0 1 1 5846 0 0
+-
+ip-54-36-148-194.a.ahrefs.com
+0 1 1 9320 1 1589805951
+/san-pham.html
+ip-54-36-148-69.a.ahrefs.com
+0 1 1 281 0 0
+-
+ip-54-36-148-246.a.ahrefs.com
+0 2 2 17701 2 1589806532
+/san-pham/nokia-16/
+msnbot-40-77-167-220.search.msn.com
+0 7 7 66708 2 1589055156
+/san-pham/den-chop-uv-led-unilux-40.html
+85.153.239.224
+0 2 2 9841 1 1588602870
+/
+abts-north-dynamic-134.3.162.122.airtelbroadband.in
+0 1 1 9284 1 1589229988
+/
+fetcher17-46.go.mail.ru
+0 2 2 75666 0 0
+-
+41.65.184.74
+0 1 0 460 0 0
+-
+crawl-66-249-66-201.googlebot.com
+0 1 0 515 0 0
+-
+ip-54-36-150-45.a.ahrefs.com
+0 1 1 110048 0 0
+-
+bot-103-131-71-61.coccoc.com
+0 4 4 20321 1 1588856447
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+msnbot-40-77-190-42.search.msn.com
+0 1 1 2004 0 0
+-
+194.5.52.22
+0 76 76 2285432 1 1589212167
+/
+ip-54-36-149-106.a.ahrefs.com
+0 1 1 9379 1 1588316689
+/san-pham/bong-den-chup-ban----uva-uv-c-30.html
+ip-166-62-80-109.ip.secureserver.net
+0 1 0 479 0 0
+-
+40.76.211.41
+0 1 1 44758 1 1588788581
+/
+crawl-66-249-73-45.googlebot.com
+0 2 2 60077 0 0
+-
+msnbot-40-77-167-120.search.msn.com
+0 7 7 506492 0 0
+-
+msnbot-40-77-167-91.search.msn.com
+0 2 2 98114 0 0
+-
+77.111.245.13
+0 49 48 2315896 1 1589449654
+/san-pham/vai-nhiet-chukoh-agf-23.html
+59.162.230.35.bc.googleusercontent.com
+0 2 0 933 0 0
+-
+bestdatenow.xyz
+0 6 4 19985 1 1588757496
+/
+ip-54-36-149-84.a.ahrefs.com
+0 1 1 281 0 0
+-
+fetcher17-36.go.mail.ru
+0 2 2 8163 1 1589590673
+/san-pham/acer-12/
+113.128.70.34.bc.googleusercontent.com
+0 36 11 504914 2 1589692452
+/
+bot-103-131-71-21.coccoc.com
+0 5 3 1084 0 0
+-
+msnbot-157-55-39-154.search.msn.com
+0 2 2 18616 1 1589314748
+/san-pham/den-chop-unilux-7
+ip-54-36-148-112.a.ahrefs.com
+0 1 1 9242 1 1589657983
+/
+bot-103-131-71-63.coccoc.com
+0 7 7 28253 2 1588955775
+/tin-tuc/mix-do-he-sanh-dieu-nhu-tin-do-thoi-trang-nhi-9.html
+msnbot-207-46-13-71.search.msn.com
+0 1 1 8404 1 1588530697
+/san-pham/sony-14/
+209.17.96.202.rdns.cloudsystemnetworks.com
+0 2 0 822 2 1589562890
+/
+fulltextrobot-77-75-78-166.seznam.cz
+0 3 2 9809 1 1589250748
+/san-pham.html
+fwdproxy-atn-006.fbsv.net
+0 1 1 15444 1 1588868950
+/san-pham/polymer-long-34.html
+51-159-18-103.rev.poneytelecom.eu
+0 1 1 9242 1 1588726290
+/
+fetcher17-47.go.mail.ru
+0 3 3 52699 0 0
+-
+ip-54-36-148-12.a.ahrefs.com
+0 1 1 281 0 0
+-
+ip-54-36-150-178.a.ahrefs.com
+0 1 1 9374 1 1589519970
+/san-pham/den-chop-uv-led-unilux-40.html
+msnbot-40-77-167-83.search.msn.com
+0 1 1 9414 1 1589134243
+/san-pham/den-chop-unilux-lol-5-39.html
+ip-54-36-148-160.a.ahrefs.com
+0 1 1 8524 1 1589343092
+/tin-tuc/mix-do-he-sanh-dieu-nhu-tin-do-thoi-trang-nhi-9.html
+fwdproxy-frc-030.fbsv.net
+0 1 1 15443 1 1588520738
+/san-pham/polymer-long-34.html
+52.185.166.168
+0 1 1 9284 1 1589146258
+/
+185.166.87.198
+0 1 0 143 1 1589410952
+-
+ip-54-36-148-139.a.ahrefs.com
+0 1 1 9488 1 1589068205
+/san-pham/may-ghi-ban-flexo-ctp-46.html
+static.112.236.76.144.clients.your-server.de
+0 6 4 19870 1 1589360763
+/
+msnbot-40-77-167-26.search.msn.com
+0 1 1 8593 1 1588545797
+/san-pham/ban-in-jet-11
+ip-54-36-149-60.a.ahrefs.com
+0 1 1 281 0 0
+-
+msnbot-40-77-167-76.search.msn.com
+0 8 8 30162 0 0
+-
+209.17.96.18.rdns.cloudsystemnetworks.com
+0 1 1 44715 1 1588328658
+/
+180.163.220.3
+0 10 10 133516 0 0
+-
+swe-net-ip.as51430.net
+0 1 0 518 1 1589116355
+/
+ip-54-36-150-74.a.ahrefs.com
+0 1 1 10489 1 1589818646
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+msnbot-40-77-189-98.search.msn.com
+0 1 1 3946 0 0
+-
+137.117.71.51
+0 22 2 99735 1 1589802262
+/
+ip-54-36-148-82.a.ahrefs.com
+0 4 3 28257 4 1589772044
+/
+msnbot-40-77-167-29.search.msn.com
+0 2 2 42838 1 1589334723
+/
+ip-54-36-148-207.a.ahrefs.com
+0 1 1 9540 1 1589807713
+/san-pham/ten-san-pham-25.html
+ip-54-36-148-242.a.ahrefs.com
+0 1 1 9324 1 1588566305
+/san-pham.html
+msnbot-207-46-13-61.search.msn.com
+0 1 1 324 0 0
+-
+ec2-100-24-97-253.compute-1.amazonaws.com
+0 1 1 9248 1 1588686336
+/
+ip-54-36-150-0.a.ahrefs.com
+0 2 2 168921 0 0
+-
+ip-54-36-148-136.a.ahrefs.com
+0 1 1 9375 1 1588301311
+/san-pham/ban-in-rua-nuoc-rua-dung-moi-33.html
+203.113.152.5
+0 27 27 245178 25 1589813044
+/
+ip-54-36-150-48.a.ahrefs.com
+0 1 1 9241 1 1589379187
+/
+static.228.113.216.95.clients.your-server.de
+0 1 1 9242 1 1588430974
+/
+54.38.41.0
+0 1 0 460 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+bot-103-131-71-55.coccoc.com
+0 2 2 18639 1 1589824770
+/san-pham/may-chup-ban-in-dang-trong-dang-phang-31.html
+203.113.152.4
+0 1 1 9247 1 1589781165
+/
+ip-54-36-148-156.a.ahrefs.com
+0 1 1 13205 1 1589807960
+/san-pham/vai-nhiet-chukoh-agf-23.html
+ip-54-36-148-162.a.ahrefs.com
+0 1 1 7653 1 1589796016
+/gioi-thieu/tam-nhin-su-menh-15.html
+crawl-66-249-71-117.googlebot.com
+0 8 7 52730 3 1589808099
+/
+ip-54-36-149-83.a.ahrefs.com
+0 1 1 10490 1 1589808922
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+static.123host.vn
+0 1 1 9285 1 1589808798
+/
+msnbot-207-46-13-95.search.msn.com
+0 1 0 515 0 0
+-
+ip-54-36-149-88.a.ahrefs.com
+0 1 1 7648 1 1589790676
+/gioi-thieu.html
+ip-54-36-148-110.a.ahrefs.com
+0 1 1 9384 1 1589808736
+/san-pham/may-chup-ban-in-dang-trong-dang-phang-31.html
+ip-54-36-148-166.a.ahrefs.com
+0 1 1 8520 1 1589809193
+/san-pham/may-ghi-ban-hg-korea-2
+ip-54-36-148-59.a.ahrefs.com
+0 1 1 9428 1 1589806322
+/san-pham/den-chop-led-2000-28.html
+ip-54-36-148-199.a.ahrefs.com
+0 1 1 7873 1 1589761136
+/san-pham/nokia-16/
+ip-54-36-148-240.a.ahrefs.com
+0 1 1 9376 1 1589808646
+/san-pham/luoi-dao-khac-laser-dai-22mm30mm-35.html
+ip-54-36-148-227.a.ahrefs.com
+0 1 1 9488 1 1589808828
+/san-pham/may-ghi-ban-flexo-ctp-46.html
+ip-54-36-148-85.a.ahrefs.com
+0 1 1 9381 1 1589808251
+/san-pham/ban-in-ky-thuat-so-32.html
+bot-103-131-71-29.coccoc.com
+0 1 0 110 0 0
+-
+ip-54-36-148-27.a.ahrefs.com
+0 1 1 8698 1 1589806426
+/san-pham/den-chop-unilux-7
+216.244.66.234
+0 3 3 901894 1 1589810022
+/san-pham/nokia-16/
+ip-54-36-148-148.a.ahrefs.com
+0 1 1 9434 1 1589808553
+/san-pham/giot-nuoc-ma-thuat-38.html
+178-154-200-174.spider.yandex.com
+0 2 2 4762 0 0
+-
+203.113.152.2
+0 1 1 9248 1 1589764334
+/
+ip-54-36-148-66.a.ahrefs.com
+0 1 1 9362 1 1589809406
+/san-pham/bang-keo-nhiet-chukoh-asf121110-fr-26.html
+ip-54-36-148-237.a.ahrefs.com
+0 1 1 9370 1 1589808349
+/san-pham/dao-gat-muc-36.html
+193.148.18.219
+0 50 50 443190 1 1589788574
+/
+ip-54-36-148-118.a.ahrefs.com
+0 1 1 8658 1 1589807167
+/san-pham/chukoh-1
+no-ptr.123host.vn
+0 3 3 27857 1 1589814845
+/
+ip-54-36-148-79.a.ahrefs.com
+0 1 1 9378 1 1589806222
+/san-pham/bong-den-chup-ban----uva-uv-c-30.html
+203.113.152.3
+0 1 1 7949 1 1589789749
+/tin-tuc.html
+13.82.140.122
+0 21 3 143379 1 1589788616
+/
+ip-54-36-148-220.a.ahrefs.com
+0 1 1 15387 1 1589806639
+/san-pham/polymer-long-34.html
+hn.kd.ny.adsl
+0 3 2 19035 1 1589788358
+/
+ip-54-36-148-15.a.ahrefs.com
+0 1 1 12121 1 1589809468
+/san-pham/bang-keo-polyimind-api114a-frcopper-clad-cgf-51.html
+ip-54-36-148-41.a.ahrefs.com
+0 1 1 10359 1 1589806080
+/san-pham/bang-keo-quan-lo-asf125118115mx-27.html
+178.62.82.141
+0 7 3 33754 1 1589762907
+-
+40.76.0.63
+0 5 0 2586 4 1589806481
+-
+ip-54-36-148-222.a.ahrefs.com
+0 1 1 9393 1 1589807829
+/san-pham/test-53.html
+ip-54-36-148-189.a.ahrefs.com
+0 1 1 9374 1 1589807383
+/san-pham/den-chop-uv-led-unilux-40.html
+ip-54-36-148-49.a.ahrefs.com
+0 1 1 9833 1 1589807505
+/san-pham/den-led-3-dc-kiem-pham-21.html
+ip-54-36-150-75.a.ahrefs.com
+0 1 0 411 1 1589822134
+/
+ip-54-36-149-71.a.ahrefs.com
+0 1 1 8188 1 1589809096
+/san-pham/dell-10/
+ip-54-36-148-73.a.ahrefs.com
+0 1 1 7868 1 1589806748
+/san-pham/samsung-15/
+105.163.221.11
+0 2 2 9841 1 1589822013
+/
+crawl-66-249-79-201.googlebot.com
+0 1 1 8658 1 1589807664
+/san-pham/dao-gat-muc-swedcut-10
+ip-54-36-148-7.a.ahrefs.com
+0 2 2 16558 1 1589809539
+/san-pham/dao-gat-muc-swedcut-10
+ip-54-36-148-128.a.ahrefs.com
+0 2 2 16918 1 1589795319
+/
+ip-54-36-149-37.a.ahrefs.com
+0 1 1 8591 1 1589796400
+/lien-he.html
+ip-54-38-43.eu
+0 1 0 460 0 0
+-
+ip-54-36-150-93.a.ahrefs.com
+0 1 1 9242 1 1589797878
+/
+ip-54-36-148-5.a.ahrefs.com
+0 1 1 7868 1 1589806854
+/san-pham/sony-13/
+crawl-66-249-79-203.googlebot.com
+0 2 2 18075 2 1589808078
+/san-pham/dao-gat-muc-swedcut-10
+crawl31.bl.semrush.com
+0 1 1 288 0 0
+-
+crawl-66-249-71-118.googlebot.com
+0 6 6 53736 5 1589825212
+/gioi-thieu/tam-nhin-su-menh-15.html
+ip-54-36-149-41.a.ahrefs.com
+0 2 1 712 0 0
+-
+ip-54-36-148-170.a.ahrefs.com
+0 1 1 9384 1 1589808447
+/san-pham/ga-do-dao-37.html
+203.113.152.7
+0 2 2 16904 1 1589770370
+/gioi-thieu.html
+ip-54-36-148-89.a.ahrefs.com
+0 2 1 712 0 0
+-
+bot-103-131-71-62.coccoc.com
+0 1 1 9370 1 1589771105
+/san-pham/bang-keo-nhiet-chukoh-asf121110-fr-26.html
+bot-103-131-71-30.coccoc.com
+0 1 1 288 0 0
+-
+ip-54-36-148-98.a.ahrefs.com
+0 1 1 9375 1 1589809012
+/san-pham/dao-gat-muc-swedcut-h7-29.html
+ip-54-36-148-125.a.ahrefs.com
+0 1 1 9372 1 1589807278
+/san-pham/den-chop-unilux-lol-5-39.html
+dynamic-ip-adsl.viettel.vn
+0 257 255 5307867 1 1589789074
+/admin/
+msnbot-157-55-39-153.search.msn.com
+0 1 0 515 0 0
+-
+ip-54-36-149-46.a.ahrefs.com
+0 1 1 9291 1 1589809292
+/san-pham/may-ghi-ban-kem-ctp-rosetta-45.html
+crawl-66-249-71-115.googlebot.com
+0 8 8 41775 4 1589816457
+/san-pham/may-ghi-ban-kem-ctp-rosetta-45.html
+ip-54-36-148-117.a.ahrefs.com
+0 1 1 7611 1 1589792826
+/gioi-thieu/gioi-thieu-ve-cong-ty-14.html
+ip-54-36-148-120.a.ahrefs.com
+0 1 1 9374 1 1589807068
+/san-pham/ban-in-rua-nuoc-rua-dung-moi-33.html
+bot-103-131-71-56.coccoc.com
+0 1 1 288 0 0
+-
+ip-54-36-148-193.a.ahrefs.com
+0 1 1 8551 1 1589808150
+/san-pham/ban-in-jet-11
+ip-54-36-148-169.a.ahrefs.com
+0 1 1 7868 1 1589806965
+/san-pham/acer-12/
+ip-54-36-148-247.a.ahrefs.com
+0 1 1 8362 1 1589807598
+/san-pham/sony-14/
+ip-54-36-148-194.a.ahrefs.com
+0 1 1 9320 1 1589805951
+/san-pham.html
+ip-54-36-148-246.a.ahrefs.com
+0 1 1 7867 1 1589806532
+/san-pham/nokia-16/
+ip-54-36-149-84.a.ahrefs.com
+0 1 1 281 0 0
+-
+bot-103-131-71-63.coccoc.com
+0 1 1 288 0 0
+-
+ip-54-36-150-74.a.ahrefs.com
+0 1 1 10489 1 1589818646
+/san-pham/bang-keo-nhiet-agf-100a100fr-50.html
+137.117.71.51
+0 22 2 99735 1 1589802262
+/
+ip-54-36-148-82.a.ahrefs.com
+0 1 0 411 1 1589772044
+/
+ip-54-36-148-207.a.ahrefs.com
+0 1 1 9540 1 1589807713
+/san-pham/ten-san-pham-25.html
+203.113.152.5
+0 1 1 9249 1 1589813044
+/
+# End Of Table - sites (daily)
+# -referrers- 
+705
+0 1
+334
+0 7
+389
+0 10
+114
+0 1
+649
+0 4
+505
+0 9
+474
+0 14
+306
+0 2
+218
+0 18
+339
+0 15
+294
+0 5
+376
+0 47
+670
+0 3
+493
+0 14
+679
+0 5
+221
+0 6
+370
+0 14
+297
+0 6
+261
+0 8
+771
+0 1
+411
+0 15
+716
+0 1
+479
+0 19
+651
+0 9
+550
+0 4
+76
+0 2
+322
+0 4
+206
+0 1
+401
+0 21
+312
+0 5
+664
+0 1
+277
+0 18
+147
+0 1
+200
+0 30
+454
+0 31
+231
+0 5
+498
+0 15
+348
+0 27
+205
+0 20
+463
+0 21
+671
+0 2
+769
+0 1
+686
+0 3
+371
+0 18
+483
+0 11
+292
+0 6
+196
+0 4
+333
+0 5
+508
+0 25
+183
+0 4
+432
+0 21
+249
+0 36
+499
+0 19
+255
+0 8
+84
+0 1
+576
+0 8
+427
+0 23
+635
+0 4
+727
+0 1
+440
+0 15
+563
+0 5
+182
+0 1
+523
+0 13
+472
+0 15
+676
+0 5
+723
+0 3
+420
+0 23
+607
+0 5
+396
+0 33
+145
+0 4
+368
+0 23
+60
+0 1
+325
+0 8
+619
+0 9
+515
+0 30
+678
+0 20
+309
+0 7
+254
+0 16
+365
+0 28
+691
+0 5
+383
+0 14
+528
+0 10
+313
+0 5
+616
+0 5
+595
+0 8
+756
+0 2
+765
+0 1
+405
+0 19
+275
+0 10
+817
+0 1
+216
+0 4
+187
+0 4
+556
+0 9
+227
+0 5
+266
+0 11
+603
+0 7
+565
+0 9
+490
+0 18
+347
+0 17
+648
+0 3
+393
+0 26
+829
+0 1
+344
+0 29
+527
+0 13
+511
+0 14
+131
+0 3
+166
+0 10
+562
+0 6
+250
+0 31
+588
+0 6
+819
+0 1
+436
+0 28
+345
+0 31
+569
+0 4
+718
+0 1
+397
+0 61
+315
+0 1
+636
+0 8
+620
+0 5
+204
+0 8
+749
+0 1
+446
+0 23
+788
+0 1
+351
+0 18
+606
+0 10
+608
+0 4
+580
+0 8
+544
+0 4
+521
+0 19
+688
+0 6
+378
+0 16
+143
+0 2
+336
+0 15
+442
+0 19
+38
+0 1
+703
+0 2
+279
+0 9
+264
+0 23
+290
+0 2
+233
+0 3
+148
+0 3
+356
+0 14
+375
+0 15
+162
+0 4
+262
+0 10
+385
+0 19
+146
+0 3
+798
+0 2
+87
+0 1
+642
+0 4
+50
+0 2
+207
+0 17
+236
+0 6
+615
+0 5
+245
+0 8
+814
+0 1
+677
+0 2
+296
+0 7
+672
+0 5
+577
+0 6
+639
+0 7
+246
+0 3
+601
+0 8
+403
+0 28
+545
+0 15
+406
+0 16
+720
+0 1
+316
+0 3
+265
+0 25
+181
+0 3
+355
+0 14
+423
+0 14
+300
+0 4
+464
+0 17
+519
+0 15
+308
+0 10
+760
+0 1
+278
+0 10
+225
+0 9
+377
+0 13
+787
+0 1
+631
+0 3
+687
+0 5
+202
+0 5
+303
+0 5
+340
+0 5
+92
+0 1
+503
+0 11
+362
+0 17
+768
+0 1
+215
+0 2
+324
+0 10
+430
+0 22
+692
+0 3
+299
+0 2
+643
+0 6
+721
+0 1
+630
+0 6
+443
+0 10
+532
+0 3
+83
+0 4
+709
+0 4
+305
+0 2
+504
+0 10
+596
+0 8
+543
+0 6
+422
+0 27
+287
+0 9
+441
+0 14
+133
+0 2
+673
+0 4
+326
+0 5
+681
+0 5
+228
+0 14
+301
+0 1
+589
+0 7
+561
+0 22
+653
+0 3
+384
+0 9
+163
+0 2
+657
+0 4
+358
+0 20
+666
+0 2
+680
+0 7
+641
+0 8
+507
+0 21
+514
+0 28
+567
+0 7
+319
+0 54
+49
+0 1
+660
+0 8
+522
+0 9
+394
+0 25
+645
+0 8
+466
+0 12
+667
+0 5
+465
+0 14
+241
+0 6
+240
+0 3
+141
+0 2
+259
+0 5
+286
+0 8
+611
+0 2
+501
+0 17
+566
+0 10
+471
+0 17
+458
+0 12
+510
+0 15
+646
+0 4
+239
+0 4
+412
+0 15
+444
+0 10
+244
+0 10
+311
+0 1
+428
+0 13
+695
+0 2
+617
+0 4
+582
+0 2
+437
+0 16
+524
+0 15
+551
+0 5
+323
+0 4
+372
+0 13
+105
+0 2
+778
+0 1
+447
+0 17
+467
+0 23
+302
+0 3
+484
+0 11
+310
+0 10
+627
+0 5
+702
+0 1
+557
+0 10
+697
+0 5
+342
+0 59
+156
+0 4
+700
+0 2
+424
+0 15
+509
+0 25
+604
+0 6
+329
+0 7
+518
+0 26
+840
+0 1
+661
+0 6
+640
+0 3
+418
+0 30
+159
+0 4
+570
+0 7
+486
+0 29
+674
+0 7
+130
+0 2
+317
+0 34
+549
+0 7
+230
+0 11
+398
+0 23
+400
+0 23
+209
+0 2
+675
+0 4
+330
+0 11
+78
+0 1
+353
+0 10
+386
+0 16
+346
+0 14
+88
+0 2
+55
+0 1
+573
+0 7
+410
+0 10
+332
+0 5
+363
+0 45
+223
+0 4
+197
+0 1
+387
+0 4
+568
+0 3
+564
+0 10
+470
+0 8
+439
+0 16
+583
+0 10
+555
+0 6
+85
+0 2
+237
+0 1
+194
+0 7
+722
+0 2
+579
+0 6
+457
+0 28
+475
+0 13
+373
+0 42
+124
+0 4
+380
+0 16
+161
+0 10
+357
+0 41
+369
+0 6
+140
+0 1
+584
+0 4
+647
+0 4
+320
+0 3
+117
+0 2
+263
+0 9
+513
+0 17
+408
+0 15
+391
+0 6
+609
+0 8
+271
+0 7
+554
+0 16
+461
+0 13
+382
+0 33
+321
+0 7
+136
+0 2
+208
+0 3
+413
+0 24
+734
+0 1
+693
+0 3
+73
+0 3
+235
+0 9
+402
+0 28
+477
+0 14
+409
+0 20
+425
+0 36
+476
+0 23
+776
+0 1
+482
+0 16
+506
+0 37
+242
+0 9
+821
+0 1
+520
+0 6
+585
+0 13
+168
+0 2
+66
+0 1
+793
+0 1
+219
+0 6
+173
+0 1
+426
+0 27
+600
+0 6
+502
+0 20
+459
+0 17
+224
+0 13
+429
+0 10
+540
+0 1
+379
+0 27
+531
+0 8
+415
+0 17
+460
+0 14
+238
+0 2
+352
+0 15
+360
+0 27
+655
+0 4
+592
+0 6
+698
+0 1
+165
+0 1
+243
+0 8
+618
+0 5
+452
+0 29
+229
+0 11
+251
+0 22
+614
+0 2
+232
+0 4
+392
+0 23
+361
+0 16
+276
+0 10
+492
+0 16
+450
+0 8
+533
+0 7
+530
+0 8
+594
+0 6
+654
+0 1
+707
+0 1
+421
+0 19
+48
+0 1
+350
+0 16
+433
+0 24
+629
+0 3
+337
+0 4
+328
+0 7
+624
+0 8
+597
+0 8
+782
+0 1
+496
+0 25
+542
+0 8
+644
+0 3
+338
+0 15
+248
+0 27
+634
+0 7
+388
+0 19
+689
+0 2
+662
+0 10
+354
+0 7
+289
+0 1
+126
+0 2
+586
+0 2
+438
+0 21
+633
+0 6
+575
+0 3
+712
+0 1
+158
+0 1
+462
+0 7
+711
+0 2
+256
+0 11
+116
+0 3
+468
+0 9
+434
+0 21
+269
+0 33
+222
+0 6
+366
+0 19
+195
+0 5
+605
+0 20
+478
+0 9
+535
+0 10
+285
+0 4
+683
+0 6
+587
+0 3
+280
+0 7
+416
+0 20
+571
+0 9
+489
+0 17
+637
+0 8
+65
+0 1
+537
+0 3
+226
+0 9
+534
+0 5
+170
+0 2
+270
+0 9
+381
+0 5
+184
+0 7
+367
+0 22
+726
+0 1
+53
+0 1
+134
+0 2
+99
+0 1
+743
+0 2
+59
+0 1
+736
+0 1
+72
+0 2
+282
+0 11
+51
+0 1
+253
+0 20
+553
+0 13
+359
+0 12
+341
+0 12
+612
+0 6
+82
+0 1
+298
+0 98
+773
+0 1
+536
+0 12
+538
+0 5
+526
+0 22
+525
+0 13
+212
+0 7
+552
+0 6
+591
+0 5
+132
+0 1
+89
+0 2
+638
+0 3
+449
+0 5
+257
+0 10
+547
+0 7
+495
+0 16
+684
+0 2
+188
+0 3
+295
+0 2
+210
+0 7
+832
+0 1
+494
+0 16
+593
+0 6
+456
+0 17
+602
+0 5
+487
+0 16
+75
+0 1
+610
+0 8
+281
+0 8
+682
+0 9
+343
+0 10
+203
+0 3
+67
+0 3
+86
+0 2
+541
+0 4
+628
+0 5
+274
+0 12
+717
+0 2
+663
+0 6
+176
+0 1
+349
+0 14
+599
+0 6
+751
+0 1
+659
+0 9
+652
+0 3
+284
+0 12
+142
+0 2
+395
+0 22
+404
+0 15
+623
+0 10
+399
+0 21
+598
+0 7
+767
+0 1
+725
+0 4
+621
+0 3
+327
+0 31
+283
+0 13
+100
+0 1
+632
+0 8
+548
+0 6
+64
+0 2
+211
+0 10
+500
+0 15
+714
+0 1
+685
+0 2
+268
+0 39
+234
+0 4
+199
+0 2
+291
+0 2
+469
+0 33
+656
+0 7
+135
+0 2
+613
+0 3
+304
+0 2
+669
+0 2
+453
+0 12
+572
+0 7
+448
+0 27
+374
+0 7
+739
+0 3
+331
+0 5
+516
+0 16
+559
+0 4
+539
+0 4
+390
+0 13
+213
+0 1
+650
+0 5
+626
+0 10
+668
+0 8
+272
+0 10
+574
+0 4
+201
+0 3
+122
+0 2
+581
+0 18
+529
+0 9
+258
+0 7
+517
+0 22
+293
+0 7
+451
+0 14
+445
+0 14
+307
+0 19
+480
+0 21
+414
+0 25
+435
+0 19
+761
+0 2
+694
+0 1
+622
+0 8
+590
+0 14
+455
+0 24
+473
+0 22
+273
+0 15
+625
+0 4
+252
+0 11
+658
+0 7
+791
+0 2
+708
+0 1
+546
+0 6
+144
+0 2
+699
+0 1
+485
+0 15
+247
+0 1
+288
+0 8
+759
+0 1
+267
+0 6
+558
+0 7
+512
+0 12
+364
+0 14
+419
+0 20
+417
+0 18
+431
+0 35
+481
+0 7
+488
+0 13
+260
+0 11
+160
+0 4
+407
+0 17
+335
+0 18
+724
+0 1
+217
+0 3
+497
+0 18
+560
+0 18
+77
+0 3
+220
+0 1
+491
+0 51
+190
+0 39
+128
+0 2
+69
+0 2
+# End Of Table - referrers
+# -agents- 
+31422
+0 1
+31716
+0 1
+20919
+0 1
+24512
+0 1
+25253
+0 2
+26478
+0 1
+213808
+0 1
+22449
+0 1
+24487
+0 1
+43744
+0 1
+107842
+0 1
+239460
+0 1
+31274
+0 1
+27576
+0 1
+139985
+0 1
+261285
+0 1
+368538
+0 1
+19014
+0 1
+21744
+0 2
+226784
+0 1
+24368
+0 1
+370622
+0 1
+19004
+0 1
+20301
+0 1
+28486
+0 1
+23507
+0 1
+19617
+0 1
+221686
+0 1
+207855
+0 1
+37590
+0 1
+279197
+0 1
+23480
+0 1
+27222
+0 1
+27240
+0 2
+18523
+0 1
+263400
+0 1
+25906
+0 1
+27850
+0 1
+273531
+0 1
+22970
+0 1
+23049
+0 2
+829406
+0 1
+31958
+0 1
+28761
+0 1
+220737
+0 1
+67564
+0 1
+244032
+0 1
+24632
+0 1
+273365
+0 1
+220511
+0 1
+131779
+0 1
+224445
+0 1
+943489
+0 1
+23205
+0 2
+33291
+0 1
+23424
+0 1
+21704
+0 1
+35115
+0 1
+23706
+0 1
+182746
+0 1
+25564
+0 1
+19968
+0 1
+26279
+0 1
+23857
+0 1
+25837
+0 1
+18092
+0 2
+19364
+0 1
+121605
+0 1
+25984
+0 1
+42444
+0 1
+19796
+0 1
+18559
+0 1
+240686
+0 1
+25552
+0 1
+30869
+0 1
+20511
+0 1
+382532
+0 1
+20409
+0 1
+365624
+0 1
+40197
+0 1
+336654
+0 1
+23842
+0 1
+24881
+0 1
+242580
+0 1
+237004
+0 1
+25119
+0 1
+324412
+0 1
+21219
+0 1
+1111894
+0 1
+18017
+0 1
+88529
+0 1
+24442
+0 2
+28227
+0 1
+111256
+0 1
+1285850
+0 1
+260621
+0 1
+24102
+0 1
+150412
+0 1
+25661
+0 1
+110891
+0 1
+849731
+0 1
+26311
+0 1
+18673
+0 1
+547856
+0 1
+33427
+0 1
+26760
+0 1
+389480
+0 1
+119091
+0 1
+216748
+0 1
+23819
+0 1
+33035
+0 1
+140391
+0 1
+1135056
+0 1
+21238
+0 1
+222560
+0 1
+31122
+0 1
+23169
+0 2
+918802
+0 1
+25353
+0 2
+30080
+0 1
+46765
+0 1
+22147
+0 1
+433629
+0 1
+20684
+0 1
+29219
+0 1
+1482802
+0 1
+23709
+0 1
+23693
+0 1
+370422
+0 1
+222592
+0 1
+190230
+0 1
+21218
+0 1
+1238360
+0 1
+102373
+0 1
+157550
+0 1
+25720
+0 3
+26122
+0 1
+2325291
+0 1
+28130
+0 1
+36986
+0 1
+1285516
+0 1
+244880
+0 1
+105136
+0 1
+21806034
+0 1
+414152
+0 1
+21266
+0 1
+22057
+0 2
+236042
+0 1
+24631
+0 1
+23067
+0 1
+252550
+0 1
+49403
+0 1
+29347
+0 1
+29970
+0 1
+843203
+0 1
+237788
+0 1
+105703
+0 1
+209327
+0 1
+225254
+0 1
+19725
+0 1
+133573
+0 1
+23060
+0 1
+120153
+0 1
+218063
+0 1
+886857
+0 1
+25414
+0 2
+512145
+0 1
+1096194
+0 1
+101075
+0 1
+17568
+0 1
+20371
+0 1
+26394
+0 1
+218538
+0 1
+178525
+0 1
+24622
+0 1
+149768
+0 1
+29271
+0 1
+25974
+0 1
+101117
+0 1
+372835
+0 1
+26332
+0 1
+24913
+0 1
+76440
+0 1
+24415
+0 2
+69043
+0 1
+314561
+0 1
+1159045
+0 1
+123499
+0 1
+25171
+0 1
+31325
+0 1
+36053
+0 1
+247085
+0 1
+21010
+0 1
+23066
+0 1
+22436
+0 1
+35880
+0 1
+32446
+0 1
+31226
+0 1
+24053
+0 1
+242083
+0 1
+25270
+0 1
+33426
+0 1
+59082
+0 1
+25245
+0 1
+220176
+0 1
+180524
+0 1
+621427
+0 1
+208206
+0 1
+24493
+0 2
+9229350
+0 1
+97201
+0 1
+23486
+0 1
+1307885
+0 1
+29313
+0 1
+24373
+0 1
+32663
+0 1
+23348575
+0 1
+27564
+0 1
+220661
+0 2
+217540
+0 1
+223679
+0 1
+27303
+0 1
+264553
+0 1
+32257
+0 1
+254334
+0 1
+390304
+0 1
+227002
+0 1
+20016
+0 1
+102009
+0 1
+25748
+0 1
+20959
+0 1
+27621
+0 1
+19597
+0 1
+22377
+0 1
+86312
+0 1
+19392
+0 1
+42930
+0 1
+105021
+0 1
+20392
+0 1
+24141
+0 1
+25202
+0 1
+103586
+0 1
+159154
+0 1
+34108
+0 1
+2081301
+0 1
+30821
+0 1
+27750
+0 1
+33309
+0 1
+100513
+0 1
+29244
+0 2
+212782
+0 1
+24440
+0 1
+34473
+0 1
+17340
+0 1
+227959
+0 1
+1460182
+0 1
+115670
+0 1
+233339
+0 1
+22591
+0 1
+17697
+0 1
+68775
+0 1
+941758
+0 1
+27482
+0 2
+1648032
+0 1
+216337
+0 1
+101267
+0 1
+22190
+0 1
+21064
+0 1
+22696
+0 1
+30775
+0 1
+26952
+0 1
+324033
+0 1
+31125
+0 1
+19424
+0 1
+112502
+0 1
+18098
+0 1
+128439
+0 1
+148776
+0 1
+25130
+0 2
+19512
+0 1
+22938
+0 3
+111243
+0 1
+573150
+0 1
+798930
+0 1
+291050
+0 1
+229978
+0 1
+41033
+0 1
+103479
+0 1
+22812
+0 1
+29108
+0 2
+23674
+0 1
+19666
+0 1
+26280
+0 1
+229143
+0 1
+29085
+0 1
+26233
+0 1
+1344424
+0 1
+27012
+0 1
+124682
+0 1
+102941
+0 1
+28969
+0 1
+155707
+0 1
+98518
+0 1
+212924
+0 1
+26013
+0 1
+111326
+0 1
+28141
+0 1
+35920
+0 1
+20342
+0 1
+22813
+0 1
+597376
+0 1
+23718
+0 1
+157686
+0 1
+163782
+0 1
+213828
+0 1
+18924
+0 1
+20165
+0 1
+252961
+0 1
+233588
+0 1
+843361
+0 1
+1682745
+0 1
+19680
+0 1
+216919
+0 2
+28856
+0 1
+122248
+0 1
+28252
+0 1
+25954
+0 1
+43876
+0 1
+38306
+0 1
+24625
+0 1
+30126
+0 2
+21635
+0 2
+27865
+0 1
+144899
+0 1
+141335
+0 1
+24313
+0 1
+40897
+0 1
+27928
+0 1
+25754
+0 1
+20707
+0 1
+22211
+0 2
+222116
+0 1
+230002
+0 1
+26642
+0 1
+490421
+0 1
+288239
+0 1
+228379
+0 1
+29553
+0 1
+24797
+0 1
+24439
+0 1
+21204
+0 1
+245873
+0 1
+28505
+0 1
+32363
+0 1
+1894707
+0 1
+21295
+0 1
+28808
+0 1
+23603
+0 1
+111285
+0 1
+23348
+0 1
+450102
+0 1
+37473
+0 1
+28973
+0 1
+117850
+0 1
+20320
+0 2
+60417
+0 1
+24351
+0 1
+25780
+0 1
+386679
+0 1
+1179320
+0 1
+20741
+0 1
+24011
+0 1
+42873
+0 1
+27721
+0 1
+217535
+0 1
+21234
+0 1
+41092
+0 1
+138001
+0 1
+21241
+0 2
+74214
+0 1
+403668
+0 1
+101181
+0 1
+30081
+0 2
+25887
+0 1
+21591
+0 1
+48651
+0 1
+232197
+0 1
+38315
+0 1
+20595
+0 1
+239782
+0 1
+61429
+0 1
+225529
+0 1
+19053
+0 1
+25752
+0 1
+1070488
+0 1
+321199
+0 1
+31706
+0 1
+25617
+0 1
+36622
+0 1
+267698
+0 1
+21155
+0 1
+19133
+0 1
+264259
+0 1
+30671
+0 1
+807416
+0 1
+224746
+0 1
+206820
+0 1
+362977
+0 1
+207718
+0 1
+25881
+0 1
+228880
+0 1
+36584
+0 1
+43225
+0 1
+33190
+0 1
+779044
+0 1
+109233
+0 1
+260245
+0 1
+194245
+0 1
+23871
+0 2
+232856
+0 1
+22073
+0 1
+33803
+0 1
+65151
+0 1
+28014
+0 2
+21586
+0 1
+68923
+0 1
+653746
+0 1
+27956
+0 1
+21725
+0 1
+20361
+0 1
+244678
+0 1
+25677
+0 1
+29500
+0 1
+22757
+0 1
+22875
+0 1
+113486
+0 1
+19493
+0 1
+234634
+0 1
+157861
+0 1
+22454
+0 2
+18911
+0 1
+223172
+0 1
+18416
+0 1
+24147
+0 1
+225496
+0 1
+49929
+0 1
+26441
+0 1
+154262
+0 1
+24777
+0 1
+22623
+0 1
+858542
+0 1
+22923
+0 1
+243056
+0 1
+23165
+0 1
+970648
+0 1
+3383019
+0 1
+19884
+0 1
+18701
+0 1
+111387
+0 1
+274373
+0 1
+25175
+0 2
+19277
+0 1
+18905
+0 1
+115904
+0 1
+301125
+0 1
+23651
+0 1
+145340
+0 1
+57535
+0 1
+235108
+0 1
+25240
+0 1
+27195
+0 2
+365096
+0 1
+225619
+0 1
+21378
+0 1
+234861
+0 1
+225354
+0 1
+52504
+0 1
+78184
+0 1
+639114
+0 1
+359321
+0 1
+119145
+0 1
+217249
+0 1
+232618
+0 1
+223583
+0 1
+24116
+0 1
+25637
+0 1
+21856
+0 3
+121626
+0 1
+101889
+0 1
+208872
+0 1
+218284
+0 1
+2438705
+0 1
+1501613
+0 1
+24076
+0 3
+27180
+0 1
+223120
+0 1
+876663
+0 1
+18303
+0 1
+277376
+0 1
+25629
+0 1
+29955
+0 1
+24234
+0 1
+23984
+0 1
+32633
+0 1
+106363
+0 1
+24362
+0 1
+239558
+0 1
+217633
+0 1
+288900
+0 1
+36994
+0 1
+444650
+0 1
+25144
+0 2
+28288
+0 1
+827771
+0 1
+28039
+0 1
+22069
+0 1
+24879
+0 1
+836108
+0 1
+18817
+0 1
+30104
+0 1
+70655
+0 1
+35861
+0 1
+23436
+0 1
+48949
+0 1
+519615
+0 1
+25249
+0 1
+103296
+0 1
+244604
+0 1
+243310
+0 1
+413548
+0 1
+229647
+0 1
+923439
+0 1
+19743
+0 1
+25852
+0 1
+497763
+0 1
+30403
+0 1
+90103
+0 1
+26738
+0 2
+970332
+0 1
+26428
+0 1
+110382
+0 1
+2108545
+0 1
+28223
+0 1
+18297
+0 1
+28976
+0 1
+26597
+0 1
+27219
+0 1
+21659
+0 2
+23642
+0 1
+19136
+0 1
+312770
+0 1
+35976
+0 1
+36116
+0 1
+1032804
+0 1
+377847
+0 1
+219459
+0 1
+562901
+0 1
+125740
+0 1
+22912
+0 1
+32193
+0 1
+523418
+0 1
+287264
+0 1
+29655
+0 1
+24788
+0 1
+311986
+0 1
+214727
+0 1
+18825792
+0 1
+31401
+0 1
+109201
+0 1
+23193
+0 1
+249096
+0 1
+171598
+0 1
+133528
+0 1
+48931
+0 1
+20295
+0 1
+36766
+0 1
+29784
+0 1
+255804
+0 1
+22262
+0 1
+244644
+0 1
+96387
+0 1
+250337
+0 1
+213688
+0 1
+20183
+0 1
+38911
+0 2
+221325
+0 1
+205255
+0 1
+21672
+0 1
+23078
+0 1
+25534
+0 1
+22951
+0 1
+106829
+0 1
+128603
+0 1
+19626
+0 1
+227109
+0 1
+232394
+0 1
+25131
+0 1
+25633
+0 1
+277067
+0 1
+40623
+0 1
+23106
+0 1
+490433
+0 1
+127807
+0 1
+25185
+0 1
+31028
+0 1
+218255
+0 1
+26605
+0 1
+148870
+0 1
+246000
+0 1
+23650
+0 1
+22860
+0 1
+24451
+0 1
+19124
+0 1
+24253
+0 1
+220131
+0 1
+21067
+0 1
+103101
+0 1
+110463
+0 1
+27756
+0 2
+32307
+0 1
+226627
+0 1
+20305
+0 1
+38337
+0 1
+610754
+0 1
+113110
+0 1
+28344
+0 1
+19804
+0 1
+17605
+0 1
+117298
+0 1
+101726
+0 1
+39989
+0 1
+24191
+0 1
+19807
+0 1
+201598
+0 1
+229033
+0 1
+19499
+0 2
+357811
+0 1
+398370
+0 1
+21938
+0 1
+963480
+0 1
+29714
+0 1
+29013
+0 1
+42039
+0 1
+26001
+0 1
+100555
+0 1
+27387
+0 1
+1059848
+0 1
+106694
+0 1
+364755
+0 1
+23239
+0 1
+179380
+0 1
+32540
+0 1
+104681
+0 1
+218360
+0 1
+21448
+0 1
+313308
+0 1
+981174
+0 1
+28203
+0 1
+81578
+0 1
+25942
+0 1
+224051
+0 1
+24678
+0 1
+204854
+0 1
+33423
+0 1
+26691
+0 1
+560307
+0 1
+27106
+0 1
+21030
+0 2
+348687
+0 1
+276276
+0 1
+235381
+0 1
+1477023
+0 1
+18376
+0 1
+23714
+0 1
+586394
+0 1
+62317
+0 1
+22369
+0 1
+227806
+0 2
+25296
+0 2
+24525
+0 1
+221646
+0 2
+22157
+0 1
+27743
+0 1
+27022
+0 1
+23132
+0 1
+21272
+0 1
+22657
+0 1
+132645
+0 1
+264355
+0 1
+233533
+0 1
+222840
+0 1
+20963
+0 1
+107756
+0 1
+19991
+0 1
+213746
+0 1
+224776
+0 1
+31425
+0 1
+27020
+0 1
+27207
+0 1
+19606
+0 1
+19207
+0 1
+23828
+0 1
+217828
+0 1
+27837
+0 2
+37329
+0 1
+22371
+0 1
+18800
+0 1
+22366
+0 1
+75702
+0 1
+114314
+0 1
+23019
+0 1
+26829
+0 1
+23732
+0 1
+28905
+0 2
+213720
+0 1
+252839
+0 1
+24385
+0 2
+23799
+0 2
+25939
+0 1
+23087
+0 1
+19718
+0 1
+28656
+0 1
+105465
+0 2
+114176
+0 1
+223426
+0 1
+782781
+0 1
+176948
+0 1
+229998
+0 1
+106737
+0 1
+22695
+0 1
+28013
+0 1
+18995
+0 1
+24848
+0 1
+36570
+0 1
+482636
+0 1
+25735
+0 1
+19588
+0 1
+424382
+0 1
+24667
+0 1
+399093
+0 1
+19911
+0 1
+24829
+0 2
+1272221
+0 1
+37774
+0 1
+112125
+0 1
+18213
+0 1
+102990
+0 1
+25448
+0 1
+216850
+0 1
+26696
+0 1
+22517
+0 1
+19113
+0 1
+1206358
+0 1
+236679
+0 1
+70138
+0 1
+519443
+0 1
+273069
+0 1
+30053
+0 1
+210824
+0 1
+27933
+0 1
+23202
+0 1
+23801
+0 1
+2390790
+0 1
+18560
+0 2
+280624
+0 1
+19915
+0 2
+22847
+0 1
+410954
+0 1
+229960
+0 1
+20974
+0 1
+28654
+0 1
+240110
+0 1
+25697
+0 1
+31582
+0 1
+2478829
+0 1
+149499
+0 1
+21824
+0 1
+28574
+0 2
+358698
+0 1
+24296
+0 1
+21482
+0 1
+18382
+0 1
+149278
+0 1
+210652
+0 1
+108900
+0 1
+404317
+0 1
+1425825
+0 1
+237399
+0 1
+105784
+0 1
+136184
+0 1
+2213192
+0 1
+289996
+0 1
+24172
+0 1
+20374
+0 1
+25912
+0 1
+196610
+0 1
+34850
+0 1
+19897
+0 1
+21649
+0 2
+210974
+0 1
+223057
+0 1
+54253
+0 1
+25606
+0 2
+24342
+0 1
+19347
+0 1
+224536
+0 1
+27626
+0 1
+28679
+0 1
+26401
+0 1
+251362
+0 1
+119185
+0 1
+462034
+0 1
+32216
+0 1
+923318
+0 1
+188973
+0 1
+22063
+0 1
+164455
+0 1
+21895
+0 1
+22878
+0 1
+27138
+0 1
+117883
+0 1
+111421
+0 1
+19614
+0 1
+21834
+0 1
+22809
+0 1
+20140
+0 1
+26598
+0 2
+235189
+0 1
+155823
+0 1
+37457
+0 1
+33586
+0 1
+1163563
+0 1
+222640
+0 1
+30539
+0 1
+41600
+0 1
+862011
+0 1
+117774
+0 1
+23859
+0 1
+32012
+0 1
+836647
+0 1
+122993
+0 1
+39841
+0 1
+256770
+0 1
+48719
+0 1
+1330366
+0 1
+847105
+0 1
+23111
+0 1
+60588
+0 1
+30492
+0 1
+33861
+0 1
+27320
+0 1
+31277
+0 1
+211866
+0 1
+35402
+0 1
+304632
+0 1
+245470
+0 1
+577868
+0 1
+25051
+0 2
+21355
+0 1
+24600
+0 1
+24816
+0 1
+31068
+0 1
+23761
+0 2
+101772
+0 1
+499147
+0 1
+310015
+0 1
+157016
+0 1
+20989
+0 1
+288056
+0 1
+44372
+0 1
+25122
+0 1
+242431
+0 1
+564974
+0 1
+37955
+0 1
+2719767
+0 1
+24665
+0 1
+30875
+0 2
+28870
+0 1
+899172
+0 1
+43901
+0 1
+21796
+0 1
+29025
+0 1
+20437
+0 1
+18726
+0 1
+19482
+0 1
+24783
+0 1
+1566197
+0 1
+21405
+0 1
+29103
+0 1
+226581
+0 1
+21038
+0 1
+398935
+0 1
+19938
+0 1
+106305
+0 1
+100640
+0 1
+119793
+0 1
+336160
+0 1
+21759
+0 1
+93117
+0 1
+204615
+0 1
+26366
+0 1
+24524
+0 1
+24609
+0 1
+29222
+0 1
+1264051
+0 1
+24520
+0 2
+239207
+0 1
+23333
+0 1
+20786
+0 1
+24097
+0 1
+153496
+0 1
+20857
+0 1
+25611
+0 1
+263979
+0 1
+2489294
+0 1
+22087
+0 1
+1207312
+0 1
+212192
+0 1
+27389
+0 1
+21908
+0 1
+28927
+0 1
+308164
+0 1
+19026
+0 1
+135033
+0 1
+916417
+0 1
+33559
+0 1
+210324
+0 1
+338159
+0 1
+834877
+0 1
+120140
+0 1
+22556
+0 1
+41995
+0 1
+25060
+0 1
+26056
+0 1
+226128
+0 2
+501452
+0 1
+890693
+0 1
+289347
+0 1
+59352
+0 1
+23221
+0 1
+8542494
+0 1
+24790
+0 1
+300681
+0 1
+304065
+0 1
+18634
+0 2
+21249
+0 2
+20345
+0 1
+19751
+0 1
+27362
+0 1
+100117
+0 1
+39121
+0 1
+29329
+0 1
+107208
+0 1
+30170
+0 1
+262388
+0 1
+22603
+0 1
+243730
+0 1
+271054
+0 1
+27862
+0 1
+25248
+0 1
+25646
+0 1
+20043
+0 1
+234530
+0 1
+208299
+0 1
+247350
+0 1
+29212
+0 1
+21943
+0 1
+324655
+0 1
+20977
+0 1
+93295
+0 1
+240400
+0 1
+543142
+0 1
+223861
+0 1
+89249
+0 1
+221760
+0 2
+31117
+0 1
+30806
+0 1
+958715
+0 1
+936097
+0 1
+20490
+0 2
+18805
+0 1
+226776
+0 1
+884472
+0 1
+22554
+0 1
+350854
+0 1
+218095
+0 1
+8975384
+0 1
+19094
+0 1
+33988
+0 1
+1044398
+0 1
+108690
+0 1
+147106
+0 1
+18321
+0 2
+1063741
+0 1
+25032
+0 1
+23512
+0 1
+204335
+0 1
+353503
+0 1
+24109
+0 1
+291553
+0 1
+252736
+0 1
+556400
+0 1
+1323485
+0 1
+21869
+0 1
+105432
+0 1
+20196
+0 1
+30216
+0 1
+247165
+0 1
+40627
+0 1
+37908
+0 1
+20914
+0 1
+24496
+0 2
+262280
+0 1
+859343
+0 1
+26146
+0 1
+1058400
+0 1
+444817
+0 1
+226443
+0 1
+27409
+0 1
+352291
+0 1
+25048
+0 1
+25605
+0 1
+22837
+0 1
+30480
+0 1
+46353
+0 1
+114884
+0 1
+289163
+0 1
+20516
+0 1
+23696
+0 1
+43955
+0 1
+41025
+0 1
+27049
+0 1
+26994
+0 1
+23876
+0 1
+124461
+0 1
+265228
+0 1
+23639
+0 1
+21112
+0 1
+242690
+0 1
+24668
+0 1
+261874
+0 1
+23141
+0 1
+116109
+0 1
+22131
+0 1
+105899
+0 1
+18934
+0 1
+25142
+0 2
+248571
+0 1
+114992
+0 1
+31984
+0 1
+21815
+0 1
+743653
+0 1
+536769
+0 1
+32841
+0 1
+106410
+0 1
+106342
+0 1
+179725
+0 1
+30002
+0 1
+31886
+0 2
+225429
+0 1
+27426
+0 1
+18986
+0 1
+205356
+0 1
+23928
+0 1
+102840
+0 1
+199010
+0 1
+31096
+0 1
+2728116
+0 1
+254810
+0 1
+169806
+0 1
+127478
+0 1
+234975
+0 1
+27224
+0 1
+1166147
+0 1
+311888
+0 1
+100714
+0 1
+22949
+0 1
+219010
+0 1
+309566
+0 1
+32821
+0 1
+22936
+0 1
+148716
+0 1
+295655
+0 1
+24538
+0 2
+27622
+0 1
+235448
+0 1
+46253
+0 1
+1179906
+0 1
+221080
+0 1
+2439740
+0 1
+26430
+0 2
+462953
+0 1
+170143
+0 1
+413054
+0 1
+24614
+0 1
+593041
+0 1
+107165
+0 1
+25853
+0 1
+22744
+0 1
+232299
+0 1
+223076
+0 1
+48523
+0 1
+98885
+0 1
+106321
+0 1
+75693
+0 1
+21508
+0 1
+24681
+0 2
+29256
+0 1
+224519
+0 1
+24321
+0 1
+222323
+0 1
+829128
+0 1
+251289
+0 1
+30537
+0 1
+22504
+0 1
+79080
+0 1
+29410
+0 1
+122383
+0 1
+532683
+0 1
+21379
+0 1
+25034
+0 1
+1105431
+0 1
+26958
+0 3
+20926
+0 1
+400409
+0 1
+27354
+0 1
+22922
+0 1
+136100
+0 1
+24937
+0 1
+2234540
+0 1
+30572
+0 1
+21819
+0 1
+1109014
+0 1
+545807
+0 1
+433839
+0 1
+221603
+0 1
+25352
+0 1
+782640
+0 1
+20506
+0 1
+1803451
+0 1
+24822
+0 1
+36026
+0 1
+25005
+0 1
+28131
+0 1
+87249
+0 1
+26473
+0 1
+167473
+0 1
+24413
+0 2
+177431
+0 1
+25466
+0 1
+220716
+0 1
+27425
+0 1
+20649
+0 1
+23086
+0 1
+30420
+0 1
+106934
+0 1
+315793
+0 1
+277586
+0 1
+18491
+0 1
+22332
+0 1
+32124
+0 1
+18418
+0 1
+103750
+0 1
+94693
+0 1
+242332
+0 1
+1104433
+0 1
+370429
+0 1
+179523
+0 1
+34481
+0 1
+25403
+0 1
+9940370
+0 1
+53006
+0 1
+25957
+0 1
+32377
+0 1
+228879
+0 1
+110129
+0 1
+100973
+0 1
+1882887
+0 1
+261165
+0 1
+66676
+0 1
+243890
+0 1
+19844
+0 2
+30415
+0 1
+24796
+0 1
+228194
+0 1
+27817
+0 1
+21231
+0 1
+104401
+0 1
+33493
+0 1
+688631
+0 1
+24598
+0 1
+54574
+0 1
+1186490
+0 1
+20672
+0 2
+26261
+0 1
+1078922
+0 1
+373080
+0 1
+28161
+0 1
+342226
+0 1
+245057
+0 1
+38483
+0 1
+23919
+0 2
+265002
+0 1
+284704
+0 1
+26095
+0 1
+18532
+0 1
+19422
+0 1
+25896
+0 1
+326893
+0 1
+25192
+0 2
+104456
+0 1
+222413
+0 1
+23752
+0 1
+105711
+0 1
+23879
+0 1
+247640
+0 1
+24390
+0 2
+221438
+0 1
+932549
+0 1
+67936
+0 1
+168912
+0 1
+222885
+0 1
+19798
+0 1
+29967
+0 1
+23513
+0 3
+42427
+0 1
+23608
+0 1
+253756
+0 1
+13039895
+0 1
+26118
+0 1
+23243
+0 1
+372090
+0 1
+919063
+0 1
+332509
+0 1
+35230
+0 1
+71065
+0 1
+319628
+0 1
+20839
+0 2
+94777
+0 1
+237621
+0 1
+224594
+0 2
+288427
+0 1
+114644
+0 1
+19641
+0 1
+104452
+0 1
+474751
+0 1
+29851
+0 1
+24042
+0 2
+2501960
+0 1
+20812
+0 1
+40335
+0 1
+26916
+0 1
+24336
+0 1
+46394
+0 1
+503638
+0 1
+23903
+0 1
+20900
+0 1
+29514
+0 1
+119099
+0 1
+112766
+0 1
+222612
+0 1
+332697
+0 1
+270263
+0 1
+26393
+0 1
+215225
+0 1
+120632
+0 1
+22664
+0 1
+27024
+0 1
+370361
+0 1
+222358
+0 1
+41540
+0 1
+23001
+0 2
+24002
+0 1
+25120
+0 2
+421770
+0 1
+228565
+0 1
+384100
+0 1
+26800
+0 1
+25842
+0 1
+228507
+0 1
+226554
+0 1
+91701
+0 1
+32607
+0 2
+278451
+0 1
+199542
+0 1
+46093
+0 1
+29593
+0 2
+24370
+0 1
+25972
+0 1
+28549
+0 1
+108443
+0 1
+515376
+0 1
+25255
+0 1
+151152
+0 1
+19294
+0 2
+121699
+0 1
+20415
+0 1
+32154
+0 1
+47181
+0 1
+36223
+0 1
+40356
+0 1
+24699
+0 1
+20548
+0 1
+22498
+0 1
+151396
+0 1
+260457
+0 1
+995426
+0 1
+129574
+0 1
+501393
+0 1
+154008
+0 1
+30631
+0 1
+72369
+0 1
+20424
+0 1
+29976
+0 1
+30365
+0 1
+23454
+0 1
+153873
+0 1
+35913
+0 1
+28196
+0 1
+221629
+0 1
+20178
+0 1
+25018
+0 1
+1457761
+0 1
+519192
+0 1
+153174
+0 1
+310847
+0 1
+491137
+0 1
+26955
+0 1
+264889
+0 1
+1302149
+0 1
+771055
+0 1
+24026
+0 1
+263888
+0 1
+23251
+0 1
+32345
+0 1
+226362
+0 1
+386201
+0 1
+20693
+0 1
+24189
+0 1
+215430
+0 1
+169009
+0 1
+24782
+0 1
+20108
+0 1
+52627
+0 1
+26071
+0 1
+28536
+0 1
+17813
+0 1
+33709
+0 1
+28453
+0 1
+212171
+0 1
+231248
+0 1
+38325
+0 1
+24466
+0 1
+19138
+0 1
+810284
+0 1
+25822
+0 1
+23838
+0 2
+28249
+0 2
+231173
+0 1
+234502
+0 1
+380406
+0 1
+43124
+0 1
+19934
+0 1
+21783
+0 1
+1054524
+0 1
+50676
+0 1
+24945
+0 1
+23326
+0 1
+1868245
+0 1
+36878
+0 1
+356472
+0 1
+218737
+0 1
+894506
+0 1
+46290
+0 1
+23722
+0 1
+211025
+0 1
+25883
+0 1
+529110
+0 1
+1612294
+0 1
+249429
+0 1
+2221990
+0 1
+22729
+0 1
+22638
+0 1
+21890
+0 1
+24853
+0 1
+298668
+0 1
+368551
+0 1
+2788528
+0 1
+92561
+0 1
+1203200
+0 1
+25025
+0 1
+236019
+0 2
+25029
+0 1
+21621
+0 2
+695533
+0 1
+159985
+0 1
+1173311
+0 1
+211998
+0 1
+22864
+0 2
+24343
+0 2
+97692
+0 1
+25699
+0 1
+182450
+0 1
+210456
+0 1
+104119
+0 1
+25022
+0 1
+101483
+0 1
+26068
+0 2
+725989
+0 1
+90708
+0 1
+248070
+0 1
+213122
+0 1
+36041
+0 1
+31161
+0 1
+2238716
+0 1
+230020
+0 1
+225127
+0 1
+23483
+0 2
+19409
+0 1
+20000
+0 2
+36981
+0 1
+22305
+0 1
+20948
+0 1
+23934
+0 1
+29328
+0 1
+131551
+0 1
+21288
+0 1
+820804
+0 1
+25775
+0 2
+27386
+0 2
+36568
+0 1
+106210
+0 1
+27220
+0 1
+233668
+0 1
+26022
+0 1
+285208
+0 1
+954724
+0 1
+234674
+0 1
+18315
+0 1
+347741
+0 1
+93128
+0 1
+353687
+0 1
+26944
+0 1
+1798021
+0 1
+665615
+0 1
+267193
+0 1
+21808
+0 2
+24810
+0 1
+22036
+0 1
+18470
+0 1
+1576468
+0 1
+22433
+0 1
+99836
+0 1
+946420
+0 1
+215400
+0 1
+23128
+0 1
+24815
+0 1
+98086
+0 1
+99155
+0 1
+18493
+0 1
+1057444
+0 1
+1815077
+0 1
+18697
+0 2
+27795
+0 1
+182610
+0 1
+237651
+0 1
+99905
+0 1
+21307
+0 1
+227408
+0 1
+19325
+0 1
+40035
+0 1
+967915
+0 1
+22350
+0 1
+30626
+0 1
+43024
+0 1
+566636
+0 1
+256813
+0 1
+20117
+0 1
+27529
+0 1
+24478
+0 1
+34105
+0 1
+19048
+0 1
+25798
+0 1
+227173
+0 1
+217942
+0 1
+36408
+0 1
+245452
+0 1
+36721
+0 1
+514049
+0 1
+169664
+0 1
+192759
+0 1
+18837
+0 1
+21223
+0 1
+2396270
+0 1
+290006
+0 1
+19756
+0 1
+22041
+0 1
+234895
+0 1
+246505
+0 1
+1042904
+0 1
+29348
+0 1
+22821
+0 1
+225441
+0 1
+119951
+0 1
+29985
+0 1
+475545
+0 1
+22909
+0 1
+20681
+0 1
+23559
+0 3
+24845
+0 1
+26416
+0 1
+107736
+0 1
+23672
+0 1
+32398
+0 1
+206782
+0 1
+26657
+0 2
+24180
+0 1
+972228
+0 1
+31882
+0 1
+27946
+0 1
+211535
+0 1
+102326
+0 1
+217320
+0 1
+104240
+0 1
+22270
+0 1
+49037
+0 1
+221014
+0 1
+33787
+0 1
+232482
+0 1
+181146
+0 1
+64069
+0 1
+250780
+0 1
+253798
+0 1
+138377
+0 1
+253951
+0 1
+964216
+0 1
+278106
+0 1
+41112
+0 1
+247712
+0 1
+29808
+0 1
+23817
+0 2
+20438
+0 1
+162064
+0 1
+21080
+0 1
+24765
+0 1
+32224
+0 1
+22790
+0 1
+27405
+0 1
+2129864
+0 1
+216112
+0 1
+19948
+0 1
+30736
+0 1
+97273
+0 1
+219673
+0 1
+191820
+0 1
+29982
+0 1
+109779
+0 1
+158647
+0 1
+246141
+0 1
+19297
+0 1
+24518
+0 1
+29878
+0 1
+19568
+0 1
+30199
+0 1
+38256
+0 1
+23367
+0 1
+33682
+0 1
+27616
+0 1
+20187
+0 1
+18914
+0 1
+21969
+0 1
+111058
+0 1
+255362
+0 1
+27737
+0 1
+204480
+0 1
+24350
+0 1
+21714
+0 1
+217927
+0 1
+21665
+0 1
+33279
+0 1
+34368
+0 1
+27667
+0 1
+24543
+0 1
+564055
+0 1
+120201
+0 1
+112915
+0 1
+217303
+0 1
+20773
+0 1
+28922
+0 1
+24555
+0 2
+19107
+0 1
+29910
+0 1
+218205
+0 1
+139253
+0 1
+23264
+0 1
+294521
+0 1
+106106
+0 1
+29897
+0 1
+23071
+0 3
+2043593
+0 1
+2676933
+0 1
+19075
+0 1
+25331
+0 1
+23356
+0 1
+105153
+0 1
+29351
+0 1
+34770
+0 1
+219861
+0 1
+26196
+0 1
+21891
+0 1
+557625
+0 1
+19491
+0 1
+28403
+0 1
+453360
+0 1
+23966
+0 1
+109136
+0 1
+1443997
+0 1
+232253
+0 1
+26218
+0 1
+221463
+0 1
+26145
+0 1
+25840
+0 1
+24420
+0 1
+22080
+0 2
+19749
+0 1
+41824
+0 1
+31510
+0 1
+214699
+0 1
+217788
+0 1
+39450
+0 1
+215499
+0 1
+19950
+0 1
+923078
+0 1
+19945
+0 2
+675264
+0 1
+24006
+0 1
+220590
+0 1
+72464
+0 1
+22800
+0 1
+19766
+0 1
+106519
+0 1
+33552
+0 1
+28097900
+0 1
+283881
+0 1
+26817
+0 2
+248775
+0 1
+25121
+0 1
+30302
+0 1
+117166
+0 1
+72046
+0 1
+63131
+0 1
+227222
+0 1
+101107
+0 1
+220924
+0 1
+156782
+0 1
+120553
+0 1
+28865
+0 1
+48599
+0 1
+143951
+0 1
+70539
+0 1
+456508
+0 1
+23155
+0 1
+132915
+0 1
+22364
+0 1
+312611
+0 1
+47725
+0 1
+237880
+0 1
+131819
+0 1
+43936
+0 1
+20813
+0 1
+234017
+0 1
+27770
+0 1
+26373
+0 1
+119163
+0 1
+24027
+0 1
+23389
+0 2
+24267
+0 1
+259539
+0 1
+28294
+0 1
+26213
+0 1
+20905
+0 1
+21763
+0 2
+26258
+0 1
+22624
+0 1
+235008
+0 1
+26385
+0 1
+37951
+0 1
+27966
+0 1
+233704
+0 1
+221070
+0 1
+44210
+0 1
+104782
+0 1
+2319302
+0 1
+24608
+0 1
+204716
+0 1
+25009
+0 1
+23909
+0 1
+21848
+0 2
+128991
+0 1
+254113
+0 1
+25139
+0 1
+20929
+0 1
+448616
+0 1
+19907
+0 2
+102645
+0 1
+28555
+0 1
+21139
+0 1
+79728
+0 1
+24431
+0 2
+484257
+0 1
+313692
+0 1
+23860
+0 1
+80536
+0 1
+23342
+0 1
+26234
+0 1
+266977
+0 1
+20255
+0 2
+21317
+0 1
+35347
+0 1
+29016
+0 1
+22530
+0 1
+103524
+0 1
+102090
+0 1
+185452
+0 1
+296674
+0 1
+228881
+0 1
+19084
+0 1
+372690
+0 1
+28448
+0 1
+157914
+0 1
+24587
+0 2
+28675
+0 1
+31931
+0 1
+25053
+0 1
+99528
+0 1
+59236
+0 1
+30236
+0 1
+1035165
+0 1
+665000
+0 1
+19710
+0 1
+30005
+0 1
+140431
+0 1
+23502
+0 1
+42421
+0 1
+21717
+0 1
+46440
+0 1
+28296
+0 1
+27608
+0 1
+226144
+0 1
+2632849
+0 1
+36274
+0 1
+237316
+0 1
+21115
+0 1
+103457
+0 1
+25727
+0 3
+29206
+0 2
+23783
+0 1
+116318
+0 1
+481647
+0 1
+20805
+0 2
+105686
+0 1
+97902
+0 1
+20947
+0 2
+110133
+0 1
+23501
+0 1
+629767
+0 1
+184042
+0 1
+37356
+0 1
+42318
+0 1
+28052
+0 1
+20663
+0 1
+129093
+0 1
+574580
+0 1
+143337
+0 1
+18396
+0 1
+216983
+0 1
+217239
+0 2
+36925
+0 1
+22037
+0 1
+219761
+0 1
+224979
+0 1
+1115508
+0 1
+19776
+0 2
+232869
+0 1
+116708
+0 1
+20767
+0 1
+18368
+0 1
+25190
+0 1
+28489
+0 1
+130108
+0 1
+21294
+0 1
+22505
+0 2
+27321
+0 2
+49475
+0 1
+27356
+0 1
+824118
+0 1
+27994
+0 1
+34501
+0 1
+31456
+0 1
+21227
+0 1
+255026
+0 1
+67368
+0 1
+42717
+0 2
+108133
+0 1
+226004
+0 1
+696768
+0 1
+878972
+0 1
+162850
+0 1
+147868
+0 1
+30189
+0 1
+23503
+0 2
+246092
+0 1
+25859
+0 1
+62075
+0 1
+221930
+0 1
+22621
+0 1
+40737
+0 1
+18631
+0 1
+22539
+0 1
+188728
+0 1
+23980
+0 1
+27385
+0 1
+19334
+0 1
+111510
+0 1
+27025
+0 1
+57313
+0 1
+21171
+0 2
+101713
+0 1
+26058
+0 1
+796307
+0 1
+35493
+0 1
+140913
+0 1
+240054
+0 1
+56229
+0 1
+23746
+0 1
+420521
+0 1
+735645
+0 1
+111336
+0 1
+26236
+0 1
+234622
+0 1
+608553
+0 1
+27702
+0 1
+215217
+0 1
+254361
+0 1
+165518
+0 1
+23093
+0 1
+23973
+0 1
+172498
+0 1
+253261
+0 1
+546791
+0 1
+210426
+0 1
+18520
+0 1
+1100347
+0 1
+23869
+0 1
+346953
+0 1
+23932
+0 1
+23381
+0 1
+20233227
+0 1
+832127
+0 1
+68640
+0 1
+224837
+0 1
+542592
+0 1
+325544
+0 1
+22122
+0 1
+25111
+0 1
+260144
+0 1
+19070
+0 1
+258257
+0 1
+147672
+0 1
+121693
+0 1
+24072
+0 1
+19835
+0 1
+36527
+0 1
+34579
+0 1
+28017
+0 2
+27947
+0 1
+27262
+0 1
+166086
+0 1
+35455
+0 1
+64834
+0 1
+32578
+0 1
+106146
+0 1
+21175
+0 1
+26578
+0 1
+22274
+0 1
+22027
+0 1
+25520
+0 2
+25256
+0 1
+27575
+0 1
+221211
+0 1
+23865
+0 1
+22246
+0 1
+20422
+0 1
+37717
+0 1
+223813
+0 1
+490551
+0 1
+220425
+0 1
+21676
+0 1
+21111
+0 1
+578933
+0 1
+143142
+0 1
+22781
+0 1
+26433
+0 1
+21128
+0 2
+27842
+0 1
+21025
+0 1
+221694
+0 1
+36787
+0 1
+43763
+0 1
+238457
+0 1
+163657
+0 1
+178980
+0 1
+4900171
+0 1
+29361
+0 1
+35652
+0 1
+22920
+0 1
+26949
+0 1
+26991
+0 1
+72877
+0 1
+39687
+0 1
+221893
+0 1
+19416
+0 2
+223890
+0 1
+691280
+0 1
+730930
+0 1
+27475
+0 1
+104321
+0 1
+24254
+0 1
+18970
+0 1
+28384
+0 1
+24353
+0 1
+95145
+0 1
+495304
+0 1
+26596
+0 1
+103882
+0 1
+43824
+0 1
+50590
+0 1
+222392
+0 1
+22251
+0 1
+226008
+0 1
+159141
+0 1
+62224
+0 1
+172592
+0 1
+25618
+0 1
+21102
+0 1
+47332
+0 1
+125187
+0 1
+50687
+0 1
+20326
+0 1
+36227
+0 1
+20033
+0 1
+24633
+0 2
+328576
+0 1
+217607
+0 1
+19698
+0 1
+19735
+0 2
+234062
+0 1
+18644
+0 1
+1404472
+0 1
+1080712
+0 1
+210816
+0 1
+110096
+0 1
+31717
+0 1
+17234
+0 1
+117711
+0 1
+29391
+0 1
+24008
+0 1
+893317
+0 1
+29676
+0 1
+39623
+0 1
+22715
+0 1
+107957
+0 1
+348734
+0 1
+31727
+0 1
+23041
+0 2
+36694
+0 1
+37226
+0 1
+131067
+0 1
+30344
+0 1
+23577
+0 1
+145639
+0 1
+213984
+0 1
+39071
+0 1
+21515
+0 1
+95235
+0 1
+26604
+0 1
+302295
+0 1
+1089986
+0 1
+25542
+0 1
+24239
+0 2
+459496
+0 1
+219918
+0 1
+26160
+0 1
+23163
+0 1
+24375
+0 1
+47864
+0 1
+31278
+0 1
+31799
+0 1
+324911
+0 1
+33477
+0 1
+24274
+0 3
+23168
+0 1
+247938
+0 1
+584517
+0 1
+51570
+0 1
+216525
+0 1
+106974
+0 1
+32070
+0 1
+22068
+0 1
+18895
+0 1
+21257
+0 2
+102564
+0 1
+26267
+0 1
+32613
+0 1
+261158
+0 1
+26872
+0 1
+105296
+0 1
+25828
+0 1
+21694
+0 1
+978671
+0 1
+22982
+0 1
+45950
+0 1
+190143
+0 1
+129641
+0 1
+144258
+0 1
+27636
+0 1
+24284
+0 1
+242239
+0 1
+24483
+0 1
+164698
+0 1
+31654
+0 1
+42488
+0 1
+22684
+0 1
+24865
+0 1
+26917
+0 1
+23798
+0 1
+21214
+0 1
+21536
+0 1
+510050
+0 1
+303157
+0 1
+26442
+0 1
+35715
+0 1
+36780
+0 1
+36891
+0 1
+32203
+0 1
+105302
+0 2
+216509
+0 1
+110871
+0 1
+22176
+0 1
+557698
+0 1
+262114
+0 1
+64721
+0 1
+48105
+0 1
+587419
+0 1
+27968
+0 1
+40073
+0 1
+529316
+0 1
+128053
+0 1
+22857
+0 1
+1974490
+0 1
+286129
+0 1
+25280
+0 1
+24626
+0 1
+33967
+0 1
+445544
+0 1
+27543
+0 1
+24722
+0 1
+515123
+0 1
+209801
+0 1
+140937
+0 1
+32002
+0 1
+27513
+0 1
+28526
+0 1
+37618
+0 1
+29937
+0 1
+63844
+0 1
+25740
+0 1
+247198
+0 1
+56710
+0 1
+490663
+0 1
+19786
+0 1
+461679
+0 1
+18191
+0 1
+70536
+0 1
+796759
+0 1
+17557
+0 1
+19200
+0 1
+29094
+0 1
+21460
+0 1
+21001
+0 1
+24794
+0 1
+23599
+0 1
+216678
+0 1
+55700
+0 1
+23068
+0 1
+23425
+0 1
+22578
+0 1
+423278
+0 1
+258719
+0 1
+21169
+0 1
+24823
+0 1
+157227
+0 1
+228241
+0 1
+172045
+0 1
+1145663
+0 1
+128778
+0 1
+237770
+0 1
+30829
+0 1
+33557
+0 1
+154273
+0 1
+1210951
+0 1
+255450
+0 1
+957452
+0 1
+29881
+0 1
+38894
+0 1
+23942
+0 1
+911778
+0 1
+136635
+0 1
+55447
+0 1
+342041
+0 1
+99692
+0 1
+721575
+0 1
+24301
+0 2
+19839
+0 1
+110651
+0 1
+98687
+0 1
+25897
+0 1
+215074
+0 1
+105182
+0 1
+417068
+0 1
+28800
+0 1
+21718
+0 1
+66329
+0 1
+24151
+0 1
+34943
+0 1
+215423
+0 1
+20134
+0 2
+31663
+0 1
+144213
+0 1
+21302
+0 1
+28027
+0 1
+58262
+0 1
+26901
+0 1
+23736
+0 1
+636694
+0 1
+28320
+0 1
+113431
+0 1
+2040677
+0 1
+36621
+0 1
+20481
+0 2
+918399
+0 1
+760865
+0 1
+44394
+0 1
+450081
+0 1
+29757
+0 1
+25891
+0 1
+23219
+0 1
+209061
+0 1
+450513
+0 1
+24526
+0 1
+24185
+0 1
+219093
+0 1
+19010
+0 1
+154025
+0 1
+30230
+0 1
+248375
+0 1
+220483
+0 1
+25678
+0 1
+255690
+0 1
+22560
+0 1
+21985
+0 1
+1098530
+0 1
+225581
+0 1
+7432677
+0 1
+21877
+0 1
+25452
+0 1
+227941
+0 1
+44051
+0 1
+18822
+0 1
+48363
+0 1
+217957
+0 1
+32036
+0 1
+223958
+0 1
+215509
+0 1
+26809
+0 1
+112753
+0 1
+386009
+0 1
+22675
+0 1
+21068
+0 1
+1113791
+0 1
+114164
+0 1
+149907
+0 1
+30172
+0 1
+27183
+0 1
+26923
+0 1
+243952
+0 1
+28485
+0 1
+316590
+0 1
+24807
+0 1
+22281
+0 1
+110598
+0 1
+797137
+0 1
+2252688
+0 1
+58483
+0 2
+46094
+0 1
+1000040
+0 1
+18568
+0 1
+230619
+0 1
+24505
+0 1
+30226
+0 1
+101799
+0 1
+96070
+0 1
+103688
+0 1
+29419
+0 1
+114963
+0 1
+209813
+0 1
+18562
+0 1
+579093
+0 1
+25041
+0 2
+20479
+0 1
+31249
+0 1
+43755
+0 1
+225580
+0 1
+23282
+0 1
+600612
+0 1
+27075
+0 1
+372769
+0 1
+20647
+0 1
+111236
+0 1
+170992
+0 1
+105090
+0 1
+38609
+0 1
+26530
+0 1
+113785
+0 1
+222591
+0 1
+216651
+0 1
+234464
+0 1
+257779
+0 1
+134130
+0 1
+221600
+0 1
+205290
+0 1
+22356
+0 2
+23377
+0 1
+28728
+0 1
+170320
+0 1
+23288
+0 1
+105141
+0 1
+23214
+0 1
+58987
+0 1
+25567
+0 1
+116977
+0 1
+23698
+0 1
+232014
+0 1
+234538
+0 1
+102610
+0 1
+23423
+0 1
+1087408
+0 1
+34709
+0 1
+25493
+0 1
+1803653
+0 1
+26550
+0 1
+383548
+0 1
+103810
+0 1
+29849
+0 1
+18571
+0 1
+18117
+0 1
+43377
+0 1
+24023
+0 1
+858378
+0 1
+1234885
+0 1
+25136
+0 1
+29899
+0 1
+20852
+0 1
+23410
+0 1
+101703
+0 1
+54245
+0 1
+210708
+0 1
+17818
+0 1
+101730
+0 1
+25420
+0 1
+23440
+0 1
+167695
+0 1
+112157
+0 1
+21125
+0 1
+20944
+0 1
+25003
+0 1
+19976
+0 1
+28049
+0 1
+238151
+0 1
+220151
+0 1
+105707
+0 1
+365442
+0 1
+422907
+0 1
+112184
+0 1
+24708
+0 1
+25086
+0 1
+219593
+0 1
+21271
+0 2
+968315
+0 1
+22129
+0 1
+254444
+0 1
+28575
+0 1
+1490052
+0 1
+106494
+0 1
+22569
+0 1
+27881
+0 1
+26570
+0 1
+20237
+0 1
+249284
+0 1
+32928
+0 1
+72185
+0 1
+24038
+0 2
+21622
+0 1
+220890
+0 1
+28891
+0 1
+21920
+0 1
+20155
+0 2
+1808360
+0 1
+24489
+0 1
+20719
+0 2
+317856
+0 1
+22395
+0 1
+306678
+0 1
+25777
+0 1
+19547
+0 1
+1093964
+0 1
+32355
+0 2
+216722
+0 1
+288579
+0 1
+1324794
+0 1
+98316
+0 1
+22177
+0 1
+30778
+0 1
+24529
+0 2
+98734
+0 1
+59664
+0 1
+24400
+0 1
+104851
+0 1
+133258
+0 1
+212414
+0 1
+22882
+0 1
+529870
+0 1
+26334
+0 1
+23592
+0 1
+157540
+0 1
+21003
+0 1
+212926
+0 1
+24891
+0 1
+23523
+0 1
+31608
+0 1
+130056
+0 1
+34013
+0 1
+24221
+0 2
+102047
+0 1
+19881
+0 1
+99098
+0 1
+1303222
+0 1
+21041
+0 1
+32870
+0 1
+34371
+0 1
+108458
+0 1
+107099
+0 1
+34614
+0 1
+230991
+0 2
+23372
+0 2
+19587
+0 1
+20849
+0 1
+25672
+0 1
+107795
+0 1
+32435
+0 1
+605135
+0 1
+88712
+0 1
+792677
+0 1
+24983
+0 1
+103515
+0 1
+109600
+0 1
+27424
+0 2
+32566
+0 1
+1138258
+0 1
+24682
+0 1
+23494
+0 1
+281193
+0 1
+229964
+0 1
+23623
+0 1
+1074669
+0 1
+211975
+0 2
+1052892
+0 1
+243248
+0 1
+29011
+0 1
+37629
+0 1
+240465
+0 1
+139479
+0 1
+21590
+0 1
+256076
+0 1
+100918
+0 1
+26560
+0 1
+29492
+0 1
+37251
+0 1
+107484
+0 1
+22496
+0 1
+38470
+0 1
+31602
+0 1
+199978
+0 1
+23668
+0 1
+18638
+0 1
+24464
+0 1
+27755
+0 1
+25339
+0 2
+19111
+0 1
+91655
+0 1
+174094
+0 1
+28990
+0 1
+218547
+0 1
+254236
+0 1
+21503
+0 1
+23998
+0 1
+1040532
+0 1
+167694
+0 1
+28649
+0 1
+23893
+0 1
+31283
+0 1
+22501
+0 1
+477838
+0 1
+29562
+0 1
+34015
+0 1
+127224
+0 1
+57777
+0 1
+18788
+0 1
+24437
+0 1
+26729
+0 1
+17685
+0 1
+43118
+0 1
+46062
+0 1
+1500050
+0 1
+551406
+0 1
+22693
+0 1
+22124
+0 1
+251895
+0 1
+18565
+0 1
+1063014
+0 1
+98893
+0 1
+152811
+0 1
+23955
+0 1
+22320
+0 2
+27571
+0 1
+109906
+0 1
+1428291
+0 1
+273647
+0 1
+41833
+0 1
+22049
+0 2
+20572
+0 1
+225962
+0 1
+2278923
+0 1
+20888
+0 1
+223649
+0 1
+22534
+0 1
+517459
+0 1
+967954
+0 1
+24669
+0 1
+19083
+0 1
+495711
+0 1
+21398
+0 1
+440603
+0 1
+21042
+0 1
+29393
+0 1
+555577
+0 1
+215087
+0 1
+118689
+0 1
+19774
+0 1
+643718
+0 1
+22713
+0 1
+491994
+0 1
+28606
+0 1
+22942
+0 1
+222105
+0 1
+283472
+0 1
+30749
+0 1
+87924
+0 1
+339150
+0 1
+27457
+0 1
+202060
+0 1
+489250
+0 1
+152520
+0 1
+29295
+0 1
+138828
+0 1
+120438
+0 1
+35340
+0 1
+202277
+0 1
+530847
+0 1
+23371
+0 1
+126052
+0 1
+238741
+0 1
+646442
+0 1
+624733
+0 1
+25638
+0 1
+30360
+0 1
+801085
+0 1
+28290
+0 1
+627779
+0 1
+19262
+0 1
+25197
+0 2
+100603
+0 1
+26858
+0 1
+237084
+0 1
+19096
+0 1
+235089
+0 1
+30273
+0 1
+21544
+0 1
+27972
+0 1
+226404
+0 1
+49280
+0 1
+24508
+0 1
+31286
+0 1
+223402
+0 1
+28118
+0 1
+37077
+0 1
+20543
+0 1
+1463117
+0 1
+28430
+0 1
+1031133
+0 1
+960604
+0 1
+25234
+0 1
+231199
+0 1
+27077
+0 1
+22877
+0 1
+104404
+0 1
+227970
+0 1
+207257
+0 1
+30455
+0 3
+18218
+0 1
+145785
+0 1
+21641
+0 1
+128904
+0 1
+632007
+0 1
+226846
+0 1
+39639
+0 2
+36167
+0 1
+21849
+0 2
+899372
+0 1
+215612
+0 1
+28070
+0 1
+34283
+0 1
+26584
+0 1
+123939
+0 1
+25873
+0 1
+29144
+0 2
+32278
+0 1
+222350
+0 1
+19024
+0 1
+367160
+0 1
+492252
+0 1
+2101493
+0 1
+165775
+0 1
+25357
+0 1
+22826
+0 1
+21463
+0 1
+50499
+0 1
+252757
+0 1
+485382
+0 1
+905248
+0 1
+24500
+0 1
+27682
+0 1
+22732
+0 2
+40557
+0 1
+245932
+0 1
+220808
+0 1
+27005
+0 1
+126337
+0 1
+35398
+0 1
+255759
+0 1
+25096
+0 1
+32026
+0 1
+363741
+0 1
+24745
+0 1
+353586
+0 1
+24426
+0 1
+101941
+0 1
+208777
+0 1
+36852
+0 1
+35785
+0 1
+1234057
+0 1
+31341
+0 1
+19181
+0 1
+29755
+0 1
+227639
+0 1
+20890
+0 1
+19563
+0 1
+294548
+0 1
+21934
+0 1
+44061
+0 1
+23320
+0 2
+228675
+0 1
+25154
+0 1
+112847
+0 1
+118541
+0 1
+19342
+0 1
+21029
+0 1
+21607
+0 2
+107271
+0 1
+36089
+0 1
+29101
+0 1
+25127
+0 1
+192011
+0 1
+3658064
+0 1
+20471
+0 1
+26766
+0 1
+26708
+0 2
+232742
+0 1
+218241
+0 1
+18901
+0 1
+23184
+0 1
+100112
+0 1
+26262
+0 1
+107959
+0 1
+21860
+0 1
+227595
+0 1
+164403
+0 1
+21348
+0 1
+273540
+0 1
+23826
+0 2
+17972
+0 1
+130724
+0 1
+20172
+0 1
+52843
+0 1
+228950
+0 1
+29616
+0 1
+204677
+0 1
+241473
+0 1
+125914
+0 1
+118153
+0 1
+210674
+0 1
+785611
+0 1
+29431
+0 1
+28775336
+0 1
+214117
+0 1
+280348
+0 1
+27444
+0 1
+25648
+0 1
+18628
+0 1
+21822
+0 1
+38444
+0 1
+19460
+0 1
+51789
+0 1
+27826
+0 1
+23413
+0 1
+25431
+0 1
+186864
+0 1
+238488
+0 1
+212688
+0 1
+34784
+0 1
+34339
+0 2
+65738
+0 1
+65858
+0 1
+26505
+0 1
+19034
+0 1
+21320
+0 1
+279869
+0 1
+100635
+0 1
+317211
+0 1
+20825
+0 1
+63172
+0 1
+24602
+0 2
+23931
+0 1
+192501
+0 1
+32386
+0 1
+18111
+0 1
+227601
+0 1
+223727
+0 1
+22280
+0 1
+190496
+0 1
+220724
+0 1
+243974
+0 1
+25462
+0 1
+253790
+0 1
+26553
+0 1
+229654
+0 1
+385817
+0 1
+223129
+0 1
+220111
+0 1
+36545
+0 1
+24112
+0 2
+18442
+0 1
+83540
+0 1
+31467
+0 2
+18814
+0 1
+35199
+0 1
+234910
+0 1
+102826
+0 1
+23976
+0 1
+20115
+0 1
+24929
+0 1
+27762
+0 1
+234031
+0 1
+22765
+0 1
+26235
+0 1
+816220
+0 1
+57891
+0 1
+20879
+0 1
+24993
+0 1
+22615
+0 1
+31989
+0 1
+222298
+0 1
+24099
+0 1
+31526
+0 1
+18544
+0 1
+111319
+0 1
+23684
+0 3
+20771
+0 1
+249586
+0 1
+225430
+0 1
+110268
+0 1
+28221
+0 1
+32944
+0 1
+21614
+0 1
+925157
+0 1
+29952
+0 1
+21699
+0 1
+501678
+0 1
+23146
+0 3
+23991
+0 1
+27142
+0 1
+24818
+0 1
+37276
+0 1
+57190
+0 1
+43367
+0 1
+23574
+0 1
+20971
+0 2
+20084
+0 1
+784867
+0 1
+136117
+0 1
+273643
+0 1
+39489
+0 1
+23554
+0 1
+113622
+0 1
+30859
+0 2
+239664
+0 1
+219977
+0 1
+51515
+0 1
+225688
+0 1
+23394
+0 1
+20785
+0 1
+104955
+0 1
+27569
+0 1
+22185
+0 1
+35352
+0 1
+116027
+0 1
+20071
+0 1
+226341
+0 1
+23625
+0 1
+654072
+0 1
+30730
+0 1
+27381
+0 1
+460426
+0 1
+263561
+0 1
+130012
+0 1
+111563
+0 2
+287452
+0 1
+20533
+0 1
+39625
+0 1
+19221
+0 2
+777872
+0 1
+947986
+0 1
+29058
+0 1
+295869
+0 1
+52380
+0 1
+37032
+0 1
+24277
+0 1
+27593
+0 1
+20743
+0 1
+227963
+0 1
+20138
+0 1
+25728
+0 1
+28834
+0 1
+107717
+0 1
+56252
+0 1
+107131
+0 1
+144980
+0 1
+19518
+0 1
+68425
+0 1
+227996
+0 1
+39793
+0 1
+1065626
+0 1
+44016
+0 1
+23233
+0 2
+19170
+0 1
+33264
+0 1
+26173
+0 1
+29869
+0 1
+126217
+0 1
+25418
+0 1
+21620
+0 1
+22538
+0 1
+23004
+0 1
+249609
+0 1
+72598
+0 1
+886101
+0 1
+24156
+0 1
+19967
+0 2
+35888
+0 1
+23310
+0 1
+22014
+0 1
+152883
+0 1
+318711
+0 1
+36033
+0 1
+27851
+0 1
+24283
+0 1
+31611
+0 1
+110894
+0 1
+21333
+0 1
+18891
+0 1
+18468
+0 1
+243888
+0 1
+19785
+0 1
+159733
+0 1
+486804
+0 1
+132344
+0 1
+176817
+0 1
+251634
+0 1
+32062
+0 1
+25278
+0 1
+207607
+0 1
+202937
+0 1
+23731
+0 1
+4901594
+0 1
+296935
+0 1
+31636
+0 1
+114465
+0 1
+272048
+0 1
+106715
+0 1
+388919
+0 1
+21217
+0 1
+21687
+0 1
+200788
+0 1
+70372
+0 1
+38293
+0 1
+244619
+0 1
+19613
+0 1
+328476
+0 1
+401644
+0 1
+63737
+0 1
+124232
+0 1
+109510
+0 1
+22314
+0 1
+226225
+0 1
+43499
+0 1
+222990
+0 1
+530874
+0 1
+26303
+0 1
+203713
+0 1
+22985
+0 1
+250250
+0 1
+19904
+0 1
+228388
+0 1
+616107
+0 1
+113544
+0 1
+323839
+0 1
+203862
+0 1
+35176
+0 1
+113281
+0 1
+309641
+0 1
+642292
+0 1
+915568
+0 1
+286535
+0 1
+30885
+0 1
+315044
+0 1
+455482
+0 1
+25584
+0 1
+219024
+0 1
+1630467
+0 1
+1131200
+0 1
+218593
+0 1
+51947
+0 1
+405146
+0 1
+44344
+0 1
+48207
+0 1
+248048
+0 1
+23443
+0 1
+155636
+0 1
+24581
+0 2
+18388
+0 1
+99118
+0 1
+32920
+0 1
+234197
+0 1
+353181
+0 1
+27520
+0 1
+31105
+0 1
+366626
+0 1
+236510
+0 1
+244535
+0 1
+19397
+0 1
+442411
+0 1
+29287
+0 1
+49783
+0 1
+35070
+0 1
+1223452
+0 1
+20787
+0 1
+31091
+0 1
+406018
+0 1
+25504
+0 1
+30201
+0 1
+19529
+0 2
+28074
+0 1
+26611
+0 1
+227315
+0 1
+23800
+0 1
+1095830
+0 1
+34047
+0 1
+21413
+0 1
+34894
+0 1
+61256
+0 1
+25813
+0 1
+29446
+0 1
+160947
+0 1
+358891
+0 1
+6069938
+0 1
+97478
+0 1
+22977
+0 1
+24073
+0 1
+44588
+0 1
+23397
+0 2
+235991
+0 1
+37020
+0 1
+197109
+0 1
+27656
+0 1
+218681
+0 1
+201086
+0 1
+108984
+0 1
+22133
+0 1
+37554
+0 1
+41193
+0 1
+24110
+0 1
+295465
+0 1
+129306
+0 1
+242909
+0 1
+26608
+0 1
+37916
+0 1
+622162
+0 1
+26855
+0 1
+24620
+0 1
+18889
+0 1
+23294
+0 1
+852443
+0 1
+23953
+0 2
+23753
+0 1
+26135
+0 2
+212382
+0 1
+73084
+0 1
+211765
+0 1
+27319
+0 1
+165256
+0 1
+24429
+0 1
+225920
+0 1
+32833
+0 1
+145039
+0 1
+106387
+0 1
+142490
+0 1
+29852
+0 1
+640140
+0 1
+23073
+0 1
+194942
+0 1
+28992
+0 1
+111098
+0 1
+27454
+0 1
+449748
+0 1
+20799
+0 1
+24497
+0 1
+798823
+0 1
+209721
+0 1
+388951
+0 1
+426733
+0 1
+19805
+0 1
+27086
+0 1
+124454
+0 1
+38010
+0 1
+56479
+0 1
+39456
+0 1
+863635
+0 1
+234377
+0 1
+47017
+0 1
+23551
+0 1
+46118
+0 1
+48295
+0 1
+21301
+0 1
+25445
+0 1
+29220
+0 1
+186309
+0 1
+378430
+0 1
+21319
+0 1
+23645
+0 1
+27515
+0 1
+22143
+0 1
+230101
+0 1
+239308
+0 1
+34026
+0 1
+20863
+0 1
+20988
+0 1
+32588
+0 1
+54667
+0 1
+24923
+0 1
+21082
+0 1
+101871
+0 1
+1191750
+0 1
+43404
+0 1
+249751
+0 1
+25789
+0 1
+19763
+0 1
+22905
+0 3
+250764
+0 1
+27525
+0 1
+24827
+0 1
+109933
+0 1
+20446
+0 1
+29943
+0 1
+40281
+0 1
+132937
+0 1
+38109
+0 1
+7352001
+0 1
+214041
+0 1
+223173
+0 1
+40771
+0 1
+31671
+0 1
+22259
+0 1
+23525
+0 1
+106233
+0 1
+19647
+0 1
+23194
+0 1
+21092
+0 1
+63974
+0 1
+29452
+0 1
+21549
+0 1
+40885
+0 1
+211749
+0 1
+234572
+0 1
+84560
+0 1
+68634
+0 1
+371313
+0 1
+30223
+0 1
+32796
+0 1
+26444
+0 1
+491655
+0 1
+58447
+0 1
+25322
+0 1
+31565
+0 1
+723864
+0 1
+365727
+0 1
+19657
+0 1
+222853
+0 1
+21972
+0 2
+44628
+0 1
+21671
+0 1
+2164157
+0 1
+22452
+0 1
+28142
+0 1
+80431
+0 1
+213950
+0 1
+215541
+0 1
+25785
+0 1
+25919
+0 1
+135624
+0 1
+31502
+0 1
+243717
+0 1
+30909
+0 1
+192674
+0 1
+20225
+0 1
+245367
+0 1
+375214
+0 1
+234777
+0 1
+150426
+0 1
+29486
+0 1
+115099
+0 1
+20602
+0 2
+238609
+0 1
+24855
+0 1
+262713
+0 1
+24271
+0 1
+20624
+0 1
+203292
+0 1
+110878
+0 1
+36951
+0 1
+67628
+0 1
+148052
+0 1
+232961
+0 1
+31996
+0 1
+22680
+0 1
+105918
+0 1
+29471
+0 2
+560244
+0 1
+346193
+0 1
+58864
+0 1
+512189
+0 1
+29790
+0 1
+23585
+0 1
+29352
+0 1
+277471
+0 1
+24014
+0 1
+230645
+0 1
+35186
+0 1
+18949
+0 1
+23248
+0 1
+1379601
+0 1
+303655
+0 1
+811443
+0 1
+285817
+0 1
+21148
+0 1
+228018
+0 1
+25613
+0 2
+39585
+0 1
+29438
+0 1
+50217
+0 1
+26548
+0 1
+722495
+0 1
+26506
+0 1
+27805
+0 1
+23570
+0 1
+22659
+0 1
+111341
+0 1
+427389
+0 1
+32770
+0 1
+218238
+0 1
+219214
+0 1
+1283870
+0 1
+23463
+0 1
+18940
+0 1
+109730
+0 2
+25675
+0 1
+205965
+0 1
+220843
+0 1
+163977
+0 1
+112982
+0 1
+41472
+0 1
+26219
+0 1
+2391888
+0 1
+23267
+0 2
+21675
+0 1
+22574
+0 1
+2676426
+0 1
+109146
+0 1
+36719
+0 1
+26341
+0 1
+22184
+0 1
+103517
+0 1
+32935
+0 1
+19495
+0 1
+848990
+0 1
+43382
+0 1
+22738
+0 1
+122681
+0 1
+39740
+0 1
+1327703
+0 1
+61759
+0 1
+21343
+0 1
+19057
+0 1
+646862
+0 1
+18373
+0 1
+56582
+0 1
+21283
+0 1
+27685
+0 1
+224815
+0 1
+23254
+0 1
+22993
+0 2
+23305
+0 1
+25871
+0 1
+240097
+0 1
+1058632
+0 1
+22771
+0 1
+19820
+0 1
+23150
+0 1
+99487
+0 1
+19918
+0 2
+237342
+0 1
+179860
+0 1
+266336
+0 1
+33032
+0 1
+24553
+0 1
+21782
+0 1
+116094
+0 1
+27295
+0 1
+20598
+0 2
+243527
+0 1
+20540
+0 1
+144038
+0 1
+24347
+0 1
+222016
+0 1
+31126
+0 1
+349959
+0 1
+906705
+0 1
+27738
+0 1
+31623
+0 1
+20668
+0 1
+200453
+0 1
+23954
+0 1
+20368
+0 1
+134525
+0 1
+234331
+0 1
+97183
+0 1
+233907
+0 1
+7229692
+0 1
+26502
+0 1
+165948
+0 1
+21018
+0 1
+332193
+0 1
+26771
+0 1
+277147
+0 1
+26922
+0 2
+100428
+0 1
+287598
+0 1
+103950
+0 1
+31547
+0 1
+21208
+0 1
+48939
+0 1
+24056
+0 2
+668129
+0 1
+23628
+0 2
+30473
+0 1
+22819
+0 1
+203766
+0 1
+29299
+0 1
+23157
+0 2
+26415
+0 2
+23618
+0 1
+104008
+0 1
+223194
+0 1
+24314
+0 1
+18084
+0 1
+35313
+0 1
+865018
+0 1
+107576
+0 1
+314903
+0 1
+45968
+0 1
+242799
+0 1
+53245
+0 1
+931781
+0 1
+237262
+0 1
+17413
+0 1
+344716
+0 1
+20744
+0 1
+104510
+0 1
+24498
+0 1
+19928
+0 1
+18689
+0 1
+152069
+0 1
+26845
+0 1
+366147
+0 1
+229638
+0 1
+200758
+0 1
+22880
+0 1
+119934
+0 1
+67341
+0 1
+107243
+0 1
+21344
+0 1
+41469
+0 1
+185119
+0 1
+29954
+0 1
+20736
+0 3
+217594
+0 1
+338817
+0 1
+33631
+0 1
+19043
+0 1
+182463
+0 1
+23906
+0 1
+24201
+0 2
+1708962
+0 1
+23579
+0 1
+25977
+0 1
+23671
+0 1
+297030
+0 1
+555665
+0 1
+93794
+0 1
+560919
+0 1
+23663
+0 1
+246509
+0 1
+1117231
+0 1
+167843
+0 1
+21193
+0 1
+1166565
+0 1
+310996
+0 1
+25094
+0 1
+29102
+0 1
+217683
+0 1
+157104
+0 1
+27242
+0 2
+17941
+0 1
+19142
+0 1
+29210
+0 1
+971083
+0 1
+215560
+0 1
+1901838
+0 1
+23856
+0 1
+220604
+0 1
+227882
+0 1
+219804
+0 1
+20895
+0 1
+21801
+0 1
+223003
+0 1
+393555
+0 1
+27864
+0 1
+107968
+0 1
+24733
+0 1
+829876
+0 1
+25354
+0 1
+225510
+0 1
+40015
+0 1
+26315
+0 1
+113860
+0 1
+155724
+0 1
+23418
+0 2
+780833
+0 1
+22823
+0 1
+32569
+0 1
+106531
+0 1
+214095
+0 1
+35572
+0 1
+128488
+0 1
+84976
+0 1
+30745
+0 1
+23261
+0 1
+57089
+0 1
+22570
+0 1
+28515
+0 1
+240887
+0 1
+24791
+0 1
+35547
+0 1
+664912
+0 1
+222033
+0 1
+149568
+0 1
+216335
+0 1
+27028
+0 1
+25200
+0 1
+162198
+0 1
+30479
+0 1
+1534535
+0 1
+241840
+0 1
+269690
+0 1
+24990
+0 2
+37588
+0 1
+31378
+0 1
+25519
+0 2
+790373
+0 1
+37300
+0 1
+606934
+0 1
+27711
+0 2
+23401
+0 1
+20710
+0 1
+28493
+0 1
+264761
+0 1
+18289
+0 1
+272885
+0 1
+241860
+0 1
+182233
+0 1
+24447
+0 2
+22641
+0 2
+108248
+0 1
+1823482
+0 1
+26638
+0 1
+328879
+0 1
+110914
+0 1
+25023
+0 1
+31109
+0 1
+23179
+0 1
+32781
+0 1
+371293
+0 1
+240012
+0 1
+228729
+0 1
+225362
+0 1
+20186
+0 1
+20725
+0 1
+36862
+0 1
+24967
+0 1
+270371
+0 1
+129691
+0 1
+1018482
+0 1
+18722
+0 2
+19466
+0 1
+100742
+0 1
+183402
+0 1
+27235
+0 1
+249035
+0 1
+440215
+0 1
+893543
+0 1
+23037
+0 1
+23428
+0 1
+22244
+0 1
+24545
+0 1
+308745
+0 1
+27786
+0 1
+199268
+0 1
+39453
+0 1
+106861
+0 1
+60073
+0 1
+1437913
+0 1
+33695
+0 1
+25266
+0 1
+204984
+0 1
+226226
+0 1
+37880
+0 1
+575289
+0 1
+19964
+0 1
+106491
+0 1
+37242
+0 1
+22726
+0 1
+17855
+0 1
+94977
+0 1
+26791
+0 1
+250548
+0 1
+23416
+0 1
+135076
+0 1
+202661
+0 1
+181967
+0 1
+19599
+0 1
+23974
+0 1
+24106
+0 3
+20733
+0 1
+24692
+0 2
+143271
+0 1
+23789
+0 1
+29687
+0 1
+422804
+0 1
+33168
+0 1
+25125
+0 1
+22207
+0 1
+20331
+0 1
+31613
+0 1
+25173
+0 2
+55387
+0 1
+20157
+0 1
+23142
+0 3
+22654
+0 1
+24494
+0 1
+234006
+0 1
+27282
+0 1
+28258
+0 1
+25303
+0 1
+20495
+0 1
+30571
+0 1
+25258
+0 1
+27050
+0 1
+27398
+0 1
+279237
+0 1
+224865
+0 1
+208109
+0 1
+29917
+0 1
+23647
+0 1
+106598
+0 1
+21228
+0 1
+28152
+0 1
+42664
+0 1
+1261306
+0 1
+24895
+0 1
+228341
+0 1
+264445
+0 1
+26768
+0 1
+205410
+0 1
+26168
+0 1
+23274
+0 1
+32762
+0 1
+241080
+0 1
+22060
+0 2
+1511942
+0 1
+89672
+0 1
+980129
+0 1
+24159
+0 1
+21451
+0 1
+23724
+0 1
+22130
+0 1
+19772
+0 1
+143853
+0 1
+206636
+0 1
+33629
+0 1
+26528
+0 1
+97420
+0 1
+21382
+0 1
+215433
+0 1
+277453
+0 1
+457569
+0 1
+1153028
+0 1
+23499
+0 1
+30772
+0 1
+24371
+0 1
+19590
+0 2
+26781
+0 1
+20074
+0 1
+24766
+0 1
+27073
+0 1
+32639
+0 1
+974148
+0 1
+234254
+0 1
+21797
+0 1
+1359147
+0 1
+25551
+0 1
+64903
+0 1
+955206
+0 1
+34395
+0 1
+27114
+0 1
+103399
+0 2
+27839
+0 1
+101722
+0 2
+28508
+0 1
+43800
+0 1
+476551
+0 1
+29319
+0 1
+247212
+0 1
+247351
+0 1
+100057
+0 1
+52686
+0 1
+33915
+0 1
+101546
+0 1
+106109
+0 1
+279419
+0 1
+29546
+0 3
+29485
+0 1
+23686
+0 1
+19974
+0 1
+90385
+0 1
+24764
+0 1
+25076
+0 1
+24033
+0 1
+416871
+0 1
+19947
+0 1
+31866
+0 1
+202623
+0 1
+39244
+0 1
+184583
+0 1
+23217
+0 1
+135974
+0 1
+29088
+0 1
+20169
+0 2
+24462
+0 1
+30653
+0 1
+21406
+0 2
+131521
+0 1
+20358
+0 1
+256877
+0 1
+32323
+0 1
+48445
+0 1
+123747
+0 1
+246550
+0 1
+23749
+0 1
+244860
+0 1
+218198
+0 1
+869771
+0 1
+221194
+0 1
+34096
+0 1
+27018
+0 1
+24746
+0 1
+33231
+0 1
+27259
+0 1
+121864
+0 1
+501727
+0 1
+513858
+0 1
+2592827
+0 1
+423183
+0 1
+20154
+0 1
+25893
+0 1
+101549
+0 1
+687505
+0 1
+47800
+0 1
+26647
+0 1
+21571
+0 1
+246398
+0 1
+347472
+0 1
+218794
+0 1
+36535
+0 1
+21857
+0 2
+29966
+0 1
+288598
+0 1
+25826
+0 1
+44207
+0 1
+24285
+0 1
+23767
+0 1
+25332
+0 1
+2481842
+0 1
+221880
+0 1
+18643
+0 1
+37826
+0 1
+36667
+0 1
+529063
+0 1
+112195
+0 1
+58892
+0 1
+18801
+0 1
+32281
+0 1
+23899
+0 2
+224811
+0 1
+30383
+0 1
+24121
+0 1
+230877
+0 1
+230149
+0 1
+254447
+0 1
+169218
+0 1
+27669
+0 1
+18014
+0 1
+31134
+0 1
+24736
+0 1
+33917
+0 1
+24650
+0 1
+30018
+0 1
+21212
+0 1
+235977
+0 1
+26089
+0 1
+28465
+0 1
+265585
+0 1
+23302
+0 1
+663324
+0 1
+21493
+0 1
+410101
+0 1
+21408
+0 1
+21437
+0 1
+187917
+0 1
+242150
+0 1
+35588
+0 1
+92499
+0 1
+24756
+0 1
+20351
+0 1
+26685
+0 1
+224956
+0 1
+37401
+0 1
+719321
+0 1
+241675
+0 1
+293929
+0 1
+229983
+0 1
+18053
+0 1
+114523
+0 1
+26223
+0 1
+22203
+0 1
+28187
+0 1
+25193
+0 1
+429615
+0 1
+116942
+0 1
+46689
+0 1
+25262
+0 1
+1336480
+0 1
+22825
+0 1
+98082
+0 1
+199251
+0 1
+22159
+0 1
+109043
+0 1
+28702
+0 1
+242331
+0 1
+24803
+0 1
+26086
+0 1
+33946
+0 1
+26873
+0 1
+207421
+0 1
+802980
+0 1
+99140
+0 1
+361699
+0 1
+35577
+0 1
+19213
+0 1
+29217
+0 1
+25539
+0 1
+1187433
+0 1
+159370
+0 1
+23170
+0 1
+158467
+0 1
+18840
+0 1
+21603
+0 2
+104407
+0 1
+1427927
+0 1
+232644
+0 1
+20484
+0 1
+401655
+0 1
+1295328
+0 1
+232231
+0 1
+21464
+0 1
+27820
+0 1
+371439
+0 1
+20315
+0 1
+140143
+0 1
+80339
+0 1
+41398
+0 1
+23781
+0 1
+107515
+0 1
+27486
+0 1
+992899
+0 1
+1474026
+0 1
+28102
+0 1
+22249
+0 2
+109105
+0 1
+20842
+0 1
+1131915
+0 1
+246671
+0 1
+69169
+0 1
+59025
+0 1
+31909
+0 1
+241815
+0 1
+144157
+0 1
+249022
+0 1
+26705
+0 1
+31824
+0 1
+22480
+0 1
+25330
+0 1
+20949
+0 1
+32380
+0 1
+194526
+0 1
+214250
+0 1
+1079276
+0 1
+147928
+0 1
+28211
+0 1
+244562
+0 1
+75200
+0 1
+236750
+0 1
+178287
+0 1
+18467
+0 1
+233932
+0 1
+284316
+0 1
+35080
+0 1
+233757
+0 2
+19855
+0 1
+21177
+0 2
+19578
+0 1
+976525
+0 1
+1125131
+0 1
+20653
+0 1
+20233
+0 1
+196832
+0 1
+17035
+0 1
+701532
+0 1
+36688
+0 1
+30032
+0 1
+97830
+0 1
+159107
+0 1
+62680
+0 1
+110390
+0 1
+1829299
+0 1
+32696
+0 1
+36995
+0 1
+114557
+0 1
+32976
+0 2
+35664
+0 1
+26031
+0 2
+31290
+0 1
+226298
+0 1
+24834
+0 1
+228928
+0 1
+116430
+0 1
+124356
+0 1
+21013
+0 1
+23316
+0 1
+190848
+0 1
+22427
+0 1
+181618
+0 1
+209648
+0 1
+20393
+0 1
+1777532
+0 1
+23464
+0 1
+122716
+0 1
+25317
+0 2
+25387
+0 1
+31952
+0 1
+28963
+0 1
+207342
+0 1
+220237
+0 1
+157011
+0 1
+26154
+0 1
+30406
+0 1
+19501
+0 1
+30320
+0 1
+20498
+0 1
+646917
+0 1
+1432716
+0 1
+24623
+0 1
+141108
+0 1
+19941
+0 2
+102910
+0 1
+25170
+0 1
+32373
+0 1
+207263
+0 1
+149297
+0 1
+20553
+0 1
+20264
+0 1
+274597
+0 1
+29817
+0 1
+30998
+0 1
+245210
+0 1
+18735
+0 1
+215746
+0 1
+25711
+0 1
+22954
+0 1
+228569
+0 1
+23792
+0 2
+30919
+0 1
+28418
+0 1
+18874
+0 1
+245992
+0 1
+29479
+0 1
+1166479
+0 1
+24639
+0 1
+222862
+0 1
+18965
+0 1
+21847
+0 2
+2338990
+0 1
+21742
+0 1
+19882
+0 1
+19013
+0 1
+565950
+0 1
+41945
+0 1
+29661
+0 1
+118271
+0 1
+32329
+0 1
+162391
+0 1
+24619
+0 1
+26863
+0 2
+135773
+0 1
+34081
+0 1
+252400
+0 1
+316973
+0 1
+82326
+0 1
+229457
+0 1
+225334
+0 1
+27372
+0 1
+28420
+0 1
+245175
+0 1
+21407
+0 1
+39587
+0 1
+26376
+0 1
+386425
+0 1
+98342
+0 1
+116480
+0 1
+257638
+0 1
+21921
+0 1
+215451
+0 1
+477358
+0 1
+225059
+0 1
+27367
+0 1
+36794
+0 1
+26490
+0 1
+30486
+0 1
+226808
+0 1
+343380
+0 1
+674827
+0 1
+26694
+0 1
+147466
+0 1
+19141
+0 1
+213529
+0 1
+21015
+0 1
+248537
+0 1
+22044
+0 1
+21454
+0 2
+27614
+0 1
+1402619
+0 1
+18897
+0 1
+36273
+0 1
+285294
+0 1
+72653
+0 1
+108070
+0 1
+102313
+0 1
+108652
+0 1
+261775
+0 1
+876557
+0 1
+24761
+0 1
+26567
+0 1
+1113800
+0 1
+701083
+0 1
+263914
+0 1
+218397
+0 1
+171260
+0 1
+866964
+0 1
+104887
+0 1
+219277
+0 1
+29048
+0 2
+114392
+0 1
+70806
+0 1
+19426
+0 1
+25369
+0 1
+29984
+0 1
+37231
+0 1
+26757
+0 1
+269921
+0 1
+225337
+0 1
+18768
+0 1
+24691
+0 1
+822745
+0 1
+82060
+0 1
+35856
+0 1
+108850
+0 1
+21573
+0 1
+28426
+0 2
+271440
+0 1
+1156264
+0 1
+23765
+0 1
+20791
+0 1
+23916
+0 2
+32642
+0 1
+23188
+0 1
+25895
+0 1
+48069
+0 1
+221397
+0 1
+987548
+0 1
+185487
+0 1
+1325087
+0 1
+126504
+0 1
+25830
+0 1
+123187
+0 1
+548551
+0 1
+105275
+0 1
+35055
+0 1
+22290
+0 1
+105880
+0 1
+218305
+0 1
+25241
+0 1
+18573
+0 1
+158829
+0 1
+225767
+0 1
+634739
+0 1
+24663
+0 1
+655155
+0 1
+876966
+0 1
+25064
+0 1
+27494
+0 1
+22899
+0 2
+230360
+0 1
+30001
+0 1
+21471
+0 2
+347278
+0 1
+36355
+0 1
+24750
+0 1
+29309
+0 1
+19131
+0 1
+459464
+0 1
+251120
+0 1
+472885
+0 1
+492050
+0 1
+69234
+0 1
+25695
+0 1
+22611
+0 1
+23110
+0 1
+21358
+0 2
+43762
+0 1
+27499
+0 1
+101659
+0 1
+27419
+0 1
+20569
+0 1
+19341
+0 1
+1014757
+0 1
+1024297
+0 1
+39520
+0 1
+97896
+0 1
+18517
+0 1
+104742
+0 1
+30828
+0 1
+132606
+0 1
+1017483
+0 1
+224549
+0 1
+33389
+0 1
+204493
+0 1
+105099
+0 1
+25513
+0 1
+19924
+0 2
+20882
+0 1
+98934
+0 1
+31631
+0 1
+30087
+0 1
+108889
+0 1
+18572
+0 1
+43998
+0 1
+22761
+0 1
+336079
+0 1
+2123788
+0 1
+29131
+0 1
+23940
+0 3
+22403
+0 1
+31155
+0 1
+25999
+0 1
+1552605
+0 1
+61678
+0 1
+44935
+0 1
+20588
+0 1
+19937
+0 2
+201061
+0 1
+29633
+0 1
+242498
+0 1
+26467
+0 2
+19946
+0 1
+866181
+0 1
+235936
+0 1
+20615
+0 1
+46558
+0 1
+216173
+0 1
+22516
+0 1
+232581
+0 1
+19296
+0 1
+92881
+0 1
+21851
+0 1
+223996
+0 1
+35484
+0 2
+27479
+0 1
+79864
+0 1
+20667
+0 1
+19631
+0 1
+1174050
+0 1
+105151
+0 1
+19767
+0 1
+175518
+0 1
+748366
+0 1
+25329
+0 1
+27058
+0 2
+28139
+0 1
+19509
+0 1
+27092
+0 1
+235685
+0 1
+108750
+0 1
+226897
+0 1
+222981
+0 1
+53137
+0 1
+189160
+0 1
+341739
+0 1
+21932
+0 1
+807544
+0 1
+1194380
+0 1
+30931
+0 1
+46010
+0 1
+1947730
+0 1
+20872
+0 1
+25184
+0 1
+37025
+0 1
+32943
+0 1
+20469
+0 1
+119624
+0 1
+23476
+0 1
+1454774
+0 1
+25931
+0 3
+216675
+0 1
+252285
+0 1
+123148
+0 1
+26064
+0 2
+234249
+0 1
+41907
+0 1
+30873
+0 1
+235035
+0 1
+18459
+0 1
+749135
+0 1
+47262
+0 1
+248240
+0 1
+28261
+0 1
+20279
+0 1
+25888
+0 1
+76946
+0 1
+28082
+0 1
+1456804
+0 1
+21264
+0 2
+139850
+0 1
+60034
+0 1
+20642
+0 1
+27175
+0 1
+24374
+0 1
+19997
+0 1
+616459
+0 1
+23374
+0 2
+26840
+0 1
+20459
+0 2
+23646
+0 1
+66612
+0 1
+236315
+0 1
+444635
+0 1
+26277
+0 1
+26542
+0 1
+26204
+0 1
+21673
+0 1
+228055
+0 1
+215967
+0 1
+52637
+0 1
+25503
+0 2
+26945
+0 1
+24455
+0 1
+208998
+0 1
+27963
+0 2
+367726
+0 1
+230425
+0 1
+122568
+0 1
+109624
+0 1
+1257914
+0 1
+19873
+0 1
+27043
+0 1
+125194
+0 1
+481588
+0 1
+298919
+0 1
+229051
+0 1
+361770
+0 1
+18462
+0 2
+98322
+0 1
+487129
+0 1
+150994
+0 1
+44736
+0 1
+29010
+0 1
+30652
+0 1
+31642
+0 1
+19936
+0 1
+289129
+0 1
+25739
+0 1
+31196
+0 1
+24379
+0 1
+20184
+0 1
+23596
+0 1
+21071
+0 1
+22926
+0 1
+23047
+0 1
+292913
+0 1
+15938758
+0 1
+219191
+0 1
+334600
+0 1
+29285
+0 1
+22916
+0 1
+23332
+0 1
+18893
+0 1
+39591
+0 1
+96517
+0 1
+26043
+0 1
+24085
+0 1
+456324
+0 1
+107437
+0 1
+21487
+0 1
+104212
+0 1
+330022
+0 1
+267413
+0 1
+4167257
+0 1
+655208
+0 1
+23717
+0 1
+218325
+0 1
+217984
+0 1
+22750
+0 1
+386166
+0 1
+19535
+0 1
+433922
+0 1
+18982
+0 2
+25225
+0 1
+19011
+0 1
+22712
+0 1
+24016
+0 1
+230129
+0 1
+101261
+0 1
+273767
+0 1
+23089
+0 1
+22937
+0 1
+218736
+0 1
+28540
+0 1
+28134
+0 1
+24747
+0 1
+227047
+0 1
+45409
+0 1
+24181
+0 1
+395744
+0 1
+34509
+0 1
+924066
+0 1
+29428
+0 1
+374175
+0 1
+18787
+0 1
+778659
+0 1
+31282
+0 1
+21681
+0 1
+213141
+0 1
+24463
+0 1
+41421
+0 1
+34527
+0 1
+22212
+0 1
+286145
+0 1
+33329
+0 1
+159869
+0 1
+22345
+0 1
+50418
+0 1
+29622
+0 1
+340606
+0 1
+247259
+0 1
+25833
+0 2
+217894
+0 1
+208350
+0 1
+32951
+0 1
+24730
+0 1
+34675
+0 1
+20738
+0 2
+32883
+0 1
+2697613
+0 1
+23583
+0 1
+29892
+0 1
+21868
+0 1
+21601
+0 1
+217745
+0 1
+23345
+0 1
+24063
+0 1
+216664
+0 1
+468067
+0 1
+103594
+0 1
+879604
+0 1
+19643
+0 1
+25114
+0 1
+220907
+0 1
+22958
+0 2
+51528
+0 1
+63195
+0 1
+25153
+0 1
+187903
+0 1
+259871
+0 1
+39380
+0 1
+43648
+0 1
+1565675
+0 1
+32140
+0 1
+27930
+0 1
+26007
+0 1
+118741
+0 1
+244219
+0 1
+44398
+0 1
+1083996
+0 1
+24838
+0 1
+19917
+0 1
+20502
+0 1
+622126
+0 1
+22230
+0 1
+29728
+0 1
+19273
+0 1
+24851
+0 1
+686800
+0 1
+488172
+0 1
+34736
+0 1
+308130
+0 1
+20332
+0 1
+29009
+0 2
+225056
+0 1
+125260
+0 1
+215219
+0 1
+24001
+0 1
+125300
+0 1
+115463
+0 1
+23787
+0 1
+208486
+0 1
+349690
+0 1
+107133
+0 1
+20978
+0 1
+76560
+0 1
+125801
+0 1
+1061216
+0 1
+214577
+0 1
+25490
+0 2
+22780
+0 1
+21512
+0 1
+1385226
+0 1
+23299
+0 1
+259989
+0 1
+186582
+0 1
+22736
+0 1
+28434
+0 1
+22310
+0 1
+25474
+0 1
+230770
+0 1
+170236
+0 1
+27245
+0 1
+270120
+0 1
+26864
+0 1
+160654
+0 1
+333230
+0 1
+20228
+0 1
+27909
+0 1
+228693
+0 1
+99290
+0 1
+66879
+0 1
+379643
+0 1
+24220
+0 1
+80165
+0 1
+35030
+0 1
+22968
+0 1
+30106
+0 1
+18747
+0 1
+26639
+0 1
+347658
+0 1
+21127
+0 1
+43278
+0 1
+24616
+0 1
+20102
+0 2
+19955
+0 1
+27753
+0 1
+32497
+0 1
+399214
+0 1
+31030
+0 1
+156640
+0 1
+37342
+0 1
+107865
+0 1
+62514
+0 1
+42132
+0 1
+28447
+0 1
+20277
+0 2
+22398
+0 1
+250190
+0 1
+111978
+0 1
+23863
+0 1
+20227686
+0 1
+27396
+0 1
+18919
+0 1
+109582
+0 1
+27567
+0 1
+21928
+0 1
+54376
+0 1
+119180
+0 1
+20776
+0 2
+23727
+0 1
+29816
+0 1
+25702
+0 1
+198764
+0 1
+27584
+0 1
+226567
+0 1
+49179
+0 1
+42350
+0 1
+52090
+0 1
+29252
+0 1
+28740
+0 1
+19840
+0 1
+110460
+0 1
+40461
+0 1
+186422
+0 1
+338677
+0 1
+106364
+0 1
+21871
+0 1
+32005
+0 1
+23190
+0 1
+31976
+0 1
+26296
+0 1
+22558
+0 1
+21918
+0 1
+20541
+0 2
+28072
+0 1
+24980
+0 1
+23272
+0 2
+29930
+0 1
+22111
+0 1
+223665
+0 1
+699511
+0 1
+25824
+0 1
+17461
+0 1
+25805
+0 1
+19773
+0 1
+253697
+0 1
+21011
+0 2
+20030
+0 2
+250041
+0 1
+33199
+0 1
+347014
+0 1
+23082
+0 1
+230576
+0 1
+101137
+0 1
+20067
+0 1
+27720
+0 1
+30385
+0 2
+24153
+0 2
+987945
+0 1
+37066
+0 1
+26399
+0 1
+47495
+0 1
+208796
+0 1
+32051
+0 1
+51145
+0 1
+30077
+0 1
+139934
+0 1
+20790
+0 1
+29404
+0 1
+540666
+0 1
+144406
+0 1
+21401
+0 1
+57064
+0 1
+237343
+0 1
+221450
+0 1
+189505
+0 1
+42559
+0 1
+127384
+0 1
+25068
+0 1
+29143
+0 2
+22056
+0 1
+191704
+0 1
+258355
+0 1
+23484
+0 1
+26330
+0 1
+22004
+0 1
+22361
+0 1
+215022
+0 1
+20657
+0 1
+29305
+0 1
+23309
+0 1
+56827
+0 1
+19824
+0 1
+27861
+0 1
+27192
+0 1
+233246
+0 1
+27272
+0 1
+176500
+0 1
+413482
+0 1
+27876
+0 2
+18051
+0 1
+20538
+0 1
+1435554
+0 1
+24710
+0 1
+102252
+0 1
+32483
+0 1
+31735
+0 1
+222923
+0 1
+23773
+0 2
+49225
+0 1
+29934
+0 1
+18546
+0 1
+23945
+0 2
+70062
+0 1
+21936
+0 1
+34255
+0 1
+166247
+0 1
+19644
+0 1
+26356
+0 1
+30891
+0 1
+24281
+0 1
+209950
+0 1
+22788
+0 1
+25581
+0 1
+26653
+0 1
+462387
+0 1
+210862
+0 1
+224728
+0 1
+209759
+0 1
+242199
+0 1
+25825
+0 1
+238688
+0 1
+28767
+0 1
+113373
+0 1
+99188
+0 1
+216091
+0 1
+223413
+0 1
+219657
+0 1
+32511
+0 1
+27110
+0 1
+234531
+0 1
+173484
+0 1
+126442
+0 1
+6506735
+0 1
+50874
+0 1
+777714
+0 1
+26252
+0 1
+142244
+0 1
+71906
+0 1
+28363
+0 2
+29690
+0 1
+62335
+0 1
+239895
+0 1
+42092
+0 1
+30840
+0 1
+301613
+0 1
+236595
+0 1
+21926
+0 1
+313073
+0 1
+23033
+0 1
+18028
+0 1
+186748
+0 1
+259526
+0 1
+23744
+0 1
+2547450
+0 1
+26776
+0 1
+1471418
+0 1
+864653
+0 1
+955297
+0 1
+32610
+0 1
+20339
+0 1
+23234
+0 2
+20924
+0 1
+17496
+0 1
+114955
+0 1
+576757
+0 1
+24751
+0 1
+30948
+0 1
+24563
+0 1
+214507
+0 1
+20903
+0 1
+22866
+0 1
+360257
+0 1
+36472
+0 1
+31500
+0 1
+985205
+0 1
+127668
+0 1
+87997
+0 1
+746335
+0 1
+296876
+0 1
+24866
+0 1
+751860
+0 1
+18996
+0 1
+33887
+0 1
+46821
+0 1
+114616
+0 1
+31175
+0 1
+1077002
+0 1
+268575
+0 1
+354951
+0 1
+198705
+0 1
+43616
+0 1
+21242
+0 1
+113069
+0 1
+19543
+0 1
+20500
+0 1
+223949
+0 1
+309930
+0 1
+24902
+0 1
+99099
+0 1
+240354
+0 1
+25428
+0 1
+28643
+0 1
+35307
+0 1
+28554
+0 1
+20756
+0 1
+21414
+0 1
+19553
+0 1
+241152
+0 1
+187810
+0 1
+25703
+0 1
+27461
+0 1
+20875
+0 1
+19380
+0 1
+936411
+0 1
+24360
+0 1
+791539
+0 1
+20634
+0 1
+19961
+0 1
+26392
+0 1
+233850
+0 1
+21526
+0 1
+118829
+0 1
+167760
+0 1
+26021
+0 1
+86431
+0 1
+273995
+0 1
+21300
+0 2
+98059
+0 1
+105977
+0 1
+222187
+0 1
+21316
+0 1
+24566
+0 1
+27857
+0 1
+22883
+0 1
+122613
+0 1
+25291
+0 1
+336237
+0 1
+162065
+0 1
+211868
+0 1
+244016
+0 1
+157671
+0 1
+63235
+0 1
+1445384
+0 1
+26241
+0 1
+13024229
+0 1
+120637
+0 1
+126833
+0 1
+219854
+0 1
+23847
+0 1
+241706
+0 1
+25145
+0 2
+114013
+0 1
+464170
+0 1
+668021
+0 1
+651719
+0 1
+29280
+0 1
+118330
+0 1
+21859
+0 1
+3057096
+0 1
+26556
+0 1
+120349
+0 1
+126492
+0 1
+22412
+0 1
+20334
+0 1
+25437
+0 2
+29539
+0 1
+1023356
+0 1
+99714
+0 1
+168483
+0 1
+120288
+0 1
+23391
+0 2
+27217
+0 1
+33897
+0 1
+217663
+0 1
+187292
+0 1
+1562905
+0 1
+20242
+0 1
+19544
+0 2
+23225
+0 1
+103713
+0 1
+265800
+0 1
+302641
+0 1
+22777
+0 3
+21368
+0 1
+22889
+0 1
+147763
+0 1
+24533
+0 1
+27541
+0 1
+110386
+0 1
+429323
+0 1
+128101
+0 1
+27585
+0 1
+650576
+0 1
+23695
+0 2
+27789
+0 1
+32371
+0 1
+23434
+0 1
+383892
+0 1
+229062
+0 1
+27470
+0 1
+40076
+0 1
+109740
+0 1
+748474
+0 1
+19481
+0 1
+219119
+0 1
+223103
+0 1
+249078
+0 1
+20113
+0 1
+217903
+0 1
+899099
+0 1
+1481936
+0 1
+19672
+0 1
+22476
+0 1
+418369
+0 1
+24061
+0 1
+27331
+0 1
+66112
+0 1
+30430
+0 1
+26679
+0 1
+199936
+0 1
+11423703
+0 1
+93251
+0 1
+743016
+0 1
+230640
+0 1
+1202611
+0 1
+233384
+0 1
+26806
+0 1
+106469
+0 1
+800532
+0 1
+195898
+0 1
+23306
+0 1
+49760
+0 1
+245572
+0 1
+832558
+0 1
+22239
+0 1
+19868
+0 1
+220533
+0 2
+205616
+0 1
+802124
+0 1
+23053
+0 1
+27534
+0 1
+21811
+0 1
+26515
+0 1
+244415
+0 1
+20397
+0 1
+106652
+0 1
+21554
+0 1
+36820
+0 1
+1624830
+0 1
+186500
+0 1
+138131
+0 1
+100255
+0 1
+139858
+0 1
+240296
+0 1
+293927
+0 1
+194681
+0 1
+38597
+0 1
+226340
+0 1
+21527
+0 1
+50186
+0 1
+299331
+0 1
+25061
+0 2
+108595
+0 1
+311174
+0 1
+56702
+0 1
+136407
+0 1
+33760
+0 1
+125784
+0 1
+29408
+0 1
+216613
+0 1
+1920698
+0 1
+51272
+0 1
+106520
+0 1
+23228
+0 1
+30054
+0 1
+146767
+0 1
+46581
+0 1
+58840
+0 1
+21771
+0 1
+106171
+0 1
+228471
+0 1
+30549
+0 1
+24432
+0 1
+109727
+0 1
+164916
+0 1
+335325
+0 1
+76510
+0 1
+883848
+0 1
+429382
+0 1
+393378
+0 1
+97082
+0 1
+323191
+0 1
+124469
+0 1
+31512
+0 1
+653303
+0 1
+1207116
+0 1
+258153
+0 1
+37065
+0 1
+267744
+0 1
+20861
+0 1
+24164
+0 1
+118897
+0 1
+931421
+0 1
+101393
+0 1
+19263
+0 1
+65474
+0 1
+26171
+0 1
+104547
+0 1
+102787
+0 1
+29346
+0 1
+28520
+0 1
+32722
+0 1
+529133
+0 1
+40289
+0 1
+21754
+0 1
+21321
+0 1
+107468
+0 1
+28264
+0 1
+228225
+0 1
+19074
+0 1
+177107
+0 1
+224800
+0 1
+28016
+0 1
+17643
+0 1
+22524
+0 1
+558917
+0 1
+997930
+0 1
+20729
+0 1
+30551
+0 1
+41743
+0 1
+34418
+0 1
+278872
+0 1
+24294
+0 1
+27993
+0 1
+27663
+0 1
+101325
+0 1
+32338
+0 1
+20618
+0 1
+111512
+0 1
+438971
+0 1
+25277
+0 1
+25336
+0 2
+238593
+0 1
+24401
+0 1
+22716
+0 1
+141805
+0 1
+57086
+0 1
+21468
+0 1
+212734
+0 1
+846258
+0 1
+51813
+0 1
+24124
+0 1
+199820
+0 1
+23115
+0 1
+171713
+0 1
+19528
+0 1
+79497
+0 1
+29797
+0 1
+118756
+0 1
+51794
+0 1
+234288
+0 1
+24702
+0 1
+22439
+0 2
+22242
+0 1
+19291
+0 1
+23029
+0 1
+23252
+0 1
+258053
+0 1
+30101
+0 1
+240245
+0 1
+33240
+0 1
+34548
+0 1
+7713758
+0 1
+111317
+0 1
+20387
+0 1
+744912
+0 1
+221064
+0 1
+23986
+0 2
+213458
+0 1
+434370
+0 1
+19691
+0 1
+162517
+0 1
+228495
+0 1
+34196
+0 1
+652229
+0 1
+21924
+0 1
+209476
+0 1
+215758
+0 1
+18616
+0 1
+104487
+0 1
+22846
+0 1
+229206
+0 1
+41644
+0 1
+219541
+0 1
+371326
+0 1
+29531
+0 1
+22106
+0 2
+19153
+0 1
+109654
+0 1
+34538
+0 1
+24194
+0 1
+24329
+0 1
+101121
+0 1
+34143
+0 1
+23149
+0 1
+222185
+0 1
+87609
+0 1
+19900
+0 1
+117199
+0 1
+40359
+0 1
+33560
+0 1
+37234
+0 1
+22575
+0 1
+23131
+0 1
+22886
+0 1
+231170
+0 1
+165379
+0 1
+87062
+0 1
+29214
+0 1
+247934
+0 1
+525114
+0 1
+213628
+0 1
+210179
+0 1
+19078
+0 1
+227381
+0 1
+2630700
+0 1
+25860
+0 1
+170919
+0 1
+221821
+0 1
+24130
+0 1
+323907
+0 1
+117560
+0 1
+46701
+0 1
+98855
+0 1
+515968
+0 1
+56471
+0 1
+19432
+0 1
+18169
+0 1
+216837
+0 1
+390243
+0 1
+237201
+0 1
+26183
+0 1
+17513
+0 1
+1167725
+0 1
+22279
+0 1
+29238
+0 1
+278453
+0 1
+6812777
+0 1
+43154
+0 1
+467126
+0 1
+47799
+0 1
+19870
+0 2
+221228
+0 1
+21513
+0 1
+145102
+0 1
+25751
+0 1
+31210
+0 1
+286873
+0 1
+235556
+0 1
+21669
+0 2
+21979
+0 1
+72628
+0 1
+20574
+0 2
+27778
+0 1
+22038
+0 1
+4027197
+0 1
+27666
+0 1
+22915
+0 2
+20001
+0 1
+228307
+0 1
+927180
+0 1
+145839
+0 1
+18181
+0 1
+23755
+0 1
+26521
+0 2
+36814
+0 1
+229550
+0 1
+30176
+0 1
+110672
+0 1
+294927
+0 1
+18654
+0 1
+19391
+0 1
+22598
+0 1
+871697
+0 1
+27403
+0 2
+25231
+0 1
+18217
+0 1
+22435
+0 1
+1334278
+0 1
+19223
+0 1
+77143
+0 1
+458980
+0 1
+24952
+0 1
+471185
+0 1
+209304
+0 1
+22810
+0 1
+558942
+0 1
+25037
+0 1
+21757
+0 1
+23830
+0 2
+23573
+0 1
+19893
+0 3
+106999
+0 1
+272222
+0 1
+24999
+0 1
+215755
+0 1
+89217
+0 1
+43953
+0 1
+23708
+0 1
+59797
+0 1
+849928
+0 1
+163452
+0 1
+51579
+0 1
+212894
+0 1
+23946
+0 1
+47027
+0 1
+20528
+0 2
+21739
+0 1
+43795
+0 1
+25261
+0 2
+24349
+0 1
+26312
+0 1
+149866
+0 1
+2363298
+0 1
+27083
+0 2
+216478
+0 1
+21735
+0 1
+213129
+0 1
+21225
+0 1
+30347
+0 1
+25157
+0 1
+27526
+0 1
+692345
+0 1
+209695
+0 1
+128618
+0 1
+23379
+0 1
+21390
+0 1
+408965
+0 1
+21291
+0 1
+50522
+0 1
+222123
+0 1
+230616
+0 1
+356492
+0 1
+63656
+0 1
+24098
+0 1
+231274
+0 1
+226770
+0 1
+245542
+0 1
+19694
+0 1
+105887
+0 1
+24648
+0 1
+1193015
+0 1
+98566
+0 1
+20542
+0 2
+21923
+0 1
+241292
+0 1
+67711
+0 1
+44700
+0 1
+219589
+0 1
+1045467
+0 1
+23518
+0 1
+176314
+0 1
+25788
+0 1
+62991
+0 1
+24387
+0 1
+24769
+0 1
+24280
+0 3
+31723
+0 1
+212514
+0 1
+35677
+0 1
+249059
+0 1
+112584
+0 1
+2129277
+0 1
+21279
+0 1
+20402
+0 1
+28044
+0 1
+39090
+0 1
+35964
+0 1
+223317
+0 1
+22755
+0 1
+146561
+0 1
+20096
+0 1
+252723
+0 1
+235265
+0 1
+26057
+0 1
+220799
+0 1
+21594
+0 1
+20992
+0 1
+20580
+0 1
+876423
+0 1
+413728
+0 1
+499066
+0 1
+217761
+0 1
+29136
+0 1
+33749
+0 1
+22787
+0 2
+23675
+0 1
+23178
+0 1
+23357
+0 2
+53284
+0 1
+33775
+0 1
+249778
+0 1
+127147
+0 1
+122757
+0 1
+243987
+0 1
+156365
+0 1
+26651
+0 1
+17540
+0 1
+494477
+0 1
+555979
+0 1
+228349
+0 1
+318868
+0 1
+23535
+0 1
+22801
+0 1
+274917
+0 1
+23216
+0 1
+28591
+0 1
+18027
+0 1
+263578
+0 2
+70467
+0 1
+419869
+0 1
+200971
+0 1
+102093
+0 1
+23388
+0 3
+33082
+0 1
+24943
+0 2
+20739
+0 1
+23435
+0 1
+24499
+0 2
+27782
+0 1
+18293
+0 1
+262711
+0 1
+1085652
+0 1
+23399
+0 1
+96997
+0 1
+30546
+0 1
+203791
+0 1
+1115695
+0 1
+913504
+0 1
+259566
+0 1
+30295
+0 1
+21159
+0 1
+20035
+0 1
+24570
+0 1
+213627
+0 1
+22362
+0 1
+219616
+0 1
+30991
+0 1
+24868
+0 1
+21051
+0 1
+26096
+0 1
+298158
+0 1
+32618
+0 1
+30264
+0 1
+24948
+0 1
+24947
+0 1
+20567
+0 1
+29698
+0 1
+49759
+0 1
+18235
+0 1
+57680
+0 1
+68513
+0 1
+19879
+0 1
+172411
+0 1
+28210
+0 1
+26186
+0 1
+22055
+0 1
+32690
+0 1
+24700
+0 1
+21314
+0 1
+233526
+0 1
+29204
+0 1
+23493
+0 1
+239808
+0 1
+23095
+0 1
+233459
+0 1
+3616736
+0 1
+402293
+0 1
+113894
+0 1
+61327
+0 1
+25566
+0 1
+217157
+0 1
+34552
+0 1
+119266
+0 1
+246330
+0 1
+25027
+0 1
+25129
+0 1
+30751
+0 1
+21664
+0 1
+134764
+0 1
+895217
+0 1
+22195
+0 1
+21772
+0 2
+27152
+0 1
+32869
+0 1
+116074
+0 1
+20143
+0 3
+28060
+0 1
+20118
+0 1
+32093
+0 1
+38815
+0 1
+28819
+0 1
+24878
+0 2
+520757
+0 1
+213343
+0 1
+23632
+0 2
+22782
+0 1
+27137
+0 1
+28896
+0 1
+27615
+0 1
+18860
+0 1
+24468
+0 1
+234503
+0 1
+24503
+0 1
+28391
+0 1
+223420
+0 1
+18375
+0 1
+211343
+0 1
+3398908
+0 1
+275858
+0 1
+17967
+0 1
+153949
+0 1
+217969
+0 1
+231050
+0 1
+25835
+0 1
+452164
+0 1
+23841
+0 1
+123841
+0 1
+475685
+0 1
+231963
+0 1
+245056
+0 1
+29958
+0 1
+24118
+0 1
+215263
+0 1
+135651
+0 1
+1203306
+0 1
+18348
+0 1
+224001
+0 1
+24857
+0 1
+25375
+0 1
+23455
+0 1
+32890
+0 1
+215599
+0 1
+22043
+0 1
+216488
+0 1
+105342
+0 1
+115115
+0 1
+240722
+0 1
+219850
+0 1
+768976
+0 1
+230491
+0 1
+109864
+0 1
+26964
+0 1
+35548
+0 1
+107860
+0 1
+20443
+0 1
+24870
+0 1
+27791
+0 1
+289379
+0 1
+36832
+0 1
+21653
+0 1
+20798
+0 1
+32537
+0 1
+181258
+0 1
+27308
+0 1
+26965
+0 1
+101991
+0 1
+592614
+0 1
+218405
+0 1
+106473
+0 1
+66028
+0 1
+218214
+0 1
+219993
+0 1
+21599
+0 1
+378577
+0 1
+329505
+0 1
+28682
+0 1
+24213
+0 1
+24255
+0 2
+29828
+0 1
+149425
+0 1
+30020
+0 1
+241872
+0 1
+59882
+0 1
+60995
+0 1
+1410250
+0 1
+244834
+0 1
+53036
+0 1
+25217
+0 1
+20765
+0 1
+292877
+0 1
+160532
+0 1
+23923
+0 3
+31749
+0 2
+42775
+0 1
+305010
+0 1
+401623
+0 1
+223885
+0 1
+23456
+0 1
+873258
+0 1
+25335
+0 1
+317787
+0 1
+23366
+0 1
+40319
+0 1
+70975
+0 1
+224155
+0 1
+22254
+0 1
+23097
+0 2
+214567
+0 1
+28794
+0 1
+24771
+0 1
+113026
+0 1
+30716
+0 1
+105127
+0 1
+224833
+0 1
+240915
+0 1
+19190
+0 1
+21047
+0 1
+28032
+0 1
+1030490
+0 1
+113951
+0 1
+35475
+0 1
+25946
+0 1
+223924
+0 2
+20291
+0 1
+23790
+0 2
+130512
+0 1
+37445
+0 1
+23597
+0 2
+75950
+0 1
+22169
+0 1
+1634365
+0 1
+24924
+0 1
+156034
+0 1
+39223
+0 1
+30858
+0 1
+57550
+0 1
+44754
+0 1
+246659
+0 1
+23166
+0 1
+22146
+0 1
+107725
+0 1
+24135
+0 1
+26926
+0 1
+29193
+0 1
+56722
+0 1
+1190803
+0 1
+26562
+0 1
+31511
+0 1
+106705
+0 1
+203667
+0 1
+23566
+0 1
+21582
+0 1
+23177
+0 2
+160161
+0 1
+227991
+0 1
+24516
+0 3
+412661
+0 1
+24960
+0 1
+23640
+0 1
+259549
+0 1
+18486
+0 1
+42924
+0 1
+212773
+0 1
+154575
+0 1
+20179
+0 1
+865142
+0 1
+22292
+0 1
+43911
+0 1
+861319
+0 1
+28184
+0 1
+105975
+0 1
+29582
+0 1
+297889
+0 1
+17945
+0 1
+27566
+0 1
+34049
+0 1
+30834
+0 1
+40401
+0 1
+34191
+0 1
+350285
+0 1
+18096
+0 1
+261707
+0 1
+287852
+0 1
+53967
+0 1
+25373
+0 1
+106611
+0 1
+795662
+0 1
+25459
+0 1
+115211
+0 1
+34589
+0 1
+48606
+0 1
+235296
+0 1
+25817
+0 1
+28218
+0 1
+1097734
+0 1
+32917
+0 1
+20990
+0 1
+778337
+0 1
+27929
+0 1
+29141
+0 2
+20410
+0 1
+235494
+0 1
+79271
+0 1
+41845
+0 1
+25920
+0 1
+20907
+0 1
+21372
+0 1
+25306
+0 1
+153497
+0 1
+456711
+0 1
+323492
+0 1
+23557
+0 1
+18299
+0 1
+1363720
+0 1
+220257
+0 1
+19830
+0 2
+22158
+0 1
+43576
+0 1
+129002
+0 1
+104187
+0 1
+19551
+0 2
+27489
+0 1
+27992
+0 1
+20585
+0 1
+24389
+0 1
+101646
+0 1
+25938
+0 1
+451506
+0 1
+221409
+0 1
+26074
+0 1
+30517
+0 1
+23127
+0 1
+1229078
+0 1
+1039398
+0 1
+215862
+0 1
+26630
+0 1
+24244
+0 1
+25636
+0 1
+213798
+0 1
+21253
+0 1
+29355
+0 1
+31537
+0 1
+19985
+0 1
+19683
+0 1
+100127
+0 1
+949328
+0 1
+20209
+0 2
+23834
+0 1
+20917
+0 1
+69217
+0 1
+219621
+0 1
+98554
+0 1
+215678
+0 1
+268392
+0 1
+187425
+0 1
+26142
+0 2
+40607
+0 1
+303078
+0 1
+213243
+0 1
+21134
+0 1
+41798
+0 1
+28239
+0 1
+219731
+0 1
+2336115
+0 1
+27905
+0 1
+2753559
+0 1
+296274
+0 1
+237228
+0 1
+319223
+0 1
+64715
+0 1
+116077
+0 1
+22172
+0 1
+23887
+0 1
+2115806
+0 1
+31618
+0 1
+20803
+0 2
+23098
+0 1
+111009
+0 1
+20700
+0 1
+20840
+0 1
+28325
+0 1
+259721
+0 1
+209298
+0 1
+36992
+0 1
+21000
+0 1
+216890
+0 1
+22918
+0 1
+211556
+0 1
+30351
+0 1
+236498
+0 1
+19957
+0 1
+106137
+0 1
+315850
+0 1
+105425
+0 1
+787706
+0 1
+18389
+0 1
+25004
+0 1
+22381
+0 1
+22927
+0 1
+30906
+0 3
+33827
+0 1
+235925
+0 1
+2083424
+0 1
+107786
+0 1
+20530
+0 1
+22582
+0 1
+28269
+0 1
+24727
+0 1
+1230245
+0 1
+245783
+0 1
+601809
+0 1
+27404
+0 1
+130145
+0 1
+219164
+0 1
+24247
+0 1
+20011
+0 1
+22285
+0 1
+208207
+0 1
+21196
+0 1
+22257
+0 1
+21768
+0 1
+27559
+0 1
+23791
+0 1
+22099
+0 1
+22718
+0 3
+28597
+0 1
+25580
+0 1
+222789
+0 1
+247562
+0 1
+94050
+0 1
+64449
+0 1
+233418
+0 1
+543176
+0 1
+234008
+0 1
+93217
+0 1
+2249936
+0 1
+218812
+0 1
+23813
+0 2
+23050
+0 1
+22061
+0 1
+27003
+0 1
+244455
+0 1
+23530
+0 1
+45718
+0 1
+24327
+0 1
+22164
+0 1
+18786
+0 1
+25314
+0 1
+241483
+0 1
+140591
+0 1
+884223
+0 1
+119033
+0 1
+1553952
+0 1
+21144
+0 1
+21637
+0 1
+654952
+0 1
+118610
+0 1
+234465
+0 1
+275717
+0 1
+832595
+0 1
+40124
+0 1
+25416
+0 1
+243160
+0 1
+226388
+0 1
+29960
+0 1
+1296284
+0 1
+2457028
+0 1
+26961
+0 1
+142944
+0 1
+46376
+0 1
+19286
+0 1
+25793
+0 2
+23198
+0 1
+46084
+0 1
+33440
+0 1
+106089
+0 1
+28165
+0 1
+21997
+0 1
+226932
+0 1
+22447
+0 1
+220680
+0 1
+226845
+0 1
+28138
+0 1
+29545
+0 1
+119187
+0 1
+51836
+0 1
+25864
+0 1
+199243
+0 1
+23040
+0 1
+24012
+0 1
+27501
+0 1
+251692
+0 1
+46698
+0 1
+23759
+0 1
+106903
+0 1
+225130
+0 1
+585531
+0 1
+19245
+0 1
+106377
+0 1
+27118
+0 1
+37115
+0 1
+30697
+0 1
+26981
+0 1
+265343
+0 1
+205654
+0 1
+51986
+0 1
+253326
+0 1
+27638
+0 1
+18515
+0 1
+52649
+0 1
+23407
+0 1
+25499
+0 1
+91956
+0 1
+109738
+0 1
+24580
+0 1
+256831
+0 1
+48616
+0 1
+24842
+0 1
+335212
+0 1
+121479
+0 1
+28224
+0 1
+395992
+0 1
+24465
+0 1
+23917
+0 1
+44563
+0 1
+21152
+0 1
+23683
+0 1
+66321813
+0 1
+166558
+0 1
+23448
+0 1
+19965
+0 1
+36156
+0 1
+24133
+0 1
+20558
+0 1
+3176574
+0 1
+18401
+0 2
+20682
+0 1
+37696
+0 1
+588041
+0 1
+21814
+0 1
+92392
+0 1
+244528
+0 1
+1038008
+0 1
+26825
+0 2
+22223
+0 1
+19790
+0 2
+263066
+0 1
+367728
+0 1
+125242
+0 1
+236869
+0 1
+168814
+0 1
+237985
+0 1
+30026
+0 1
+31085
+0 1
+107636
+0 1
+112896
+0 1
+41492
+0 1
+224834
+0 1
+25102
+0 1
+384755
+0 1
+25011
+0 2
+23277
+0 3
+115790
+0 1
+25087
+0 1
+43842
+0 1
+176223
+0 1
+27064
+0 1
+30962
+0 1
+1557000
+0 1
+322117
+0 1
+22700
+0 1
+543522
+0 1
+319077
+0 1
+195095
+0 1
+216357
+0 1
+41708
+0 1
+21548
+0 1
+305966
+0 1
+235773
+0 1
+21786
+0 1
+195559
+0 1
+62763
+0 1
+37787
+0 1
+19577
+0 1
+22609
+0 1
+25010
+0 1
+26743
+0 1
+41872
+0 1
+27926
+0 1
+151252
+0 1
+1627859
+0 1
+19128
+0 1
+20065
+0 1
+22374
+0 1
+31316
+0 1
+28605
+0 1
+23014
+0 1
+603794
+0 1
+27965
+0 1
+159061
+0 1
+25945
+0 1
+27547
+0 2
+33950
+0 1
+28028
+0 1
+430841
+0 1
+238977
+0 1
+115819
+0 1
+18952
+0 1
+214407
+0 1
+39877
+0 1
+239706
+0 1
+26765
+0 1
+49762
+0 1
+1156335
+0 1
+24775
+0 1
+110226
+0 1
+120609
+0 1
+42042
+0 1
+1370880
+0 1
+26500
+0 2
+24242
+0 1
+25970
+0 2
+1798858
+0 1
+106392
+0 1
+23322
+0 1
+40537
+0 1
+219699
+0 1
+25492
+0 1
+69185
+0 1
+1003388
+0 1
+21900
+0 1
+22090
+0 2
+23385
+0 1
+61341
+0 1
+18698
+0 1
+42674
+0 1
+26264
+0 1
+26892
+0 2
+19819
+0 1
+216000
+0 1
+26927
+0 1
+244636
+0 1
+19268
+0 1
+27856
+0 1
+23469
+0 1
+31313
+0 1
+98903
+0 1
+28961
+0 1
+384248
+0 1
+274234
+0 1
+25441
+0 1
+81302
+0 1
+24901
+0 1
+22995
+0 1
+260558
+0 1
+961878
+0 1
+107902
+0 1
+76011
+0 1
+33226
+0 1
+34626
+0 1
+12876462
+0 1
+36138
+0 1
+227974
+0 1
+18765
+0 1
+21809
+0 1
+32947
+0 1
+55424
+0 1
+25228
+0 1
+1308565
+0 1
+18328
+0 1
+20250
+0 1
+144971
+0 1
+24787
+0 1
+287072
+0 1
+480968
+0 1
+176010
+0 1
+23439
+0 4
+211090
+0 1
+391505
+0 1
+25036
+0 1
+219933
+0 1
+10737241
+0 1
+49136
+0 1
+21692
+0 1
+26846
+0 1
+21973
+0 1
+302827
+0 1
+26469
+0 1
+22221
+0 1
+22288
+0 1
+25215
+0 1
+1032426
+0 1
+362566
+0 1
+25395
+0 1
+237690
+0 1
+34978
+0 1
+26143
+0 1
+23641
+0 1
+12339700
+0 1
+262941
+0 1
+236985
+0 1
+304404
+0 1
+19722
+0 2
+44341
+0 1
+25500
+0 1
+33598
+0 1
+238170
+0 1
+24348
+0 1
+21627
+0 2
+22475
+0 1
+36920
+0 1
+38595
+0 1
+27799
+0 1
+482153
+0 1
+19168
+0 1
+19728
+0 1
+213189
+0 1
+54961
+0 1
+33995
+0 1
+138787
+0 1
+1524816
+0 1
+100355
+0 1
+229113
+0 1
+22385
+0 1
+1286158
+0 1
+23788
+0 1
+216822
+0 1
+111213
+0 1
+25072
+0 1
+227054
+0 1
+1057126
+0 1
+230618
+0 1
+26828
+0 1
+98334
+0 1
+140743
+0 1
+77805
+0 1
+36942
+0 1
+41322
+0 1
+31786
+0 1
+25425
+0 1
+32720
+0 1
+22720
+0 1
+36067
+0 1
+1248785
+0 1
+18444
+0 1
+260309
+0 1
+35852
+0 1
+374228
+0 1
+17926
+0 1
+20037
+0 1
+30677
+0 1
+258619
+0 1
+214281
+0 1
+255814
+0 1
+29717
+0 1
+534365
+0 1
+22151
+0 1
+24407
+0 1
+1199429
+0 1
+18707
+0 1
+33350
+0 1
+20665
+0 1
+22094
+0 1
+25307
+0 1
+38881
+0 1
+34156
+0 1
+234066
+0 1
+34865
+0 1
+44019
+0 1
+246961
+0 1
+23564
+0 1
+66089
+0 1
+26094
+0 1
+2189880
+0 1
+514910
+0 1
+30197
+0 1
+276467
+0 1
+31053
+0 1
+175154
+0 1
+21181
+0 1
+41094
+0 1
+149719
+0 1
+213207
+0 1
+21733
+0 1
+887715
+0 1
+2710861
+0 1
+28393
+0 1
+170361
+0 1
+24559
+0 2
+466979
+0 1
+234754
+0 1
+20830
+0 1
+27460
+0 1
+19746
+0 1
+222751
+0 1
+98488
+0 1
+78630
+0 1
+298494
+0 1
+27157
+0 1
+110215
+0 1
+335103
+0 1
+40404
+0 1
+34364
+0 1
+229491
+0 1
+24677
+0 1
+1248177
+0 1
+25857
+0 1
+23821
+0 1
+264340
+0 1
+19845
+0 1
+223517
+0 1
+21917
+0 1
+22705
+0 1
+267604
+0 1
+225895
+0 1
+96545
+0 1
+25950
+0 1
+28873
+0 1
+19292
+0 1
+1136699
+0 1
+24588
+0 1
+230287
+0 1
+645920
+0 1
+22001
+0 1
+104202
+0 1
+30975
+0 1
+207193
+0 1
+372051
+0 1
+18276
+0 1
+90877
+0 1
+18851
+0 1
+106117
+0 1
+1327118
+0 1
+20689
+0 2
+19658
+0 1
+426546
+0 1
+19220
+0 1
+36791
+0 1
+24322
+0 1
+23875
+0 1
+38800
+0 1
+261324
+0 1
+209144
+0 1
+109766
+0 1
+232007
+0 1
+26456
+0 1
+100147
+0 1
+116566
+0 1
+210132
+0 1
+244269
+0 1
+173297
+0 1
+20190
+0 1
+27162
+0 1
+216794
+0 1
+119046
+0 1
+237034
+0 1
+104634
+0 1
+220552
+0 1
+171390
+0 1
+259854
+0 1
+215974
+0 1
+50453
+0 1
+329140
+0 1
+240031
+0 1
+23107
+0 2
+32049
+0 1
+238829
+0 1
+24824
+0 1
+22677
+0 1
+221747
+0 1
+234501
+0 1
+213786
+0 1
+235836
+0 1
+35842
+0 1
+234106
+0 1
+26998
+0 1
+26951
+0 1
+234898
+0 1
+24270
+0 2
+98046
+0 1
+19359
+0 1
+210144
+0 1
+5422933
+0 1
+26368
+0 1
+34250
+0 1
+100582
+0 1
+208432
+0 1
+220621
+0 1
+39449
+0 1
+306343
+0 1
+29268
+0 1
+59692
+0 1
+24289
+0 1
+25091
+0 1
+225500
+0 1
+22426
+0 1
+262762
+0 1
+187320
+0 1
+23545
+0 1
+219433
+0 1
+232421
+0 1
+2418720
+0 1
+29300
+0 1
+24293
+0 1
+41994
+0 1
+25549
+0 1
+22401
+0 1
+954171
+0 1
+24565
+0 2
+23061
+0 1
+22473
+0 1
+847890
+0 1
+179950
+0 1
+23532
+0 1
+221200
+0 1
+103085
+0 1
+26453
+0 1
+25382
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
